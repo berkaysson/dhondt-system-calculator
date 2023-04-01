@@ -7,11 +7,11 @@ function calculate() {
   const party5 = document.getElementById("party5").value;
 
   const parties = [
-    { name: "Party 1", votes: party1, seats: 0 },
-    { name: "Party 2", votes: party2, seats: 0 },
-    { name: "Party 3", votes: party3, seats: 0 },
-    { name: "Party 4", votes: party4, seats: 0 },
-    { name: "Party 5", votes: party5, seats: 0 }
+    { name: "Parti 1", votes: party1, seats: 0 },
+    { name: "Parti 2", votes: party2, seats: 0 },
+    { name: "Parti 3", votes: party3, seats: 0 },
+    { name: "Parti 4", votes: party4, seats: 0 },
+    { name: "Parti 5", votes: party5, seats: 0 }
   ];
 
   for (let i = 0; i < totalSeats; i++) {
@@ -32,7 +32,7 @@ function calculate() {
   let result = "";
 
   for (let i = 0; i < parties.length; i++) {
-    result += parties[i].name + " - " + parties[i].seats + " seats<br>";
+    result += parties[i].name + " - " + parties[i].seats + " vekil<br>";
   }
 
   document.getElementById("result").innerHTML = result;
