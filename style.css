@@ -1,17 +1,17 @@
-html{
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html {
   height: 100%;
 }
 
 body {
-  font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
-  background-color: rgb(22, 42, 59);
-  color: white;
-}
-
-h1 {
+  padding: 1rem;
+  background-color: #2b2d42;
+  color: #edf2f4;
+  width: 100%;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 form {
@@ -34,20 +34,19 @@ input[type="number"] {
 }
 
 button {
-  display: block;
-  margin: 20px auto;
+  margin: 20px;
   padding: 10px 20px;
   font-size: 18px;
   font-weight: bold;
-  background-color: #008CBA;
-  color: #fff;
+  background-color: #003566;
+  color: inherit;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #006b8f;
+  opacity: 0.7;
 }
 
 #result {
@@ -55,4 +54,59 @@ button:hover {
   max-width: 500px;
   font-size: 18px;
   font-weight: bold;
+}
+
+#clean-btn {
+  font-size: 1rem;
+  padding: 10px;
+  font-weight: 400;
+  background-color: #3a555e;
+}
+
+#totalSeats {
+  width: 100px;
+}
+
+#info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+#info-container>p {
+  width: 70%;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    padding: 0.5rem;
+  }
+
+  form {
+    max-width: 90%;
+  }
+
+  label {
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
+
+  input[type="number"] {
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
+
+  button {
+    margin: 1rem;
+  }
+
+  #result {
+    max-width: 90%;
+  }
+
+  #info-container>p {
+    width: 90%;
+  }
 }
