@@ -10,21 +10,12 @@
 </head>
 <body>
   <h1>2023 yılı Milletvekili hesabı - D'Hondt Sistemi</h1>
-  <form>
+  <form id="form">
     <label for="totalSeats">Vekil sayisi:</label>
     <input type="number" id="totalSeats" name="totalSeats"><br><br>
-    <label for="party1">Parti 1 - Oy sayisi:</label>
-    <input type="number" id="party1" name="party1"><br><br>
-    <label for="party2">Parti 2 - Oy sayisi:</label>
-    <input type="number" id="party2" name="party2"><br><br>
-    <label for="party3">Parti 3 - Oy sayisi:</label>
-    <input type="number" id="party3" name="party3"><br><br>
-    <label for="party4">Parti 4 - Oy sayisi:</label>
-    <input type="number" id="party4" name="party4"><br><br>
-    <label for="party5">Parti 5 - Oy sayisi:</label>
-    <input type="number" id="party5" name="party5"><br><br>
-    <button type="button" onclick="calculate()">Hesapla</button>
   </form>
+  <button id="clean-btn" type="button" onclick="cleanForms()">Temizle</button>
+  <button type="button" onclick="calculate()">Hesapla</button>
   <div id="result"></div>
 </body>
 </html>
