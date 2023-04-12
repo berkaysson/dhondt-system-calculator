@@ -6,7 +6,6 @@ html {
 
 body {
   margin: 0;
-  padding: 1rem;
   background-color: #2b2d42;
   color: #edf2f4;
   width: 100%;
@@ -81,10 +80,6 @@ button:hover {
 }
 
 @media screen and (max-width: 600px) {
-  body {
-    padding: 0.5rem;
-  }
-
   form {
     max-width: 90%;
   }
