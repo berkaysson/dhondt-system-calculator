@@ -1,4 +1,4 @@
-let numberOfParty = 5;
+let numberOfParty = 6;
 
 function calculate() {
   const totalSeats = document.getElementById("totalSeats").value;
