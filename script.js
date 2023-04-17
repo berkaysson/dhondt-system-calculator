@@ -62,7 +62,8 @@ const createPartyRow = (party, numberOfParty, maxSeats) => {
       seatCell.classList.add("no-seat");
       seatCell.innerText = "No seat";
     } else {
-      seatCell.innerText = party.allocationHistory[j] + ". seat";
+      const { seat, percentage } = party.allocationHistory[j];
+      seatCell.innerText = `Seat ${seat} (${percentage}%)`;
     }
 
     row.appendChild(seatCell);
@@ -94,11 +95,15 @@ const displayResultsStepbyStep = (parties) => {
 
 const calculateResults = (totalSeats, parties) => {
   console.log(parties)
+
   for (let i = 0; i < totalSeats; i++) {
     let max = 0;
     let index = 0;
 
     for (let j = 0; j < parties.length; j++) {
+      if (parties[j].votes === null) {
+        continue;
+      }
       let quotient = parties[j].votes / (parties[j].seats + 1);
       if (quotient > max) {
         max = quotient;
@@ -107,9 +112,13 @@ const calculateResults = (totalSeats, parties) => {
     }
 
     parties[index].seats++;
-    parties[index].allocationHistory.push(i+1);
+    parties[index].allocationHistory.push({
+      seat: i+1,
+      percentage: ((parties[index].votes / (parties[index].seats))).toFixed(4) // calculate the percentage of votes that the party received for the current seat and add "%" symbol
+    });
   }
-  return parties;
+
+  return parties
 }
 
 const renderPartyForms = (numberOfParty) => {
