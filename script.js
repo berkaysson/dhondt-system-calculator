@@ -5,7 +5,7 @@ function calculate() {
   
   let parties = [];
   for (let i = 1; i <= numberOfParty; i++) {
-    const votes = parseInt(document.getElementById(`party${i}`).value);
+    const votes = parseFloat(document.getElementById(`party${i}`).value);
     parties.push({ name: `Parti ${i}`, votes: votes, seats: 0, allocationHistory: [] });
   }
 
