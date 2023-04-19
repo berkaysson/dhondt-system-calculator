@@ -1,5 +1,4 @@
-import { useState, useEffect } from "react";
-import AllocationHistory from "./Components/AllocationHistory";
+import { useState } from "react";
 import Header from "./Components/Header";
 import InputForm from "./Components/InputForm";
 import Results from "./Components/Results";
@@ -72,7 +71,6 @@ function App() {
         onCalculateResults={handleFormSubmit}
       />
       <Results results={electionData} />
-      <AllocationHistory />
     </div>
   );
 }

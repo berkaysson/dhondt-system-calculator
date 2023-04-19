@@ -1,6 +1,8 @@
 import React from "react";
+import AllocationHistory from "./AllocationHistory";
 
 function Result({results}) {
+  console.log(results);
   return (
     <div>
       <h2>Results</h2>
@@ -22,6 +24,7 @@ function Result({results}) {
           ))}
         </tbody>
       </table>
+      <AllocationHistory parties = {results.parties} />
     </div>
   );
 }
