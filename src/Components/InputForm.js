@@ -1,18 +1,19 @@
 import PartyForm from "./PartyForm";
 
-const InputForm = ({numberOfParty}) => {
+const InputForm = ({numberOfParty, onCalculateResults}) => {
   const partyForms = [];
 
   for (let i = 1; i <= numberOfParty; i++) {
-    partyForms.push(<PartyForm key={i} partyName={i} />);
+    partyForms.push(<PartyForm key={i} partyName={'party-'+i} />);
   }
 
   return <div>
-    <form>
+    <h2>Input Form</h2>
+    <form onSubmit={onCalculateResults}>
       <label>Vekil Sayısı</label>
-      <input type="number"></input>
+      <input type="number" id="totalSeats" name="totalSeats"></input>
       {partyForms}
-      <button>Hesapla</button>
+      <button type="submit">Hesapla</button>
     </form>
   </div>
 }
