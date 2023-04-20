@@ -9,7 +9,7 @@ const ButtonWrapper = styled.button`
   cursor: pointer;
   display: inline-flex;
   font-family: Inter, sans-serif;
-  font-size: var(--font-size-md);
+  font-size: var(--font-md);
   justify-content: center;
   letter-spacing: 3px;
   line-height: 1.2rem;
@@ -30,6 +30,7 @@ const ButtonWrapper = styled.button`
   &:hover {
     border-color: var(--dark-color);
     color: var(--dark-color);
+    letter-spacing: 6px;
   }
 
   &:active {
