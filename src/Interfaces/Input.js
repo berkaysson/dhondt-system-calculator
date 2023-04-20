@@ -15,6 +15,7 @@ const Label = styled.label`
   font-size: var(--font-sl);
   color: ${props => props.styleType === 'primary' ? 'var(--light-alt-color)' : 'var(--light-color)'};
   align-self: center;
+  font-weight: bold;
 `;
 
 const InputField = styled.input`
