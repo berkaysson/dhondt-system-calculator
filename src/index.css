@@ -42,6 +42,9 @@ body {
   background-color: var(--dark-color);
   color: var(--light-color);
   transition: all 0.2 ease-in;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 a{

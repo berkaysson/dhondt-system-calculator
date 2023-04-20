@@ -16,7 +16,7 @@ const InputFormWrapper = styled.div`
   /* max-width: 400px; */
   border-right: 1px var(--light-alt-color) solid;
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 855px) {
     border-right:none;
     border-bottom: 1px solid var(--light-alt-color);
   }

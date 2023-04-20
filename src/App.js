@@ -11,14 +11,15 @@ const NUMBER_OF_PARTIES = 10;
 
 const AppWrapper = styled.div`
   display: grid;
-  grid-template-columns: 30% 70%;
+  grid-template-columns: 35% 65%;
   align-items: flex-start;
   justify-items: center;
 
   width: 100%;
+  max-width: 1300px;
   gap: var(--gap);
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 855px) {
     display: flex;
     flex-direction: column;
     align-items: center;

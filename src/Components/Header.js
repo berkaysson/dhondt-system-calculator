@@ -8,6 +8,7 @@ const HeaderWrapper = styled.header`
   text-align: center;
   padding: var(--padding);
   width: 100%;
+  margin-bottom: 2rem;
 
   grid-column: 1/3;
   grid-row: 1/2;
