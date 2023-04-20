@@ -1,8 +1,14 @@
-const PartyForm = ({partyName, party}) => {
-  return <>
-    <label htmlFor={partyName}>{party.abb} - Oy sayisi:</label>
-    <input type="number" id={party.id} name={party.id}></input>
-  </>
-}
+import Input from "../Interfaces/Input";
+
+const PartyForm = ({ party }) => {
+  return (
+    <Input
+      labelText={`${party.abb} - Oy sayisi: `}
+      inputType={"number"}
+      id={party.id}
+      name={party.id}
+    />
+  );
+};
 
 export default PartyForm;
