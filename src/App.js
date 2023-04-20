@@ -10,12 +10,20 @@ import { PARTIES } from "./Data/partiesData";
 const NUMBER_OF_PARTIES = 10;
 
 const AppWrapper = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  align-items: flex-start;
+  justify-items: center;
+
   width: 100%;
   gap: var(--gap);
+
+  @media screen and (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
 `
 
 function App() {
