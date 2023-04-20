@@ -5,8 +5,12 @@ const HeaderWrapper = styled.header`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-align: justify;
+  text-align: center;
   padding: var(--padding);
+  width: 100%;
+
+  grid-column: 1/3;
+  grid-row: 1/2;
 
   gap: var(--gap);
 
@@ -14,8 +18,7 @@ const HeaderWrapper = styled.header`
 `
 
 const InfoWrapper = styled.section`
-  width: 70%;
-
+  width: 80%;
   & p {
     margin-top:1rem;
   }
@@ -24,8 +27,8 @@ const InfoWrapper = styled.section`
 function Header() {
   return (
     <HeaderWrapper>
-      <h1>2023 yılı Milletvekili hesaplayıcı - D'Hondt Sistemi</h1>
       <InfoWrapper>
+      <h1>2023 yılı Milletvekili hesaplayıcı - D'Hondt Sistemi</h1>
         <p>Programa vekil sayısını girin ve her parti için tahmini oy sayısını girin. "Hesapla" butonuna tıklayın ve D'Hondt sistemi ile hesaplanmış sonuçları görün.</p>
         <p>Yüzde değerleri girilebilir, ancak vekil sayısı tam sayı olacağı için 1 vekil sapması olabilir. Kesin sonuçlar için oy sayısı veya küsüratlı yüzde değerleri kullanılmalıdır.</p>
       </InfoWrapper>
