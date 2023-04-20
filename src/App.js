@@ -1,4 +1,5 @@
 import { useState } from "react";
+import styled from "styled-components";
 
 import Header from "./Components/Header";
 import InputForm from "./Components/InputForm";
@@ -7,6 +8,15 @@ import Results from "./Components/Results";
 import { PARTIES } from "./Data/partiesData";
 
 const NUMBER_OF_PARTIES = 10;
+
+const AppWrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  gap: var(--gap);
+`
 
 function App() {
   const [electionData, setElectionData] = useState({
@@ -73,7 +83,7 @@ function App() {
   };
 
   return (
-    <div>
+    <AppWrapper>
       <Header />
       <InputForm
         numberOfParty={electionData.numberOfParty}
