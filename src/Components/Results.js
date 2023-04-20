@@ -45,13 +45,13 @@ const PartySeats = styled.span`
 function Result({ results }) {
   return (
     <ResultsWrapper>
-      <h2>Results</h2>
+      <h2>SONUÇLAR</h2>
       <Table>
         <thead>
           <TableRow>
-            <TableHeader>Party</TableHeader>
-            <TableHeader>Votes</TableHeader>
-            <TableHeader>Seats</TableHeader>
+            <TableHeader>PARTİ</TableHeader>
+            <TableHeader>OY SAYISI</TableHeader>
+            <TableHeader>VEKİL SAYISI</TableHeader>
           </TableRow>
         </thead>
         <tbody>
@@ -61,10 +61,10 @@ function Result({ results }) {
                 <PartyAbbreviation>{party.abb}</PartyAbbreviation>
               </TableCell>
               <TableCell>
-                <PartyVotes>{party.votes} Votes</PartyVotes>
+                <PartyVotes>{party.votes} OY</PartyVotes>
               </TableCell>
               <TableCell>
-                <PartySeats>{party.seats} Seats</PartySeats>
+                <PartySeats>{party.seats} VEKİL</PartySeats>
               </TableCell>
             </TableRow>
           ))}

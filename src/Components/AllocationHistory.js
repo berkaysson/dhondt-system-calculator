@@ -48,7 +48,7 @@ function AllocationHistory({ parties }) {
           <AllocationList>
             {party.allocationHistory.map((allocation, index) => (
               <AllocationItem key={index}>
-                Seat <SeatNumber>{allocation.seat}</SeatNumber>
+                <SeatNumber>{allocation.seat}. Yerleşim</SeatNumber>
                 <AllocationPercentage>
                   ({allocation.percentage})
                 </AllocationPercentage>
