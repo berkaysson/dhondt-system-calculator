@@ -6,27 +6,35 @@ import styled from "styled-components";
 import Input from "../Interfaces/Input";
 
 const InputFormWrapper = styled.div`
-  text-align: center;
-  gap: var(--gap);
-  padding: var(--padding);
-  border-bottom: 1px solid var(--light-alt-color);
-  width: 100%;
-`
-
-const FormWrapper = styled.form`
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: var(--gap);
-`
+  padding: var(--padding);
+  height: 100%;
+  width: 100%;
+  /* max-width: 400px; */
+  border-right: 1px var(--light-alt-color) solid;
 
-const InputForm = ({numberOfParty, onCalculateResults, parties}) => {
+  @media screen and (max-width: 768px) {
+    border-right:none;
+    border-bottom: 1px solid var(--light-alt-color);
+  }
+`;
+
+const FormWrapper = styled.form`
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  width:100%;
+  gap: var(--gap);
+`;
+
+const InputForm = ({ numberOfParty, onCalculateResults, parties }) => {
   const partyForms = [];
 
   for (let i = 1; i <= numberOfParty; i++) {
-    partyForms.push(
-      <PartyForm key={i} party={parties[i - 1]} partyName={"party-" + i} />
-    );
+    partyForms.push(<PartyForm key={i} party={parties[i - 1]} />);
   }
 
   return (
@@ -38,13 +46,15 @@ const InputForm = ({numberOfParty, onCalculateResults, parties}) => {
             inputType="number"
             id="totalSeats"
             name="totalSeats"
+            styleType='secondary'
+            step={1}
           />
         </div>
         {partyForms}
-        <Button type="submit" text={"Hesapla"}></Button>
+        <Button type="submit" text={"HESAPLA"}></Button>
       </FormWrapper>
     </InputFormWrapper>
   );
-}
+};
 
 export default InputForm;
