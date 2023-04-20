@@ -30,7 +30,7 @@ const ButtonWrapper = styled.button`
   &:hover {
     border-color: var(--dark-color);
     color: var(--dark-color);
-    letter-spacing: 6px;
+    letter-spacing: 0.8em;
   }
 
   &:active {
