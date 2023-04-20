@@ -53,6 +53,14 @@ li{
   list-style: none;
 }
 
+h1{
+  font-size: var(--font-xlg);
+}
+
+h2{
+  font-size: var(--font-lg);
+}
+
 @media screen and (max-width: 768px) {
   :root{
     --font-lg: 1.2rem;
