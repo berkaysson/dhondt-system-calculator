@@ -5,7 +5,7 @@ function AllocationHistory({ parties }) {
     if (party.allocationHistory.length !== 0) {
       return (
         <div key={index}>
-          <h3>{party.name}</h3>
+          <h3>{party.abb}</h3>
           <ul>
             {party.allocationHistory.map((allocation, index) => (
               <li key={index}>
@@ -16,6 +16,7 @@ function AllocationHistory({ parties }) {
         </div>
       );
     }
+
     return null;
   });
 

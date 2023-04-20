@@ -16,8 +16,8 @@ function Result({results}) {
         </thead>
         <tbody>
           {results.parties.map((party) => (
-            <tr key={party.name}>
-              <td>{party.name}</td>
+            <tr key={party.abb}>
+              <td>{party.abb}</td>
               <td>{party.votes}</td>
               <td>{party.seats}</td>
             </tr>
