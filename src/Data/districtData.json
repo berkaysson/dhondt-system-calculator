@@ -1,0 +1,6422 @@
+{
+  "ADANA": {
+    "totalSeats": 15,
+    "parties": {
+      "AKP": [
+        "ÖMER ÇELİK",
+        "AHMET ZENBİLCİ",
+        "SUNAY KARAMIK",
+        "ABDULLAH DOĞRU",
+        "FARUK AYTEK",
+        "MUSTAFA YILDIZ",
+        "HASAN HÜSEYİN KUŞCU",
+        "EROL KAHRAMAN",
+        "KASIM PAMUK",
+        "FATİME YURDUSEVEN",
+        "DİNÇER DİNÇ",
+        "MELİKE DOĞAN",
+        "RAMAZAN ÇIRAK",
+        "OĞUZHAN GÜRHANİ",
+        "MEHMET KURTARAN"
+      ],
+      "MHP": [
+        "MUHARREM VARLI",
+        "AYŞE SİBEL ERSOY",
+        "MUSTAFA İZGİOĞLU",
+        "FİRDEVS CİNGÖZLER",
+        "ALEV ATAŞ",
+        "UĞUR ÖZTÜRK",
+        "BÜNYAMİN AVCI",
+        "YUSUF BAŞ",
+        "ADEM GÜNDOĞAN",
+        "AHMET REHA YEREŞEN",
+        "ZEKERİYA SİVEREKLİ",
+        "HAKAN UYKIZ",
+        "ATİLLA DUYGUN",
+        "MAHMUT TÜLEK",
+        "TUFAN BİLEN"
+      ],
+      "YRP": [
+        "SELAHATTİN BAYSAL",
+        "ERDEM GÜMÜŞ",
+        "SERDAL SÜNDÜK",
+        "ABDULLAH ABACI",
+        "MUSTAFA BOZKURT",
+        "VOLKAN ÇEVİK",
+        "UFUK ÇINGIRLAR",
+        "MUSTAFA YETER",
+        "MUSTAFA GELDİ",
+        "YUSUF AKTÜRK",
+        "İBRAHİM KÖSE",
+        "İLHAN TÜMENCİ",
+        "SALİH PINAR",
+        "İSMAİL ERDOĞAN",
+        "YUSUF AYAZ"
+      ],
+      "BBP": [
+        "AHMET ŞAHİN",
+        "GÜLDAL TOPAL",
+        "MEHMET ŞERİF DUMRUL",
+        "İRFAN TEKDEMİR",
+        "YUNUS OĞUZ",
+        "AYŞE GÜMÜŞ",
+        "ATİKE ZÜHAL CENGİZ",
+        "ALİ BULMUŞ",
+        "ZEKERİYA AKDUMAN",
+        "FATMA GEZER",
+        "CUMALİ LENGER",
+        "İSMAİL BEKŞEN",
+        "SİNAN ÜNAL",
+        "HÜSEYİN KARADAĞLI",
+        "MEHMET SELİM ÖZTAŞ"
+      ],
+      "CHP": [
+        "ORHAN SÜMER",
+        "MÜZEYYEN ŞEVKİN",
+        "BURHANETTİN BULUT",
+        "SADULLAH KISACIK",
+        "AYHAN BARUT",
+        "OSMAN BERKE DUVAN",
+        "HÜSEYİN KESER",
+        "ERKAN KARAKAYA",
+        "ORHAN TOKLU",
+        "KÜBRA ÖZBİÇER BÜYÜKİKİZ",
+        "AHMET KORKMAZ",
+        "SERCAN POLAT",
+        "SEYFETTİN CAN",
+        "EBRU YILMAZ",
+        "ELİFE MÜFTÜOĞLU"
+      ],
+      "İYİP": [
+        "AYYÜCE TÜRKEŞ TAŞ",
+        "BİLAL BİLİCİ",
+        "GÖKTÜRK BOYVADAOĞLU",
+        "MEHMET SERTAÇ DURAK",
+        "ŞULE GÖK TÜDEŞ",
+        "REMZİ OĞUZ YILMAZ",
+        "BURAK YİĞENOĞLU",
+        "İSA AYANOĞLU",
+        "BAHADIR CEYHANLI",
+        "ERDİNÇ ANTEPÜZÜMÜ",
+        "NİHAL AĞCA",
+        "ERKAN CAN",
+        "ERCAN ATALAY",
+        "SİNEM ULUDAMAR",
+        "HÜLYA AKKÖZ"
+      ],
+      "YSP/HDP": [
+        "TULAY HATIMOĞULLARI ORUÇ",
+        "FERHAT KABAİŞ",
+        "ROJBİN ÇELİK",
+        "MEHMET KARAKIŞ",
+        "DELAL MAMUK",
+        "BARIŞ KARABIYIK",
+        "ŞÜKRAN EFETÜRK",
+        "MÜNİR KORKMAZ",
+        "SEVİL ARACI",
+        "HÜSEYİN AĞAÇ",
+        "EVRİM AYMAN",
+        "SERKAN NAR",
+        "HAFİZE ATLI",
+        "NEZİR DORAK",
+        "SUAT NACAR"
+      ],
+      "TİP": [
+        "DUYGU YILMAZ",
+        "SEDA AŞKIN",
+        "AHMET FARUK ULAŞ",
+        "MESUT KOYUN",
+        "UTKU ALEMDAROĞLU",
+        "DİLA AKAR",
+        "MERYEM MAZMAN KARTAL",
+        "ONURCAN GÜRBÜZ",
+        "EDA BAHAR KOCABEYLER",
+        "HÜSEYİN EVGİN",
+        "OĞUZCAN KILIÇ",
+        "MEHMET SELİM AKMAN",
+        "MUSTAFA ÇELİK",
+        "SEMİH AKKIRCIK",
+        "EREN ARARAT"
+      ]
+    }
+  },
+  "ADIYAMAN": {
+    "totalSeats": 5,
+    "parties": {
+      "AKP": [
+        "RESUL KURT",
+        "İSHAK ŞAN",
+        "MUSTAFA ALKAYIŞ",
+        "HÜSEYİN ÖZHAN",
+        "ZİYA POLAT"
+      ],
+      "MHP": [
+        "İSMAİL GÜMÜŞ",
+        "FEVZİ ÖZTÜRK",
+        "AHMET BİLGİÇ",
+        "ASİYE BULUNDU",
+        "SIRAÇ ASLAN"
+      ],
+      "YRP": [
+        "SAİT AYBAK",
+        "İSMAİL DEMİR",
+        "SADIK YAVAŞ",
+        "FEHMİ KOYUNCU",
+        "BÜNYAMİN MEMİ"
+      ],
+      "BBP": [
+        "ABUZER ALPER GÖÇER",
+        "DİLEK ÇALIŞIR",
+        "BESİRİ ATCİ",
+        "KAMİL ERDOĞAN",
+        "İBRAHİM HALİL ASLAN"
+      ],
+      "CHP": [
+        "ABDURRAHMAN TUTDERE",
+        "KENAN DOĞAN",
+        "ADNAN AĞIR",
+        "ÖMER TURAN",
+        "SONGÜL VARKİ YILDIRIM"
+      ],
+      "İYİP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "YSP/HDP": [
+        "ALİ KENANOĞLU",
+        "İZZET KARADAĞ",
+        "YÜKSEL YÜCADAĞ",
+        "BÜLENT ÇINAR",
+        "MERYEM CERİTLİ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "AFYONKARAHİSAR": {
+    "totalSeats": 6,
+    "parties": {
+      "AKP": [
+        "ALİ ÖZKAYA",
+        "İBRAHİM YURDUNUSEVEN",
+        "HASAN ARSLAN",
+        "FERDA ERTÜRK",
+        "HAKKI ÖZTÜRK",
+        "ETHEM KARAHAN"
+      ],
+      "MHP": [
+        "MEHMET TAYTAK",
+        "YÜCEL GENÇ",
+        "MEHMET EMRE DEMİRAL",
+        "MEHMET HAKAN ÇOLPAN",
+        "İSMAİL AYDOĞUŞ",
+        "MUSTAFA GÜLLÜ"
+      ],
+      "YRP": [
+        "NEVZAT ŞARLAK",
+        "ŞÜKRÜ SARIDERE",
+        "TUNCAY YAZKAN",
+        "LÜTFİYE POLAT",
+        "YASİN KOCATAŞ",
+        "ABDULLAH ALADAŞ"
+      ],
+      "BBP": [
+        "CEMİL ÇOKER",
+        "SÜLEYMAN ÇAĞLAR",
+        "VEYSEL AVŞAR",
+        "TAMER KAYIŞOĞLU",
+        "AHMET ZİYA ÇOTUR",
+        "VEYSEL AVCI"
+      ],
+      "CHP": [
+        "BURCU KÖKSAL",
+        "FATİH AYDIN",
+        "ABİDİN YAĞCI",
+        "ALİ ARIKAN",
+        "İBRAHİM KADIOĞLU",
+        "ANIL HALİS AKAR"
+      ],
+      "İYİP": [
+        "HAKAN ŞEREF OLGUN",
+        "MUSTAFA ENİS ARABACI",
+        "OKŞAN ULUSOY EFE",
+        "GÖNÜL AR GÜNGÖR",
+        "İBRAHİM ACAR",
+        "SEBAHAT DEMİRCİGEDİĞİ"
+      ],
+      "YSP/HDP": [
+        "HELİN ELİF GEYİK",
+        "ÇAĞDAŞ SİNAN DAĞ",
+        "TÜLAY KILINÇ",
+        "MEHMET ÇALASIN",
+        "AYŞENUR DİLAN KARADEMİR",
+        "BATUHAN ÇITAKBAŞ"
+      ],
+      "TİP": [
+        "PINAR SİSLİTUNA",
+        "LALE PELİN BEYAZIT",
+        "ARDA DUVARCI",
+        "SEVİL ALTIN",
+        "CAFER ÖZTÜRK",
+        "İBRAHİM ORBAY"
+      ]
+    }
+  },
+  "AĞRI": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "RUKEN KİLERCİ",
+        "ABBAS AYDIN",
+        "MEHMET ALİ BİLGİLİ",
+        "ŞABAN POLAT"
+      ],
+      "MHP": [
+        "SALİH EMİR MUTLUER",
+        "YASİN ÖZYALÇIN",
+        "KAHRAMAN HANBABA",
+        "İBRAHİM ARPACI"
+      ],
+      "YRP": [
+        "OĞUZHAN YAMİ",
+        "HASAN BABAN",
+        "ÖMER YAŞAR",
+        "SÜLEYMAN EMİN ERİM"
+      ],
+      "BBP": [
+        "MEHMET SIDDIK ÇETİNEL",
+        "YEMEN BAYINDIR",
+        "UĞUR İKBAL SAĞLAM",
+        "MEHMET ŞİRİN HOŞER"
+      ],
+      "CHP": [
+        "İBRAHİM VAROL",
+        "ABDURRAHMAN POLAT",
+        "ERTUĞRUL ERYILMAZ",
+        "ZEKİYE ALTAY"
+      ],
+      "İYİP": [
+        "ÖZHAN KOÇİNTAR",
+        "METİN AYDEMİR",
+        "KENAN KAÇMAZ",
+        "ÇAĞDAŞ ÇELİK"
+      ],
+      "YSP/HDP": [
+        "SIRRI  SAKİK",
+        "NEJLA DEMİR",
+        "HEVAL BOZDAĞ",
+        "ZELAL YILMAZ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "AKSARAY": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "CENGİZ AYDOĞDU",
+        "HÜSEYİN ALTINSOY",
+        "SEVİNÇ KASAL",
+        "SİNAN ÖZKAN"
+      ],
+      "MHP": [
+        "RAMAZAN KAŞLI",
+        "MUSTAFA ZAVLAK",
+        "ÇİĞDEM ER",
+        "FATİH DOĞAN"
+      ],
+      "YRP": [
+        "KAZIM ŞİMŞEK",
+        "MUHAMMED TOPAÇ",
+        "MUSTAFA SELVİ",
+        "BUHARİ MÜSLÜM YETİK"
+      ],
+      "BBP": [
+        "ÜNAL BACIK",
+        "BAYRAM AKKAŞ",
+        "HÜSEYİN İŞERİ",
+        "VOLKAN ÇALI"
+      ],
+      "CHP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "İYİP": [
+        "TURAN YALDIR",
+        "ALİ ABBAS ERTÜRK",
+        "NACİYE AKKUŞ TÜRK",
+        "GÜRSEL KESKİN"
+      ],
+      "YSP/HDP": [
+        "GÜLBAHAR KARATAŞ",
+        "BERDAN BORA AKKAYA",
+        "SAYMA ARİÇ",
+        "İRFAN YAKŞİ"
+      ],
+      "TİP": [
+        "DENİZ AY",
+        "EMİR ERSİN KAHRAMAN",
+        "RAMAZAN KORKMAZ",
+        "SONER ASLAN"
+      ]
+    }
+  },
+  "AMASYA": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "HALUK İPEK",
+        "HASAN ÇİLEZ",
+        "ABDULKERİM BUĞRA ŞİMŞEK"
+      ],
+      "MHP": [
+        "MEHMET SARI",
+        "MUSTAFA GÜÇYETMEZ",
+        "MURAT SUŞEHİRLİ"
+      ],
+      "YRP": [
+        "KAZIM GÜMÜŞ",
+        "OSMAN AY",
+        "KASIM BURSA"
+      ],
+      "BBP": [
+        "AHMET GÜLTEKİN",
+        "SERDAR ATEŞ",
+        "ELİF BİLGİN"
+      ],
+      "CHP": [
+        "REŞAT KARAGÖZ",
+        "ARİF YILMAZ",
+        "ZEYNEP ATEŞ"
+      ],
+      "İYİP": [
+        "İBRAHİM MERMER",
+        "MEHMET KİP",
+        "HİKMET RUŞEN MENEKŞE"
+      ],
+      "YSP/HDP": [
+        "HAYDAR GÖRGÜ",
+        "ZÜLBİYE YILMAZ",
+        "VELİ BÖLÜK"
+      ],
+      "TİP": [
+        "MELİKE ÖZTÜRK ARDUÇ",
+        "EREN GÖNEN",
+        "DİLAVER ÖZTÜRK"
+      ]
+    }
+  },
+  "ANKARA-1": {
+    "totalSeats": 13,
+    "parties": {
+      "AKP": [
+        "YILDIRIM TUĞRUL TÜRKEŞ",
+        "JÜLİDE SARIEROĞLU",
+        "MURAT ALPARSLAN",
+        "ZEHRANUR AYDEMİR",
+        "MUSTAFA HASGÜL",
+        "EBRU KURBAN YALDIZ",
+        "MUHAMMED ABDULLAH ÖZER",
+        "OSMAN KARAASLAN",
+        "HASAN ERÇELEBİ",
+        "EYÜP GÖKHAN ÖZEKİN",
+        "EDİBE SİNEM ERSOY",
+        "İLHAMİ TEKE",
+        "MUHAMMET TARIK KUYRUKCU"
+      ],
+      "MHP": [
+        "MEVLÜT KARAKAYA",
+        "ÖNDER KAHVECİ",
+        "EYYUP YILDIZ",
+        "İBRAHİM ÇİFTÇİ",
+        "OĞUZ YILMAZ",
+        "LEVENT ÇAĞLANCI",
+        "ŞENİZ SEZGİN",
+        "YİĞİT YILMAZ",
+        "SULTAN POLAT",
+        "FUNDA GÜLERER",
+        "MURAT KARAKURT",
+        "AHMET KARAGÖZ",
+        "ADNAN YİRİK"
+      ],
+      "YRP": [
+        "CENGİZ ZOR",
+        "MEHMET KADERLİ",
+        "NUREDDİN GÜL",
+        "TEVFİK ÖZTÜRK",
+        "MURAT ÇELEBİ",
+        "ERDOĞAN CİNEVİZ",
+        "YALÇIN AKMAN",
+        "RAMAZAN MENTEŞE",
+        "ELVAN TETİK",
+        "ERCAN ÇETİN",
+        "İBRAHİM ERDOĞAN",
+        "SEYFETTİN BOĞAZLI",
+        "ABDULKADİR ATMACA"
+      ],
+      "BBP": [
+        "MİKAİL ŞAHAN",
+        "HİKMET KARACA",
+        "ADEM KARACA",
+        "SEHER KILINÇ",
+        "MAHMUT AYHAN YILDIRIM",
+        "ALBAYRAK ÜREN",
+        "MUHAMMED ÇELENK",
+        "SELÇUK ÖZDEMİR",
+        "ŞEYDANUR AYTAR",
+        "EROL KOÇOĞLU",
+        "YAVUZ BURAK BEKAROĞULLARI",
+        "TÜRKAN ÇETİN",
+        "BİLAL DURAN"
+      ],
+      "CHP": [
+        "GAMZE TAŞCIER",
+        "DENİZ DEMİR",
+        "OKAN KONURALP",
+        "SADULLAH ERGİN",
+        "MUSTAFA NEDİM YAMALI",
+        "ALİYE TİMİSİ ERSEVER",
+        "DENİZ ÇAKIR",
+        "KEMAL AKKURT",
+        "AYSUN PALALI KÖKTAŞ",
+        "ELİF TOPKAYA SEVİNÇ",
+        "HÜSEYİN CAN GÜNER",
+        "AYCAN KOÇTÜRK",
+        "ARMAĞAN ERDOĞAN"
+      ],
+      "İYİP": [
+        "KORAY AYDIN",
+        "AHMET EŞREF FAKIBABA",
+        "KEVSER OFLUOĞLU",
+        "YETKİN ÖZTÜRK",
+        "MİNE BAŞ",
+        "BURÇİN ÇİÇEK",
+        "METEHAN ERDEM",
+        "OSMAN TOPAL",
+        "ONUR HONDOROĞLU",
+        "ECE ÖZEN AKAN",
+        "AHMET ALTIPARMAK",
+        "AHMET ERENOĞLU",
+        "MUHAMMET ECEL"
+      ],
+      "YSP/HDP": [
+        "EMİRALİ TÜRKMEN",
+        "SELMA GÜRKAN",
+        "ALİ ÖZKAN",
+        "RUKEN DİLARA ZAF",
+        "ERCAN SADIK İPEKÇİ",
+        "SILA ALTUN",
+        "ÇAĞDAŞ SİNAN KÜPELİ",
+        "ZİŞAN KÜRÜM YILMAZ",
+        "MEHMET AKIN ATAUZ",
+        "HATİCE GÖZEN",
+        "BÜLENT KAYA",
+        "EROL AKKUŞ",
+        "UFUK ÖZEL"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "ANKARA-2": {
+    "totalSeats": 11,
+    "parties": {
+      "AKP": [
+        "VEDAT BİLGİN",
+        "LÜTFİYE SELVA ÇAM",
+        "ORHAN YEGİN",
+        "ZEYNEP YILDIZ",
+        "OSMAN GÖKÇEK",
+        "KURTCAN ÇELEBİ",
+        "ABDULVAHAP ŞAHİN",
+        "CİHAN ANKARA",
+        "EJDER ONURSAL",
+        "SERVET TÜRKAYIK",
+        "BURCU GÖKALP"
+      ],
+      "MHP": [
+        "SADİR DURMAZ",
+        "ÖZGÜR BAYRAKTAR",
+        "NEVİN TAŞLIÇAY",
+        "AHMET SELİM YURDAKUL",
+        "CENGİZ ŞAHİN",
+        "TARKAN TOPER",
+        "EMİNE GÜVEN ÖZTÜRK",
+        "İLKAY UYAR KABA",
+        "ÜMMÜHANİ COŞKUN",
+        "YUSUF TANIK",
+        "LEVENT UĞURLU"
+      ],
+      "YRP": [
+        "SACİD GÜNBEY",
+        "FATİH ÖZTEK",
+        "MELİH GÜNER",
+        "DİLEK ÇELİK",
+        "ABDUKADİR YILMAZ",
+        "HÜSEYİN EKİNCİ",
+        "YAHYA COŞKUNSU",
+        "İBRAHİM ÇAKIR",
+        "ERHAN ŞENGÜL",
+        "YÜKSEL BİLAL ADAK",
+        "NUH YASER YILDIRIM"
+      ],
+      "BBP": [
+        "ÜZEYİR TUNÇ",
+        "AYDIN ÖKSÜZ",
+        "HAKAN AYANTAŞ",
+        "MAHMUT BURKANKULU",
+        "ARİF ÖZDEMİR",
+        "HİLMİ KOÇAK",
+        "GAZİ UMUT GÜNEŞ",
+        "SONGÜL UZUNHARMAN",
+        "MUAMMER BAŞKAN",
+        "MUSTAFA KILIÇ",
+        "OSMAN DEMİR"
+      ],
+      "CHP": [
+        "MURAT EMİR",
+        "İDRİS ŞAHİN",
+        "SEMRA DİNÇER",
+        "İREM YAMAN",
+        "ORKUN KANBER",
+        "ALİRIZA ERBAY",
+        "ERDAL KİZİROĞLU",
+        "ÖZKAN OKTAN",
+        "FUNDA CENGİZ",
+        "EROL TOSUN",
+        "NURSEL ÖCAL"
+      ],
+      "İYİP": [
+        "ADNAN BEKER",
+        "SEDAT AKSAKALLI",
+        "UĞURHAN FERUDUN BERAT TİRYAKİ",
+        "FATMA ÖZKAN",
+        "MUHARREM BEŞİR",
+        "RAMAZAN DEĞERLİ",
+        "ERDOĞAN YILDIRIM",
+        "FATMA GÜLÜMSER BİROL",
+        "NADİR ÇETİNKAYA",
+        "ÖZCAN DAĞGEÇ",
+        "ELMAS YAĞMUR"
+      ],
+      "YSP/HDP": [
+        "İHSAN SEYLAN",
+        "GÜLTEN KAHRAMAN",
+        "EVREN ÇEVİK",
+        "SİMA ARİ",
+        "HÜSEYİN GEVHER",
+        "MUSTAFA YAVAŞOĞLU",
+        "MURAT ÇELİK",
+        "NİMET POLAT KARABUĞA",
+        "BAHYETTİN BATUR",
+        "SEVGÜL YALÇIN",
+        "SEMRA KARAKOÇ"
+      ],
+      "TİP": [
+        "ÖZGÜR AYBAŞ",
+        "YELDA  KOÇAK URFA",
+        "BEKTAŞ RIZA HANEDAN",
+        "ÖZDİL ÜÇÖZ",
+        "SEVGİ HAZIR",
+        "ASİYE SÜLLÜ",
+        "FATİH ÖZAKOĞLU",
+        "MAHİR ÜNSAL ERİŞ",
+        "BARIŞ AYDOĞAN",
+        "YERSU BÜYÜKDAĞ",
+        "MUSTAFA ERTARAKÇI"
+      ]
+    }
+  },
+  "ANKARA-3": {
+    "totalSeats": 12,
+    "parties": {
+      "AKP": [
+        "FUAT OKTAY",
+        "LEYLA ŞAHİN USTA",
+        "ÖMER İLERİ",
+        "ASUMAN ERDOĞAN",
+        "AHMET FETHAN BAYKOÇ",
+        "REMZİ ALBASAN",
+        "HALİSE ÇİFTCİ",
+        "AHMET ÇOTUK",
+        "AHMET GÜL",
+        "ERTUNÇ GÜNGÖR",
+        "HALİL HOTAMAN",
+        "CANSIN YILMAZ YAŞAR"
+      ],
+      "MHP": [
+        "YAŞAR YILDIRIM",
+        "ERKAN HABERAL",
+        "SEÇKİN ODABAŞI",
+        "FATİH ÇETİNKAYA",
+        "ÖZMEN ALP GİRAY ERDEMİR",
+        "HAYRİYE AYDIN",
+        "ERDİNÇ ÖLMEZ",
+        "YAŞAR YUKARIKIR",
+        "BAHRİ BATUHAN KURBAN",
+        "HÜSEYİN YILMAZ",
+        "UĞUR SADIK",
+        "ÖZNUR ÖZEN"
+      ],
+      "YRP": [
+        "MEHMET FATİH UĞURLU",
+        "SELÇUK GEYVELİ",
+        "BAHATTİN SUNGUR",
+        "BÜLENT OSMANAĞAOĞLU",
+        "ZEKİ UÇAR LİSANS",
+        "ÜLKÜ YENİDÜNYA",
+        "MEHMET ALTINGÖZ",
+        "MUHAMMED ENES ALPYILDIZ",
+        "AYTAÇ KILIÇ",
+        "HİLAL ÇEKMEN",
+        "ZÜMRÜDE KAYABAŞI",
+        "VEYSEL GÖRGÜLÜ"
+      ],
+      "BBP": [
+        "TEVFİK EREN",
+        "FUAT AKKAN",
+        "HAKAN ÇELEN",
+        "TUĞÇE ÖZYOLU",
+        "GÖKHAN TEZCAN",
+        "MEHMET ZAHİD AYAN",
+        "COŞGUN ÖZCAN",
+        "HASAN HÜSEYİN MUTLU",
+        "MEHMET SAMİ AKKIN",
+        "FURKAN TARIK AKTAŞ",
+        "İRFAN BİNEKCİ",
+        "TUĞÇE TAŞ"
+      ],
+      "CHP": [
+        "TEKİN BİNGÖL",
+        "UMUT AKDOĞAN",
+        "MESUT DOĞAN",
+        "AYLİN YAMAN",
+        "AHMET ERSEN ÖZSOY",
+        "MEHMET AKYÜREK",
+        "MEHTAP YÜCEL",
+        "MEMET YULA",
+        "ZEYNEP ESRA ÖZDEMİR",
+        "ÖMER YILMAZ",
+        "ELMAS KÜBRA KARACA",
+        "HASAN CEM YILMAZ"
+      ],
+      "İYİP": [
+        "YÜKSEL ARSLAN",
+        "KÜRŞAD ZORLU",
+        "FATİH KOCA",
+        "SEVİN ÇAĞLAYAN",
+        "TAMER KAYAALP",
+        "SERDAR SARGIN",
+        "MEHMET ARSLAN",
+        "KADRİYE ÜNLER",
+        "BERNA ŞAHİN",
+        "SEVGİ YALAV",
+        "MUSTAFA TOLGA ÖZTÜRK",
+        "MEHTAP DEMİRHAN ÖZDEMİR"
+      ],
+      "YSP/HDP": [
+        "METİN KILIÇ",
+        "ALİŞAN ŞAHİN",
+        "ÖZLEM BOYRAZ ÖZEL",
+        "İSMET İLKUTLU",
+        "CEMAL ALTIN",
+        "HÜSEYİN ÖZKAN",
+        "HACER KELLECİ KAPLAN",
+        "SADIK YILDIZ",
+        "DENİZ KELEŞ",
+        "MEHMET VEYSEL TEMEL",
+        "MUHBET AKIN",
+        "ÖZCAN OTİ"
+      ],
+      "TİP": [
+        "OZAN BİNGÖL",
+        "MİSKET ELİF ÇONGUR",
+        "TUĞBA GÜRSOY",
+        "HEDİYE GÜLŞEN KARAKADIOĞLU",
+        "DİLARA MAHMURE DOLGUNYÜREK",
+        "EGE ARDA ANILAN",
+        "BEKİR TUNCAY ÇELEN",
+        "OZAN YURDAKAL",
+        "MUSTAFA KOLCU",
+        "EBRU BESE",
+        "ERSİN BEYTEMUR",
+        "ILGIN BARAN ÖCAL"
+      ]
+    }
+  },
+  "ANTALYA": {
+    "totalSeats": 17,
+    "parties": {
+      "AKP": [
+        "MEVLÜT ÇAVUŞOĞLU",
+        "MUSTAFA KÖSE",
+        "TUBA VURAL ÇOKAL",
+        "KEMAL ÇELİK",
+        "ATAY USLU",
+        "İBRAHİM ETHEM TAŞ",
+        "KUDDUSİ MÜFTÜOĞLU",
+        "İZZETTİN SULTANYAR",
+        "TÜLAY BEŞKONAK ÖZÇAY",
+        "YUSUF MAYISLAR",
+        "BETÜL DEMİROK",
+        "RÜŞTÜ PEKER",
+        "FERAH NUR ÜNAL",
+        "ÖZCAN YILDIRIM",
+        "MEHMET UYSAL",
+        "YAHYA TURGUT",
+        "İBRAHİM BAYUK"
+      ],
+      "MHP": [
+        "ABDURRAHMAN BAŞKAN",
+        "HİLMİ DURGUN",
+        "MUSTAFA AKSOY",
+        "YUSUF KELLELİ",
+        "FERHAT SARIBEK",
+        "İLKNUR FİDAN",
+        "OĞUZHAN ÇELİK",
+        "YAVUZ ÇAĞLAR",
+        "SERKAN ÖZTÜRK",
+        "ALİ ÇETİN",
+        "HAYATİ PEKER",
+        "ESMAYE ÖZÖRMENOĞLU",
+        "İDRİS ÖZCAN",
+        "AHMET ALİ ÇOŞKUN",
+        "MEHMETALİ YALÇIN",
+        "MUSTAFA DORUATLI",
+        "KUTLUHAN TOZOĞLU"
+      ],
+      "YRP": [
+        "ATINÇ KORKMAZ",
+        "ALİ KÖKSAL",
+        "YUSUF İSLAM ÇELİK",
+        "ÜMİT ÖZKURT",
+        "HASAN ÇAPUN",
+        "FETHİ BAŞUSLU",
+        "VELİ DERE",
+        "PINAR TOPUZ",
+        "BURAK DOĞAN",
+        "AHMET HAKAN YUMAKOĞULLARI",
+        "OĞUZHAN YILDIRIM",
+        "MEHMET BAYRAK",
+        "İBRAHİM ÖMER REYHAN",
+        "ALİ ARSLAN",
+        "TANER TEKİN",
+        "KASIM ARSLAN",
+        "HESE AK"
+      ],
+      "BBP": [
+        "ALAATTİN ÇAKIR",
+        "ŞUAYİP BOZKURT",
+        "EBRU AKBULUT",
+        "BİLAL KARAOĞLU",
+        "İSMAİL METİN",
+        "MAHMUT TURGUT SARIYILDIZ",
+        "İBRAHİM CEYLAN",
+        "SALİH ŞENER",
+        "HASAN TEZEL",
+        "SERVET UYLAŞ",
+        "UĞUR BIYIK",
+        "MUSA KOÇ",
+        "MELİSA KARACAN",
+        "SİNAN KELEŞ",
+        "MEHMET YEMENİCİ",
+        "YILMAZ KARATEKE",
+        "ŞEYMA KAYA"
+      ],
+      "CHP": [
+        "SURURİ ÇORABATIR",
+        "CAVİT ARI",
+        "ALİYE COŞAR",
+        "SERAP YAZICI ÖZBUDUN",
+        "ŞERAFETTİN KILIÇ",
+        "MUSTAFA ERDEM",
+        "MURAT ÖZÇELİK",
+        "HASAN ERCÜMENT TAŞDEMİR",
+        "NİLÜFER DEVECİ",
+        "VAHAP TUNCER",
+        "SİBEL GEZEN",
+        "RAMİZ ATAHAN",
+        "EMRAH YURTLAK",
+        "ZELİHA MİLLİ",
+        "HATİCE KÜBRA TURAN",
+        "MÜGE GEZGİNCİ ÜNSAL",
+        "MEHMET GÖK"
+      ],
+      "İYİP": [
+        "UĞUR POYRAZ",
+        "AYKUT KAYA",
+        "ALİ ADNAN KAYA",
+        "AYŞEN KURT",
+        "SERKAN TETİK",
+        "İLHAMİ OKUDAN",
+        "MEHMET BAŞARAN",
+        "NESRİN ÜNAL",
+        "MUSA ERTUĞAN",
+        "MESUT YILMAZ",
+        "DURMUŞ KAPLAN",
+        "ARİF KOCABIYIK",
+        "BAŞAK KARATAŞ",
+        "DURMUŞ ALİ ARSLAN",
+        "NEŞE TOKER",
+        "LEVENT ÖZDEMİR",
+        "HATİCE AVCI"
+      ],
+      "YSP/HDP": [
+        "HAKKI SARUHAN OLUÇ",
+        "CANAN ÇALAĞAN",
+        "MUHSİN TAŞAR",
+        "ZÖHRE TEDİK",
+        "ERBAKAN TAĞ",
+        "HÜLYA HASBAY",
+        "SELAMİ ÖZYAŞAR",
+        "NİGAR DURMUŞ",
+        "FIRAT EREN",
+        "NERİMAN BAKIR",
+        "HASAN DOĞAN",
+        "HÜLYA AKTAŞ",
+        "EYUP UŞMA",
+        "KAMİLE YILMAZ",
+        "MAHİR DOĞAN",
+        "NEFİSE OĞUZ",
+        "SERDAR KÖŞKEROĞLU"
+      ],
+      "TİP": [
+        "YUNUS BAŞARAN",
+        "BARIŞ ATAY MENGÜLLÜOĞLU",
+        "EMİRE ULUTAŞ",
+        "TUNCAY KOÇ",
+        "EMİNE BÜYÜKNOHUTÇU",
+        "AYŞE BİLGE KALIN",
+        "EZGİ ALTINKURT SAĞLIK",
+        "KERİM UĞUR",
+        "GÜLİZAR KOCADAĞ",
+        "HASAN GİRGİNEL",
+        "AYFER GÜNEŞHAN",
+        "AHMET ELATAŞ",
+        "BETÜL ÜRKÜTEN",
+        "GAMZE PELİN DEMİRCAN",
+        "BİLGE ERK",
+        "LEYLA ÇELEBİ",
+        "MEHMET UTKAN ÇOBANOĞLU"
+      ]
+    }
+  },
+  "ARDAHAN": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "KAAN KOÇ",
+        "GÜVEN KARAKOYUN"
+      ],
+      "MHP": [
+        "ONUR ÜMİT IŞIK",
+        "NURSEN OPALAY"
+      ],
+      "YRP": [
+        "CANER ÇOBAN",
+        "MURAT ÖNGEL"
+      ],
+      "BBP": [
+        "REŞAT KITIR",
+        "ONUR FİDAN"
+      ],
+      "CHP": [
+        "ÖZGÜR ERDEM İNCESU",
+        "ASIM KARABACAK"
+      ],
+      "İYİP": [
+        "AYTEKİN KAYA",
+        "NABİRE REÇBER"
+      ],
+      "YSP/HDP": [
+        "ÖZGÜR TANIŞ",
+        "DİCLE AKTÜRK"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "ARTVİN": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "FARUK ÇELİK",
+        "AHMET ERDEM"
+      ],
+      "MHP": [
+        "METE HAN ÖZKAN",
+        "ERKAN ÇAĞATAY KURUOĞLU"
+      ],
+      "YRP": [
+        "TALİP SÜCÜ",
+        "MUZAFFER ZOR"
+      ],
+      "BBP": [
+        "GAMZE ÇELİK",
+        "AHMET YILMAZ"
+      ],
+      "CHP": [
+        "UĞUR BAYRAKTUTAN",
+        "OĞUZ KURDOĞLU"
+      ],
+      "İYİP": [
+        "HAMZA GEZMİŞ",
+        "HÜSEYİN IŞIK"
+      ],
+      "YSP/HDP": [
+        "FULDEN ŞAHİN",
+        "SABRİ VAYİÇ"
+      ],
+      "TİP": [
+        "FEYZULLAH SERKAN ACAR",
+        "TİMUR ŞİMŞEK"
+      ]
+    }
+  },
+  "AYDIN": {
+    "totalSeats": 8,
+    "parties": {
+      "AKP": [
+        "MUSTAFA SAVAŞ",
+        "SEDA SARIBAŞ",
+        "ÖMER ÖZMEN",
+        "MUSTAFA ABAK",
+        "MEHMET UMUT TUNCER",
+        "DUYGU GÖĞDE",
+        "MURAT GÜN",
+        "MEHMET ARKUN"
+      ],
+      "MHP": [
+        "DENİZ DEPBOYLU",
+        "BURAK PEHLİVAN",
+        "YUSUF KEREMİT",
+        "BURHAN UÇAŞ",
+        "ETEM YEŞİLYURT",
+        "ÇETİN DURMAZ",
+        "OSMAN GAZİ CİHANGİROĞLU",
+        "CENGİZ ATASEVEN"
+      ],
+      "YRP": [
+        "HÜSEYİN ASLAN",
+        "BÜLENT AY",
+        "EMİN ESER",
+        "ALPER SEZER",
+        "HAVVA TÜRK",
+        "DEVRİM OKTAN",
+        "ALİ KESER",
+        "CUMALİ UÇAR"
+      ],
+      "BBP": [
+        "RIDVAN EŞEN",
+        "YUNUS EMRE YILDIRIM",
+        "NAZİRE ALDIRMAZ",
+        "HASAN ERGÜL",
+        "OSMAN AKDAM",
+        "ALİ SELFİN",
+        "KAAN SARIÇAM",
+        "HASAN URCU"
+      ],
+      "CHP": [
+        "BÜLENT TEZCAN",
+        "HÜSEYİN YILDIZ",
+        "SÜLEYMAN BÜLBÜL",
+        "EVRİM KARAKOZ",
+        "NİLÜFER ÜNÜVAR",
+        "GAMZE YOLCU METİN",
+        "ZİYA YILMAZ",
+        "NEBAHAT OSKAY ÜRÜN"
+      ],
+      "İYİP": [
+        "ÖMER KARAKAŞ",
+        "AHMET ERTÜRK",
+        "TUĞÇE CANPOLAT YILMAZ",
+        "ERHAN ALGAN",
+        "SEMRA YÜCEL",
+        "FEVZİ KÖSE",
+        "CEMAL SARI",
+        "PINAR ÖNCER"
+      ],
+      "YSP/HDP": [
+        "EBRÜ GÜNAY",
+        "ROJİN TANHAN DOĞAN",
+        "SİNAN ÇAKMAKÇİ",
+        "MEDİHA AYHAN",
+        "ABDURRAHMAN SARAN",
+        "ZAFER ŞİMŞEK",
+        "ZERRİN ALPARSLAN",
+        "BÜLENT ELDEN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "BALIKESİR": {
+    "totalSeats": 9,
+    "parties": {
+      "AKP": [
+        "İSMAİL OK",
+        "BELGİN UYGUR",
+        "MUSTAFA CANBEY",
+        "ALİ TAYLAN ÖZTAYLAN",
+        "PAKİZE MUTLU AYDEMİR",
+        "MEHMET AYDEMİR",
+        "AHMET GÜR",
+        "EŞREF USLU",
+        "FATİH GÜNGÖR"
+      ],
+      "MHP": [
+        "EKREM GÖKAY YÜKSEL",
+        "HARUN ALGÜL",
+        "CEM ÖZIŞIKLIOĞLU",
+        "ABDULLAH SARBAY",
+        "İLTERİŞ KAĞAN SIKICIKOĞLU",
+        "NİHAT GEZERGİÇ",
+        "AYTEN SAK",
+        "ÖZKAN ÖZTÜRK",
+        "CEM KIVILCIM"
+      ],
+      "YRP": [
+        "FATİH İNCEBOY",
+        "KAAN BURAK ZARİFOĞLU",
+        "NEDİM SAVAŞ",
+        "ÜLFET SÖNMEZ",
+        "TANJU AKÇE",
+        "MALİK KABAKÇI",
+        "İSMAİL YILMAZ",
+        "MURAT AYGÖREN",
+        "HÜSEYİN ÖZTÜRK"
+      ],
+      "BBP": [
+        "ÇAĞATAY HERGÜL",
+        "ALİ ÖKSÜZ",
+        "MAHMUT ŞEN",
+        "ORHAN KÖMÜRCÜ",
+        "SAFİYE BAKRAKTAR",
+        "RAMAZAN SEREN",
+        "GÜL MOLLA",
+        "MESUT ERDEM",
+        "MUSTAF YILDIRIM"
+      ],
+      "CHP": [
+        "ENSAR AYTEKİN",
+        "SERKAN SARI",
+        "BURAK DALGIN",
+        "SEVAL BOZKURT",
+        "SELİM PANÇ",
+        "FATMA SALI KARABACAKOĞLU",
+        "DİLEK YALÇIN",
+        "GÜLİZAR YILDIZ",
+        "MUHARREM KOÇ"
+      ],
+      "İYİP": [
+        "TURHAN ÇÖMEZ",
+        "ÖZLEM URAL",
+        "NEDİM TUNA",
+        "KAMİL GÜLTEKİN ÖZTÜRK",
+        "NİLGÜN BAŞARAN",
+        "MUSTAFA LEMİ AYTEKİN",
+        "METİN ÖZGÜR",
+        "KEMAL GİRGİN",
+        "MEHMET ÇALIK"
+      ],
+      "YSP/HDP": [
+        "ŞEVİN COŞKUN",
+        "GÜL ERTUNAN KARAASLAN",
+        "CANŞAH ÇELİK",
+        "MEHMET ASLAN",
+        "ALİ AÇIKGÖZ",
+        "EMİN FİLİZ",
+        "FİKRİYE YADIRGI",
+        "NEVİN YILMAZ ÇAKALOZ",
+        "MEDİNE ÇAĞLIYAN"
+      ],
+      "TİP": [
+        "SERHAT SUHA ÖZCAN",
+        "MÜGE OKUR",
+        "AÇELYA SUNGUR",
+        "ŞERİFE SEVİM ŞENEL",
+        "OKTAY ŞÜKÜR",
+        "BARAN BAKIR",
+        "GİZEM YOĞURTÇU",
+        "CEM CANTAŞ",
+        "FATİH NİYAZİOĞLU"
+      ]
+    }
+  },
+  "BARTIN": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "YUSUF ZİYA ALDATMA",
+        "TURHAN KALAYCI"
+      ],
+      "MHP": [
+        "CEMAL AKIN",
+        "SEZAİ HANGİŞİ"
+      ],
+      "YRP": [
+        "ZİVER GEBİÇ",
+        "YASİN KALEM"
+      ],
+      "BBP": [
+        "MUAMMER HALİS ÇELİK",
+        "ZEHRANUR KURT"
+      ],
+      "CHP": [
+        "AYSU BANKOĞLU",
+        "CEYDA SARGIN"
+      ],
+      "İYİP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "YSP/HDP": [
+        "SOLMAZ ÖZLEN",
+        "ALİ ÖZKAN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "BATMAN": {
+    "totalSeats": 5,
+    "parties": {
+      "AKP": [
+        "FERHAT NASIROĞLU",
+        "SERKAN RAMANLI",
+        "MURAT GÜNEŞTEKİN",
+        "MUHSİNE BOZKURT",
+        "FIRAT TUNÇ"
+      ],
+      "MHP": [
+        "RECEP ÇELİKKAYA",
+        "TEKİN GÜÇLÜ",
+        "HÜSEYİN KAZAK",
+        "HAKAN ATALA",
+        "ALPEREN ÖZDEMİR"
+      ],
+      "YRP": [
+        "ZİYAÜLHAK YAMAÇ",
+        "AHMET SEYİDOĞLU",
+        "FETHULLAH TAŞ",
+        "İBRAHİM HALİL YALÇIN",
+        "ŞAKİR SÖNMEZSOY"
+      ],
+      "BBP": [
+        "MELEK BAĞLAMIŞ",
+        "HÜSEYİN SEYİDOĞLU",
+        "CEMALETTİN BARLAK",
+        "ENVER ALTUNER",
+        "MUSTAFA GÜNEL"
+      ],
+      "CHP": [
+        "HÜSEYİN YAŞAR",
+        "DİCLE ARSLAN",
+        "ORHAN EKMEN",
+        "ABDULLAH POLAT",
+        "METİN BANLI"
+      ],
+      "İYİP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "YSP/HDP": [
+        "KESKİN BAYINDIR",
+        "ZEYNEP ODUNCU",
+        "MEHMET RÜŞTÜ TİRYAKİ",
+        "NURTEN ERTUĞRUL",
+        "EKREM BARAN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "BAYBURT": {
+    "totalSeats": 1,
+    "parties": {
+      "AKP": [
+        "ORHAN ATEŞ"
+      ],
+      "MHP": [
+        "BEKİR KASAP"
+      ],
+      "YRP": [
+        "OSMAN GÖRER"
+      ],
+      "BBP": [
+        "MUHAMMET ŞİPAL"
+      ],
+      "CHP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "İYİP": [
+        "KARABEY KADRİ KARAOĞLU"
+      ],
+      "YSP/HDP": [
+        "MESUT BİLGİ"
+      ],
+      "TİP": [
+        "AYSEL SİLİ"
+      ]
+    }
+  },
+  "BİLECİK": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "HALİL ELDEMİR",
+        "HÜSNÜ ERSOY"
+      ],
+      "MHP": [
+        "İBRAHİM BAĞ",
+        "TACETTİN GÜVEN"
+      ],
+      "YRP": [
+        "AHMET ÖZVATAN",
+        "CAFER ASLANBOĞA"
+      ],
+      "BBP": [
+        "MURAT ÖNAL",
+        "MUSTAFA İBİŞ"
+      ],
+      "CHP": [
+        "YAŞAR TÜZÜN",
+        "VEDAT KAZICI"
+      ],
+      "İYİP": [
+        "HALİL AYDOĞDU",
+        "EREN GÜVEN"
+      ],
+      "YSP/HDP": [
+        "HÜSEYİN AĞLAR",
+        "ZÜLEYHA ÇENGEL"
+      ],
+      "TİP": [
+        "CENK DİK",
+        "CEYLAN ÖZÇELİK"
+      ]
+    }
+  },
+  "BİNGÖL": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "FEYZİ BERDİBEK",
+        "ZEKİ KORKUTATA",
+        "FURKAN UFUK COŞKUN"
+      ],
+      "MHP": [
+        "METİN KESKİN",
+        "MUHAMMED KÖSE",
+        "EKREM ÇİFTÇİ"
+      ],
+      "YRP": [
+        "MEHMET ZİYA BUYANKARA",
+        "İSMAİL YETER",
+        "ERSOY ÖTEN"
+      ],
+      "BBP": [
+        "AYDIN BUCUKA",
+        "AHMET ERYATAN",
+        "ŞENOL TÜNCER"
+      ],
+      "CHP": [
+        "SERDAR ATALAY",
+        "MEHMET CANLI",
+        "İLHAMİ GELEN"
+      ],
+      "İYİP": [
+        "HASAN KIZILBOĞA",
+        "SEMA TANİN",
+        "AHMET ARPA"
+      ],
+      "YSP/HDP": [
+        "ÖMER FARUK HÜLAKÜ",
+        "CEMİLE TURHALLI BALSAK",
+        "FARUK ARIS"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "BİTLİS": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "TURAN BEDİRHANOĞLU",
+        "MUAZ ERGEZEN",
+        "CEBRAİL YAKIŞIR"
+      ],
+      "MHP": [
+        "GÖKHAN İDİZ",
+        "OSMAN GÜLSAR",
+        "ABDULRAHİM SUBAŞI"
+      ],
+      "YRP": [
+        "AYHAN USLU",
+        "ÖZCAN KAPLAN",
+        "MUHSİN ERENSAYIN"
+      ],
+      "BBP": [
+        "ZEYLİN GÜZELTAŞ",
+        "ZÜBEYDE ALTIKUŞAK",
+        "YILMAZ ŞENGÜL"
+      ],
+      "CHP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "İYİP": [
+        "EDİP SAFTER GAYDALI",
+        "LEVENT NASIR",
+        "MAŞALLAH ASLAN"
+      ],
+      "YSP/HDP": [
+        "HÜSEYİN OLAN",
+        "SEMRA ÇAĞLAR GÖKALP",
+        "ENVER BARİN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "BOLU": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "YÜKSEL COŞKUNYÜREK",
+        "ARZU AYDIN",
+        "KAZIM KONAK"
+      ],
+      "MHP": [
+        "İSMAİL AKGÜL",
+        "RAHMİ AKSOY",
+        "MUHİTTİN ÖZEL"
+      ],
+      "YRP": [
+        "SADETTİN BASKIN",
+        "HAKAN ASLAN",
+        "YUSUF TEK"
+      ],
+      "BBP": [
+        "AHMET EMİN SERİN",
+        "YAŞAR İMAMOĞLU",
+        "KÜBRA YILMAZ"
+      ],
+      "CHP": [
+        "TÜRKER ATEŞ",
+        "MEHMET BURAK COP",
+        "ZUHAL IŞIN"
+      ],
+      "İYİP": [
+        "AHMET ÖRNEKBAŞ",
+        "İRFAN BAYAR",
+        "SUAT ORHAN"
+      ],
+      "YSP/HDP": [
+        "GÜNAY BATUR",
+        "ÇİÇEK TUTUŞ",
+        "ÖYKÜ ILGIN GÜRSES"
+      ],
+      "TİP": [
+        "FİGEN ÇAKIR",
+        "ERAYCAN SAFA",
+        "ÖMER BARIŞ SAFİ"
+      ]
+    }
+  },
+  "BURDUR": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "ADEM KORKMAZ",
+        "MUSTAFA OĞUZ",
+        "VOLKAN MENGİ"
+      ],
+      "MHP": [
+        "SERVET OLPAK",
+        "ANDAÇ ÖZDEMİR",
+        "ESMA ÖZDAŞLI"
+      ],
+      "YRP": [
+        "HALİL ASRAV",
+        "KADİR BAYBAŞ",
+        "SELÇUK GÜNEŞ"
+      ],
+      "BBP": [
+        "UFUK KAZANCI",
+        "BİLAL AYDIN",
+        "HAVVA ERCAN"
+      ],
+      "CHP": [
+        "İZZET AKBULUT",
+        "HÜLYA GÜMÜŞ",
+        "SÜLEYMAN ERMAN"
+      ],
+      "İYİP": [
+        "FARUK ERKAN",
+        "SAFA SÖNMEZ",
+        "MEHMET YAVAŞ"
+      ],
+      "YSP/HDP": [
+        "REYHAN YİĞİT",
+        "MURAT YANMAZ",
+        "SEMRA BAYSAL"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "BURSA-1": {
+    "totalSeats": 10,
+    "parties": {
+      "AKP": [
+        "EFKAN ALA",
+        "REFİK ÖZEN",
+        "AHMET KILIÇ",
+        "EMİNE YAVUZ GÖZGEÇ",
+        "MUSTAFA YAVUZ",
+        "AHMET YILDIZ",
+        "İRFAN AKKAYA",
+        "ÖMER FARUK TEMİZTÜRK",
+        "SEMİH PEKSERT",
+        "MİHRİMAH KOCABIYIK"
+      ],
+      "MHP": [
+        "İSMET BÜYÜKATAMAN",
+        "AHMET BEYGİRCİ",
+        "YAŞAR TÜRK",
+        "KORKUT AKTAŞ",
+        "METİN ÇORAKLİ",
+        "CANAN TARÇIN",
+        "RİDVAN KILIÇOĞLU",
+        "SUAT ERMİŞ",
+        "EROL COMART",
+        "TUĞBA ŞENTÜRK YILMAZ"
+      ],
+      "YRP": [
+        "MEHMET ALTINÖZ",
+        "AHMET GÖK",
+        "KENAN YİRİKOĞULLARI",
+        "YUNUS KOÇAK",
+        "NECATİ ASLAN",
+        "SERAP BİLGİN",
+        "FATİH ŞAHİNLER",
+        "ALİ YAVAŞ",
+        "MUSTAFA PEHLİVAN",
+        "SEYFULLAH KARAKAYA"
+      ],
+      "BBP": [
+        "EKREM ALFATLI",
+        "İSMAİL DEMİR",
+        "HARUN ÇİÇEK",
+        "ŞABAN DEMİR",
+        "KEMAL AKYILDIZ",
+        "İSMAİL ASLAN",
+        "NAİL ARTUÇ",
+        "MEHMET ERHAN ALTAN",
+        "KADRİYE ÖZ",
+        "MEHMET CAN ÖZER"
+      ],
+      "CHP": [
+        "KAYIHAN PALA",
+        "NURHAYAT ALTACA KAYIŞOĞLU",
+        "MEHMET ATMACA",
+        "İSMET KARACA",
+        "JÜLİDE AKKÖPRÜ",
+        "ALPASLAN YILDIZ",
+        "ENGİN TAMER DEDE",
+        "SERKAN ÖZTÜRK",
+        "ÖZGÜR YILDIZ",
+        "CANAN AKIN ERDEM"
+      ],
+      "İYİP": [
+        "YÜKSEL SELÇUK TÜRKOĞLU",
+        "SEVİNÇ ATABAY",
+        "YÜKSEL YILMAZ",
+        "ŞEYDA ŞAHİN",
+        "YAHYA BAHADIR",
+        "BİRGÜL YILDIZ GÜNAY",
+        "RESÜL KAPLAN",
+        "ÖZGÜR ŞİMŞEK",
+        "EVREN ŞAHİN",
+        "FEYZA TEMEL"
+      ],
+      "YSP/HDP": [
+        "CEYLAN EROL ERDOĞAN",
+        "CAHİT KIRKAZAK",
+        "SÜMBÜL ORHAN",
+        "KEMALETTİN YILDIZ",
+        "MAHKUM TAŞ",
+        "RÜSTEM AVCI",
+        "ABDULKADİR BAYDUR",
+        "MEHMET ALİ DOĞU",
+        "BERKAY AKKUŞ",
+        "SERHAT ÇELİK"
+      ],
+      "TİP": [
+        "MAHMUT HAKAN KOÇAK",
+        "HELİN İLCEK",
+        "ERHAN İMRALI",
+        "SELAHADDİN HABİB GÖBELEZ",
+        "TİMUR TORGAY",
+        "EYLEM GÜN GÜNEŞ",
+        "SUAT ŞENOCAK",
+        "BUSENUR ÇOBAN",
+        "ADİ MURAT DEMİRHAN",
+        "REFAYİ REFAYİOĞLU"
+      ]
+    }
+  },
+  "BURSA-2": {
+    "totalSeats": 10,
+    "parties": {
+      "AKP": [
+        "MUSTAFA VARANK",
+        "AYHAN SALMAN",
+        "OSMAN MESTEN",
+        "EMEL GÖZÜKARA DURMAZ",
+        "MUHAMMET MÜFİT AYDIN",
+        "MUSTAFA YILDIRIM",
+        "FUAT ALPASLAN",
+        "SÜLEYMAN ÇELİK",
+        "ASUMAN AKÇAY SAKALLI",
+        "MUSTAFA KAYA"
+      ],
+      "MHP": [
+        "FEVZİ ZIRHLIOĞLU",
+        "MUHAMMET TEKİN",
+        "AYHAN ÖNAL",
+        "BİLAL DOGAN",
+        "MUSTAFA NARMANLI",
+        "ALİ BAHADIR",
+        "AYDIN SANCAR",
+        "ALPARSLAN KARAASLAN",
+        "GAMZE NUR SARĞIN",
+        "GÜLSEREN ÖZBEK"
+      ],
+      "YRP": [
+        "NAİM ÖZTÜRK",
+        "İBRAHİM VİDİNLİOĞULLARI",
+        "GÖZDE ÇELİK",
+        "ÜMİT YILGIN",
+        "CELALETTİN ERGÜN",
+        "ERGİN YILMAZ",
+        "FEHİM TOPÇU",
+        "KADRİYE SAYIN",
+        "NİMETULLAH NARMAN",
+        "MEHMET KULE"
+      ],
+      "BBP": [
+        "CEYHAN İNCİ",
+        "SELEHATTİN ÇELT",
+        "AYDAN AYHAN",
+        "KADİR TAŞ",
+        "HASAN USLU",
+        "İSMAİL ERDEM",
+        "SONER GEMLİK",
+        "HÜSEYİN YENİDOĞAN",
+        "SERDAR KOÇAK",
+        "OZAN AYDIN"
+      ],
+      "CHP": [
+        "HASAN ÖZTÜRK",
+        "CEMALETTİN KANİ TORUN",
+        "ORHAN SARIBAL",
+        "ERKAN DÖNMEZ",
+        "ŞAHİN SEVİNÇ",
+        "FUNDA TÜRKCOŞ PEKİNER",
+        "ENDER TEKE",
+        "HURİYE CANAN ÇELİK TUNAR",
+        "MEHMET ÖNDER MUTLU",
+        "SEDA BOZDAĞ GÜZELKAYA"
+      ],
+      "İYİP": [
+        "HASAN TOKTAŞ",
+        "İBRAHİM ALAGÖZ",
+        "ORHAN ÖZER",
+        "SERMİN CAN ÖZENSOY",
+        "ERDAL AY",
+        "HATİCE DENİZ",
+        "ZAFER MİLLİ",
+        "OSMAN ATALAY AKMAN",
+        "ENVER YENİÇERİ",
+        "DİLEK DURAK"
+      ],
+      "YSP/HDP": [
+        "NECDET İPEKYÜZ",
+        "AYTEN AVDAN",
+        "RASİM ÇELİK",
+        "EYLEM DİNDAROĞLU",
+        "KEMALETTİN DOĞAN",
+        "YÜCEL YENTÜRK",
+        "BAHAR TOPRAK",
+        "HAKİM TOKMAK",
+        "MAZLUM TAŞ",
+        "MEHMET BURAK KOYUNCU"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "ÇANAKKALE": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "AYHAN GİDER",
+        "JÜLİDE İSKENDEROĞLU",
+        "NAZIM HİKMET KESKİNER",
+        "HALİL ZAHİT MERT"
+      ],
+      "MHP": [
+        "SITKI KEÇECİ",
+        "NAHİT ÖZKAN",
+        "HASAN BABADAĞLI",
+        "FATİH ŞAHİN"
+      ],
+      "YRP": [
+        "CAHİT BOLELLİ",
+        "ABDÜLKADİR PEHLİVANOĞLU",
+        "SERKAN KURU",
+        "YÜKSEL ÜSTÜN"
+      ],
+      "BBP": [
+        "LEVENT ÇAVUŞ",
+        "DAVUT AYDIN",
+        "MUHAMMED ALİ DAĞ",
+        "ENES ŞAHİN"
+      ],
+      "CHP": [
+        "İSMET GÜNEŞHAN",
+        "ÖZGÜR CEYLAN",
+        "YEŞİM KARADAĞ",
+        "TUĞBERK GÜZEL"
+      ],
+      "İYİP": [
+        "RIDVAN UZ",
+        "CENGİZ YALÇIN",
+        "ZİŞAN ÖZAYDIN",
+        "MEVLÜT İNANÇ"
+      ],
+      "YSP/HDP": [
+        "ADİLE YALÇIN",
+        "SİNAN EKİNCİ",
+        "SEDA ALÇINAR",
+        "ERGİN FİDAN"
+      ],
+      "TİP": [
+        "AYFER GÖL",
+        "REYHAN ÇALIŞKAN",
+        "MUHHAMED YAVAŞ",
+        "DORUK ULAŞ ÖZDEMİR"
+      ]
+    }
+  },
+  "ÇANKIRI": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "MUHAMMET EMİN AKBAŞOĞLU",
+        "SALİM ÇİVİTCİOĞLU"
+      ],
+      "MHP": [
+        "PELİN YILIK",
+        "İSMAİL ARSLANER"
+      ],
+      "YRP": [
+        "MUHAMMED FATİH MÜJDECİ",
+        "METİN ERDOĞMUŞ"
+      ],
+      "BBP": [
+        "AYBARS ŞENTÜRK",
+        "YASEMİN BAĞDU"
+      ],
+      "CHP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "İYİP": [
+        "MEHMET ALİ KARAMEMİŞ",
+        "OYA YAKIN"
+      ],
+      "YSP/HDP": [
+        "HAKAN CAN NESLİOĞLU",
+        "MELİHA DURMUŞ"
+      ],
+      "TİP": [
+        "SEVGİ ÖZLEM GÜLMEZ",
+        "MURAT ÖZBEK"
+      ]
+    }
+  },
+  "ÇORUM": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "YUSUF AHLATCI",
+        "OĞUZHAN KAYA",
+        "ZEKİ GÜL",
+        "RAMAZAN KELEPİRCİOĞLU"
+      ],
+      "MHP": [
+        "VAHİT KAYRICI",
+        "AHMET KURTBAŞ",
+        "İSMAİL LEK",
+        "METE ÇAKI"
+      ],
+      "YRP": [
+        "YAKUP TAŞ",
+        "YASİN GÜLER",
+        "ÖMER KARSLI",
+        "FERHAT YEĞEN"
+      ],
+      "BBP": [
+        "FEHMİ GÜNEY",
+        "SALİM YILDIRIM",
+        "HASAN KARGACI",
+        "RIDVAN ALCA"
+      ],
+      "CHP": [
+        "MEHMET TAHTASIZ",
+        "BEKİR ÖZSAÇMACI",
+        "BURÇİN SOLMAZ POLAT",
+        "SEYİT AHMET GÜHER"
+      ],
+      "İYİP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "YSP/HDP": [
+        "ŞEREF KARATAŞ",
+        "FADİME GÜLER ELİK",
+        "ÜMİT KÜÇÜKBAYATLILI",
+        "MUHARREM ÖZÜNEL"
+      ],
+      "TİP": [
+        "HABİBE ALKAN",
+        "CANSEVER EKER",
+        "CAN NESİMİ KARABİBER",
+        "ASMİN NİMET SİNGEZ"
+      ]
+    }
+  },
+  "DENİZLİ": {
+    "totalSeats": 7,
+    "parties": {
+      "AKP": [
+        "CAHİT ÖZKAN",
+        "ŞAHİN TİN",
+        "NİLGÜN ÖK",
+        "EKREM BAŞER",
+        "OSMAN YÜCELİŞ",
+        "BİRTAN ŞAHAN",
+        "FERİDE KABADAYILAR"
+      ],
+      "MHP": [
+        "FERUDUN ÜNAL",
+        "YUSUF GARİP",
+        "EBRU LEMAN KALKAN",
+        "EMRE ERDOĞAN",
+        "MEHMET ALTINTAŞ",
+        "RAŞİT ÖZDEMİR",
+        "HÜSEYİN YÜKLET"
+      ],
+      "YRP": [
+        "AZİZ KALAYCI",
+        "İDRİS OKTAY",
+        "BAYRAM ALİ GEDİK",
+        "MELAHAT BERK",
+        "FERİT ÇETİN",
+        "UĞUR KARAKAYA",
+        "OSMAN KAÇAR"
+      ],
+      "BBP": [
+        "İSMAİL KARATEKE",
+        "RAMAZAN KARAHAN",
+        "ALİ GENÇ",
+        "SELMAN AŞIK",
+        "ŞERİFE TETİK",
+        "RAMAZAN SUBAY",
+        "YUSUF DÖNMEZ"
+      ],
+      "CHP": [
+        "GÜLİZAR BİÇER KARACA",
+        "ŞEREF ARPACI",
+        "SEMA SİLKİN ÜN",
+        "ADİL DEMİR",
+        "SEDAT DEMİRCİ",
+        "İLHAN ÖZCAN",
+        "AYŞE HAZER"
+      ],
+      "İYİP": [
+        "YASİN ÖZTÜRK",
+        "İBRAHİM ŞENEL",
+        "KADİR TATIK",
+        "ŞEBNEM BABABALIM YAĞCI",
+        "UĞUR ÇİZMECİOĞLU",
+        "VEYSEL KARAÇOR",
+        "NAZLI YAŞATÜRK"
+      ],
+      "YSP/HDP": [
+        "ABDULLAH KOÇ",
+        "ŞENOL AKYOL",
+        "MAHİDE ÖZTÜRK",
+        "MURAT ENGİZ",
+        "SONGÜL AKKOYUN",
+        "ELİF KAVİLİ",
+        "HAVVA MEŞE"
+      ],
+      "TİP": [
+        "YAĞMUR YALÇIN",
+        "COŞKUN ÇETİN",
+        "PELİN ŞEN",
+        "SERDAL ATLAMIŞ",
+        "SERDAR AŞÇI",
+        "İSMAİL EGEMEN SÖYLEMEZ",
+        "HATİCE KİRİŞ"
+      ]
+    }
+  },
+  "DİYARBAKIR": {
+    "totalSeats": 12,
+    "parties": {
+      "AKP": [
+        "MEHMET GALİP ENSARİOĞLU",
+        "MEHMET SAİD YAZ",
+        "SUNA KEPOLU ATAMAN",
+        "AYŞEGÜL BİÇER",
+        "AZİZ ALPER BİTEN",
+        "ABDULVAHİT GÜVENSEN",
+        "FEYZULLAH ŞİMŞEK",
+        "HATİCE SEYDAOĞLU",
+        "ABDURRAHMAN KİKİZADE",
+        "TAHSİN ARSLAN",
+        "MUHAMMED AHMET MAHSUM MELİKOĞLU",
+        "SEYİD KUTUP YILDIRIM"
+      ],
+      "MHP": [
+        "HASAN ÖZMEN",
+        "AHMET GÜZEL",
+        "ZÜLKÜF ARSLAN",
+        "GÜLŞAH SUVARİOĞLU",
+        "FEYZİ YİGİTKAN",
+        "İLKNUR YILMAZ",
+        "AHMET TUNCALP",
+        "MAHSUM YILMAZ",
+        "ABDURRAHMAN MUSTAFA UĞURLU KÖPRÜ",
+        "GÖKALP KAYACAN",
+        "OSMAN SAĞSÖZ",
+        "SERKAN ALYAPRAK"
+      ],
+      "YRP": [
+        "ALİ ERDEM",
+        "MEHMET ALİ AYHAN",
+        "MEHMET GÜMÜŞ",
+        "MEHMET ZAFER HATİPOĞLU",
+        "NEZİHE TAŞKIN",
+        "MEHMET AKİF BABATLI",
+        "ŞÜKRÜ DİNÇ",
+        "ABDURRAHMAN ZENGİN",
+        "MEHMET ARAS",
+        "KEREM DEMİR",
+        "YUSUF DEMİRKOL",
+        "KADİR AYTEMÜR"
+      ],
+      "BBP": [
+        "GÜNAY YAY",
+        "EMİNE TUTUŞ",
+        "ABBAS OKMAN",
+        "CENGİZ İDEM",
+        "ŞEYHMUS SAKALLI",
+        "KADER AYDIN",
+        "BARIŞ KIZILGÜL",
+        "CAHİT GÜZEL",
+        "HİKMET GİRAY",
+        "BARAN CAN",
+        "HAVA SOLMAZ",
+        "ABDULSAMED ŞENGÜN"
+      ],
+      "CHP": [
+        "MUSTAFA SEZGİN TANRIKULU",
+        "ALİ İHSAN MERDANOĞLU",
+        "ABDURRAHMAN ERGİN",
+        "CEVDET NASIRANLI",
+        "İSMAİL AKYIL",
+        "GÖNÜL ÖZEL",
+        "LALEŞ ERTUĞRUL UYSAL",
+        "ESRA ARSLAN",
+        "MAHİR YILMAZ",
+        "MEHMET ALİ ÖZMEN",
+        "ZEYNEP DENİZ ERK",
+        "ÖZLEM KAYA"
+      ],
+      "İYİP": [
+        "VEJDİN ENSARİOĞLU",
+        "MUSTAFA ŞENAY CANORUÇ",
+        "ERDAL YILMAZ",
+        "HÜSEYİN GÜRAN",
+        "SEÇİL AKIN",
+        "MEHMET EMİN EKİN",
+        "AHMET BAŞARİ",
+        "KENAN KAYA",
+        "EMRULLAH ÇERİ",
+        "YAKUP ÖZKAYA",
+        "NAZIM KAYA",
+        "ERKAN YILMAZ"
+      ],
+      "YSP/HDP": [
+        "BERDAN ÖZTÜRK",
+        "HALİDE TÜRKOĞLU",
+        "OSMAN CENGİZ ÇANDAR",
+        "ADALET KAYA",
+        "SERHAT EREN",
+        "SEVİLAY ÇELENK ÖZEN",
+        "MEHMET KAMAÇ",
+        "CEYLAN AKÇA CUPOLO",
+        "MEHMET EMİN AKTAR",
+        "AZAD BARIŞ",
+        "SONGÜL AYTEK AVŞAR",
+        "SAMET MENGÜÇ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "DÜZCE": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "AYŞE KEŞİR",
+        "ERCAN ÖZTÜRK",
+        "HAKAN KUŞÇUOĞLU"
+      ],
+      "MHP": [
+        "ÜMİT YILMAZ",
+        "RÜMEYSA ATASEVEN",
+        "ÖMER ALBAYRAK"
+      ],
+      "YRP": [
+        "NEZİR MERTTÜRK",
+        "ÇİĞDEM KULALI SEÇKİN",
+        "MİTHAT KÜTÜKOĞLU"
+      ],
+      "BBP": [
+        "ONUR ÇETİN",
+        "MUSTAFA KALENDER",
+        "MERTCAN ÇELİK"
+      ],
+      "CHP": [
+        "TALİH ÖZCAN",
+        "HATİCE ASLIHAN AKBAL TÜYSÜZ",
+        "JALE UZUNHASAN"
+      ],
+      "İYİP": [
+        "ADAY GÖSTERİLMEDİ"
+      ],
+      "YSP/HDP": [
+        "EKİM DEVRİM ÇAPARTAŞ",
+        "MUSTAFA ADAY",
+        "BERİVAN BUDAKBEYOĞLU"
+      ],
+      "TİP": [
+        "ALEV İŞLER",
+        "IRMAK SAÇKESEN",
+        "EBRU ŞEN"
+      ]
+    }
+  },
+  "EDİRNE": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "FATMA AKSAL",
+        "TARIK HATİPLER",
+        "ERDİNÇ ÇEKİÇ",
+        "SEVDA NUR KURBAN"
+      ],
+      "MHP": [
+        "ALİ ÖZER",
+        "AYVAZ YALAZA",
+        "HATİCE SER",
+        "HÜLYA BALKAN"
+      ],
+      "YRP": [
+        "AYKUT GÜVENŞ",
+        "HAKAN ÇALIŞKAN",
+        "TUGAY SÜTCAN",
+        "İSMAİL ORAL"
+      ],
+      "BBP": [
+        "SEYFİ GÜLER",
+        "BAYRAM ALİ TİRİ",
+        "CANSU POLAT",
+        "SEDA KORKUSUZ"
+      ],
+      "CHP": [
+        "EDİZ ÜN",
+        "AHMET BARAN YAZGAN",
+        "UFUK KANIŞKAN",
+        "AHMET ERKEN"
+      ],
+      "İYİP": [
+        "MEHMET AKALIN",
+        "DİLEK KIRMIZI",
+        "HASAN HAKAN ŞAHİN",
+        "HÜSEYİN ERKİN"
+      ],
+      "YSP/HDP": [
+        "HANIM GÜZEL",
+        "SERDAL ZIMBA",
+        "ÖZLEM ÖZDEMİR",
+        "ERDAL AYDEMİR"
+      ],
+      "TİP": [
+        "GÜRAY MUHÇU",
+        "CANER SOYDAN",
+        "ZELAL ÖZCAN",
+        "İLHAN BİLECİK"
+      ]
+    }
+  },
+  "ELAZIĞ": {
+    "totalSeats": 5,
+    "parties": {
+      "AKP": [
+        "EROL KELEŞ",
+        "EJDER AÇIKKAPI",
+        "MAHMUT RIDVAN NAZIRLI",
+        "MÜCAHİT YANILMAZ",
+        "HASAN MURAT ÖZ"
+      ],
+      "MHP": [
+        "SEMİH IŞIKVER",
+        "OĞUZHAN DEMİR",
+        "HAKAN KUZU",
+        "YUNUS GENÇ",
+        "FATMA SEVİNÇ OĞUZHAN"
+      ],
+      "YRP": [
+        "MEHMET ÇAVUŞ",
+        "İBRAHİM GÖK",
+        "MEHMET TAN",
+        "SALİH ÇAKICI",
+        "HATİCE İNLİKAYA"
+      ],
+      "BBP": [
+        "ÖMER ERTAN",
+        "MUSTAFA KIRAT",
+        "HATİCE GEYİK",
+        "CAHİT TOPÇU",
+        "ZENUR TEPE"
+      ],
+      "CHP": [
+        "GÜRSEL EROL",
+        "ABDULLAH AKIN",
+        "AHMET YILDIZ",
+        "ALIM ÖZDEMİR",
+        "AZAT ALINAK"
+      ],
+      "İYİP": [
+        "İRFAN SÖNMEZ",
+        "YÜKSEL ERCAN",
+        "ABDULKERİM EFLATUN",
+        "ŞENAY ALADAĞ DEMİREL",
+        "NAHİT BAYKARA"
+      ],
+      "YSP/HDP": [
+        "SAVAŞ ERDOĞAN",
+        "NURŞAT YEŞİL",
+        "RAMAZAN ZIRGIĞ",
+        "SULTAN YARAY",
+        "HADİ KONAR"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "ERZİNCAN": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "SÜLEYMAN KARAMAN",
+        "MEHMET CAVİT ŞİRECİ"
+      ],
+      "MHP": [
+        "CEMİL YAVUZ AKSU",
+        "AZİZ GÜN"
+      ],
+      "YRP": [
+        "EMRAH BAYINDIR",
+        "AHMET AKDAĞ"
+      ],
+      "BBP": [
+        "MURAT KILVAN",
+        "YAŞAR GÜNNAR"
+      ],
+      "CHP": [
+        "MUSTAFA SARIGÜL",
+        "UFUK AKTAŞ"
+      ],
+      "İYİP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "YSP/HDP": [
+        "HAYDAR POLAT",
+        "DİLBER DEMİR"
+      ],
+      "TİP": [
+        "MÜSLİM ETLEÇ",
+        "ÜNAL ÖZÇELİK"
+      ]
+    }
+  },
+  "ERZURUM": {
+    "totalSeats": 6,
+    "parties": {
+      "AKP": [
+        "SELAMİ ALTINOK",
+        "FATMA ÖNCÜ",
+        "MEHMET EMİN ÖZ",
+        "ABDURRAHİM FIRAT",
+        "AYŞE DENİZ ÇELİK",
+        "MUHAMMED GÖKBERK KOCAALİLER"
+      ],
+      "MHP": [
+        "KAMİL AYDIN",
+        "MUHAMMET HANİFİ MACİT",
+        "ÖMER HALUK PİRİMOĞLU",
+        "NAİM KARATAŞ",
+        "MEHMET MUSA ÇAKIR",
+        "SİNAN DEMİRCİOĞLU"
+      ],
+      "YRP": [
+        "ADNAN BOZAN",
+        "SADIK ÇAT",
+        "CEMAL OKAN PAPUCCU",
+        "İHSAN BAKİ",
+        "ALPARSLAN İLGÜN",
+        "MEHMET BERK"
+      ],
+      "BBP": [
+        "ŞAFAK ERTAN ÇOMAKLI",
+        "İBRAHİM KINIK",
+        "ERDEM ALKUŞ",
+        "PERMİN ŞENOL KARA",
+        "YUNUS BUĞRA ERDOĞAN",
+        "YAKUP DEMİR"
+      ],
+      "CHP": [
+        "AYHAN KOÇ",
+        "MURAT OZAN",
+        "CELAL ZUNGULDAK",
+        "SERHAT CAN EŞ",
+        "ERDİNÇ OKANLI",
+        "İSLAM TEKMANLI"
+      ],
+      "İYİP": [
+        "ZEKAİ KAYA",
+        "MELİH KIRKPINAR",
+        "FATMA CANAN UÇAR",
+        "FATİH ARAS",
+        "FATİH KARATAŞ",
+        "ERTUĞRUL ASİLTÜRK"
+      ],
+      "YSP/HDP": [
+        "MERAL DANIŞ BEŞTAŞ",
+        "ABDURRAHMAN SEVER",
+        "BAHAR GÖKSU",
+        "NİYAZİ ARAS",
+        "AYŞAN TARLAN",
+        "HARUN DEĞER"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "ESKİŞEHİR": {
+    "totalSeats": 6,
+    "parties": {
+      "AKP": [
+        "FATİH DÖNMEZ",
+        "AYŞEN GÜRCAN",
+        "ALİ DEMİREL",
+        "HAKAN ÇİZMELİOĞLU",
+        "PINAR TURHANOĞLU GÜCÜYENER",
+        "DERYA ÇIRAKLI"
+      ],
+      "MHP": [
+        "BÜLENT MAŞAOĞLU",
+        "LEMAN SİVRİ",
+        "MUHAMMET BAHADIR AYAS",
+        "MUSTAFA ENES SÜZEN",
+        "EMRE KARABACAK",
+        "OĞUZHAN ÜNAL"
+      ],
+      "YRP": [
+        "OSMAN MANDACI",
+        "EMRAH ALTUN",
+        "DİNÇ BİÇER",
+        "DEFNE ARSLAN",
+        "RAMAZAN UYLAŞ",
+        "AYDAN AY"
+      ],
+      "BBP": [
+        "KEMAL ERKAN SARMAŞIK",
+        "SALİM ACABAY",
+        "GÖKHAN ÜNVER",
+        "SELMA İKİZOĞLU",
+        "ZAFER HARMAN",
+        "MURAT ŞİŞMAN"
+      ],
+      "CHP": [
+        "UTKU ÇAKIRÖZER",
+        "JALE NUR SÜLLÜ",
+        "İBRAHİM ARSLAN",
+        "ABDÜLKADİR ADAR",
+        "İPEK ÇELİK",
+        "AYSU BAHAR GÜRLEK"
+      ],
+      "İYİP": [
+        "İDRİS NEBİ HATİPOĞLU",
+        "ÖZLEM AYRANCI",
+        "MELİH AYDIN",
+        "ÖMER İBRAHİM SAYIN",
+        "HAKAN KAYMAK",
+        "YAĞMUR GÜRSÖĞÜT"
+      ],
+      "YSP/HDP": [
+        "ALİ İHSAN GEZER",
+        "FELEK AKSOY",
+        "MÜSLÜM KOYUN",
+        "FADİME PULAT",
+        "DİLAVER ASLAN",
+        "ALEYNA CEREN KÖKOĞLU"
+      ],
+      "TİP": [
+        "GÖKAY BAŞAR",
+        "FATMA GİRGİN",
+        "AYHAN KAYA",
+        "ASLIHAN TERE",
+        "BEDİ UYGAR UĞURLU",
+        "YALÇIN KOMŞU"
+      ]
+    }
+  },
+  "GAZİANTEP": {
+    "totalSeats": 14,
+    "parties": {
+      "AKP": [
+        "ABDULHAMİT GÜL",
+        "MEHMET EYUP ÖZKEÇECİ",
+        "ALİ ŞAHİN",
+        "DERYA BAKBAK",
+        "MESUT BOZATLI",
+        "ŞEHZADE DEMİR",
+        "İRFAN ÇELİKASLAN",
+        "BÜNYAMİN BOZGEYİK",
+        "FERAY YILMAZ",
+        "MUHAMMED HAKAN TANRIÖVER",
+        "HASAN TEKE",
+        "ABDULLAH DURDU",
+        "CUMA REYHAN",
+        "ABDULLAH KORKMAZ"
+      ],
+      "MHP": [
+        "SERMET ATAY",
+        "MUSTAFA BOZGEYİK",
+        "ALİ MUHİTTİN TAŞDOĞAN",
+        "MAHMUT CÜNEYT GÖZ",
+        "ABDULLAH ŞAŞUŞAĞI",
+        "ELİF ASLI ERCİHAN",
+        "AYŞEGÜL KÖROĞLU",
+        "ENDER ÖZKARSLIGİL",
+        "RAMAZAN YILDIZ",
+        "FATİH YUNUS",
+        "FAHRİ ÇEVİK",
+        "GÜRKAN KIRAÇ",
+        "AHMET DURMUŞ YILMAZ",
+        "ALPASLAN SAVAŞ"
+      ],
+      "YRP": [
+        "ŞÜKRÜ YILMAZ",
+        "NURETTİN ÖZKAYA",
+        "SEDAT YILDIZ",
+        "ESRA ALATİ",
+        "MEHMET ÖS",
+        "MEHMET AKGÜL",
+        "M. FATİH BORSEKEN",
+        "MUSTAFA BİLİCİ",
+        "FARUK SONER ATAŞ",
+        "İRFAN DEMİRHAN",
+        "SUAT BOZKURT",
+        "ERKAN SÜZERER",
+        "ÖMER ATILĞAN",
+        "MEHMET COŞKUN KAYA"
+      ],
+      "BBP": [
+        "ORHAN KIZILASLAN",
+        "METİN DEMİRÇUBUK",
+        "RECEP TUNCER",
+        "ELVAN ARKAN",
+        "AHMET UĞUR BALOĞLU",
+        "HAMZA ELBEYLİ",
+        "MUZAFFER BOZGEYİK",
+        "FARUK GÖKBULUT",
+        "ÖMER DOĞAN",
+        "MUSTAFA YALÇINKAYA",
+        "BURHAN ÇAKABEYLİ",
+        "ALİ BEKİR EKİZ",
+        "MURAT GÜLGÜN",
+        "YUNUS EMRE KAYA"
+      ],
+      "CHP": [
+        "HASAN ÖZTÜRKMEN",
+        "MELİH MERİÇ",
+        "ERTUĞRUL KAYA",
+        "REİS REİSOĞLU",
+        "ADİLE MERVE ALTINBAŞ YILMAZ",
+        "ERDAL GEÇİT",
+        "SELİM KARAHAN",
+        "MÜSLÜM ŞAHİNSOY",
+        "HASAN GÜR",
+        "MEHMET İSLAM",
+        "AHMET İDRİS İNAL",
+        "FATMA MÜGE DÜŞÜN",
+        "GÖKHAN ÇELİKTÜRK",
+        "VİJDAN AKTAŞ"
+      ],
+      "İYİP": [
+        "MEHMET MUSTAFA GÜRBAN",
+        "MEHMET AY",
+        "MEHMET ÖZBERK",
+        "MEDİNE İLAY YILDIRIM",
+        "MUSTAFA ALTUNBAŞ",
+        "MEHMET MURAT YAPRAK",
+        "MESUT NİZİPLİOĞLU",
+        "SEMA ALBAYRAM",
+        "MEHMET ALİ YILDIRIM",
+        "TİBET EKİNCİ",
+        "OKTAY İYİSARAÇ",
+        "NERMİN TUZCU",
+        "HASAN ALPDOĞAN",
+        "ABUBEKİR TEK"
+      ],
+      "YSP/HDP": [
+        "SEVDA KARACA DEMİR",
+        "MURAT SARISAÇ",
+        "SONGÜL KOÇDAĞ",
+        "MUSA AYDIN",
+        "DİLAN GÜLER",
+        "KAHRAMAN ÇİÇEK",
+        "FATMA BAYINDIR ÖZGÜR",
+        "ABDULLAH GÖZEN",
+        "AYSİMA MİHRİBAN MEHTAP ARSLAN",
+        "EDHEM ÜNAL",
+        "ELİF YALÇIN",
+        "YILMAZ AÇAN",
+        "SİNEM ERENER BALLAN",
+        "MUHAMMED SAİD GÖRGÜN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "GİRESUN": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "NAZIM ELMAS",
+        "ALİ TEMÜR",
+        "TOLGA ERENER",
+        "BERRİN AYDIN"
+      ],
+      "MHP": [
+        "ERTUĞRUL GAZİ KONAL",
+        "FATİH MEŞE",
+        "HAMİ PEKDEMİR",
+        "SALİH TÜRK"
+      ],
+      "YRP": [
+        "KAHRAMAN ÖZTÜRK",
+        "SERKAN OKTAY",
+        "EŞREF BEKDEMİR",
+        "AKİF ALTUN"
+      ],
+      "BBP": [
+        "FATİH ÇOLAKAOĞLU",
+        "TUFAN GEÇER",
+        "TAYGUN KARAMAN",
+        "DİLEK TURAN"
+      ],
+      "CHP": [
+        "ELVAN IŞIK GEZMİŞ",
+        "REŞAT NURİ ÖZDEMİR",
+        "FİKRİ BİLGE",
+        "HAKAN ADANIR"
+      ],
+      "İYİP": [
+        "ÜNZİLE YÜKSEL",
+        "HAKAN BEKTAŞ",
+        "KAYA YILDIZ",
+        "MUSTAFA DİZDAR"
+      ],
+      "YSP/HDP": [
+        "RAMAZAN DOĞRU",
+        "BEKİR YILMAZ",
+        "SANEM DENİZ KURAL",
+        "BÜLENT UZUN"
+      ],
+      "TİP": [
+        "NİHAL MEMİŞ DİZDAR",
+        "ÖMÜR HAKYEMEZ",
+        "FIRAT KURTAL",
+        "NESLİHAN ÖZAL"
+      ]
+    }
+  },
+  "GÜMÜŞHANE": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "CELALETTİN KÖSE",
+        "ÜNAL YILMAZ"
+      ],
+      "MHP": [
+        "MUSA KÜÇÜK",
+        "BİROL TUĞLU"
+      ],
+      "YRP": [
+        "ZİYA NAS",
+        "ADEM UTKU"
+      ],
+      "BBP": [
+        "KEMAL ÜÇÜNCÜ",
+        "BUKET KAYA"
+      ],
+      "CHP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "İYİP": [
+        "MUZAFFER ALTIPARMAK",
+        "BEDRİ AĞAÇ"
+      ],
+      "YSP/HDP": [
+        "ELİF ÇİFTÇİ",
+        "NEHİR SEVİM"
+      ],
+      "TİP": [
+        "BAHADIR YAVUZ",
+        "ÖZLEM DOĞAN"
+      ]
+    }
+  },
+  "HAKKARİ": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "ABDULMUTTALİP ÖZBEK",
+        "MEHMET BUDAK",
+        "HİKMET YAŞAR"
+      ],
+      "MHP": [
+        "FATİH ÖZBEK",
+        "MURAT TAŞYÜREK",
+        "ULAŞ ALBAYRAK"
+      ],
+      "YRP": [
+        "ALİ ÖZER",
+        "ADNAN KAPLAN",
+        "MURAT KARADENİZ"
+      ],
+      "BBP": [
+        "YAŞAR AKTAŞ",
+        "AHMET KANAT",
+        "ATİLLA AĞACANOĞLU"
+      ],
+      "CHP": [
+        "NAZIM DEMİR",
+        "ADNAN HATİPOĞLU",
+        "SABIR DİRİ"
+      ],
+      "İYİP": [
+        "ADAY GÖSTERİLMEDİ"
+      ],
+      "YSP/HDP": [
+        "VEZİR COŞKUN PARLAK",
+        "ÖZNUR BARTİN",
+        "ONUR DÜŞÜNMEZ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "HATAY": {
+    "totalSeats": 11,
+    "parties": {
+      "AKP": [
+        "ADEM YEŞİLDAL",
+        "ABDULKADİR ÖZEL",
+        "HÜSEYİN YAYMAN",
+        "KEMAL KARAHAN",
+        "ZEHRA EREN",
+        "CENGİZ YILDIZ",
+        "FİLİZ ÖZÇÖREKÇİ",
+        "AHMET ALPER SOYLU",
+        "MEHMET HAKAN YILMAZ",
+        "HALİL ERSEN DOĞAN",
+        "NECMİDDİN ÇİTO"
+      ],
+      "MHP": [
+        "LÜTFİ KAŞIKÇI",
+        "İSMAİL BAŞAR",
+        "MEHMET BİLGİLİ",
+        "HÜSEYİN ZAROĞLU",
+        "HÜSEYİN AKGÖL",
+        "AHMET GEDİK",
+        "NİGAR ÖZER",
+        "UYGAR POLAT",
+        "HASAN KENDİR",
+        "YUNUS TÜRK",
+        "MEHMET ÖZGÜR YILDIRIM"
+      ],
+      "YRP": [
+        "YUSUF METİN",
+        "LATİF ÇELİK",
+        "ENES AĞIRMAN",
+        "MUSTAFA AÇICI",
+        "MEHMET DİNÇER",
+        "ADBDULLAH YILDIZ",
+        "CUMALİ HELVACI",
+        "YAKUP DOĞRU",
+        "ENİS HACIOSMANOĞLU",
+        "ÖMER YİĞİT",
+        "GÜRKAN AKBAŞ"
+      ],
+      "BBP": [
+        "AHMET ŞANVERDİ",
+        "AHMET KUŞAK",
+        "NAZMİ KIYMACI",
+        "MEHMET KURTUL",
+        "ALİ KEMAL GÜDER",
+        "ADNAN YETİŞ",
+        "CEMİL KARABACAK",
+        "MUSTAFA DOLGUN",
+        "MAHMUT GÖK",
+        "MEHMET DEMİR",
+        "MEHMET TUGAY TANIN"
+      ],
+      "CHP": [
+        "MEHMET GÜZELMANSUR",
+        "NERMİN YILDIRIM KARA",
+        "SERVET MULLAOĞLU",
+        "NECMETTİN ÇALIŞKAN",
+        "HİKMET HATUNOĞLU",
+        "RAHMİ VARDİ",
+        "GÖKHAN ÖZER",
+        "BEKİR ATAHAN",
+        "CEMİYET KIŞLIOĞLU",
+        "TAMER APİŞ",
+        "FİLİZ HAKSÖZ"
+      ],
+      "İYİP": [
+        "ADNAN ŞEFİK ÇİRKİN",
+        "GÖKHAN ZAN",
+        "GÜLÜMSER CEYLAN KÖLE",
+        "SARPER DAVUT",
+        "İLYAS UYGUR",
+        "MEHMET OĞUZ TURAN",
+        "AYLİN ANIL ARSLAN",
+        "OSMAN AĞCA",
+        "ÇAĞATAY KARAMANOĞLU",
+        "MUHAMMET MUSTAFA BALCI",
+        "TUNA EBRU ÖZDEMİR"
+      ],
+      "YSP/HDP": [
+        "KEREM NALBANT",
+        "ŞİRİN NUR VURAL",
+        "NİHAT ERASLAN",
+        "MEHTA SERT",
+        "YUSUF KİMYON",
+        "MEDİHA ÖNCEL MUHAMMAD",
+        "HASAN FEHMİ GÖRÜR",
+        "GÖNÜL ÖZTÜRK",
+        "MEVLÜT BULGUR",
+        "ERCÜMENT KİMYON",
+        "HERDEM ACAR"
+      ],
+      "TİP": [
+        "ŞERAFETTİN CAN ATALAY",
+        "AYLİN AÇIKGÖZ",
+        "MEHMET ALİ GÜMÜŞ",
+        "EMRAH KARAÇAY",
+        "HASAN AŞKAR",
+        "NURCAN ÖRDEK",
+        "CANSU DALOĞLU",
+        "BARIŞ DAĞ",
+        "ABDULHAMİT YAYAR",
+        "HÜSEYİN AKGÖL",
+        "ÖZLEM PARLAK"
+      ]
+    }
+  },
+  "IĞDIR": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "CANTÜRK ALAGÖZ",
+        "AHMET TUTULMAZ"
+      ],
+      "MHP": [
+        "YAŞAR KARADAĞ",
+        "İBRAHİM DİZMAN"
+      ],
+      "YRP": [
+        "İBRAHİM ÖNAY",
+        "GÖKHAN UYANDIK"
+      ],
+      "BBP": [
+        "ALİ BOZYİĞİT",
+        "NURSEL EYÜBOĞLU"
+      ],
+      "CHP": [
+        "YUSUF ASLAN",
+        "İSMAİL SARIBOĞA"
+      ],
+      "İYİP": [
+        "KEREM AKBULUT",
+        "TAMER BAŞARAN"
+      ],
+      "YSP/HDP": [
+        "YILMAZ HUN",
+        "AYSEL ARAS"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "ISPARTA": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "MEHMET UĞUR GÖKGÖZ",
+        "OSMAN ZABUN",
+        "YAKUP KÜTÜK",
+        "NESRİN SEMİZ"
+      ],
+      "MHP": [
+        "HASAN BASRİ SÖNMEZ",
+        "SELİM ÖNCEL",
+        "AHMET KAYA",
+        "CENNET TOKER"
+      ],
+      "YRP": [
+        "İSMAİL KIVRAK",
+        "SAMET TOLUNAY",
+        "RAMAZAN ÖZDAMAR",
+        "SÜLEYMAN AYDOĞDU"
+      ],
+      "BBP": [
+        "KUDDİSİ KARATAŞ",
+        "FATMA ÖZLEM TOPTAŞ",
+        "FERHAT PEDİZ",
+        "FERDİ AYTEKİN"
+      ],
+      "CHP": [
+        "HİKMET YALIM HALICI",
+        "MEHMET TAMER CANTEKİN",
+        "HÜSEYİN YILDIZHAN",
+        "HATİCE YILDIZ"
+      ],
+      "İYİP": [
+        "AYLİN CESUR",
+        "TİMUÇİN KODAMAN",
+        "İSMET YILMAZ",
+        "FARUK TORUN"
+      ],
+      "YSP/HDP": [
+        "CÜNEYT LALOĞLU",
+        "NAZLI TABAK",
+        "MEHMET TAŞÇI",
+        "NURTEN KARAGÖZ"
+      ],
+      "TİP": [
+        "ZÜBEYDE ARSAN",
+        "CAFER YELSALI",
+        "ALİ NUR DÖNMEZ",
+        "OYLUN ERCAN"
+      ]
+    }
+  },
+  "İSTANBUL-1": {
+    "totalSeats": 35,
+    "parties": {
+      "AKP": [
+        "MURAT KURUM",
+        "ERKAN KANDEMİR",
+        "HASAN TURAN",
+        "MÜŞERREF PERVİN TUBA DURGUT",
+        "HULUSİ ŞENTÜRK",
+        "MUSTAFA HULKİ CEVİZOĞLU",
+        "TUĞBA IŞIK ERCAN",
+        "İSMAİL ERDEM",
+        "YAHYA ÇELİK",
+        "BEHİYE EKER",
+        "SERKAN BAYRAM",
+        "ÜMMÜGÜLŞEN ÖZTÜRK",
+        "AZMİ EKİNCİ",
+        "NURETTİN ALAN",
+        "FATİH SÜLEYMAN DENİZOLGUN",
+        "LEMAN YENİGÜN",
+        "ESMA ERSİN",
+        "UMUT ARMAN SONAY",
+        "ALİ SEVİNÇ",
+        "MAHMUT EMİNMOLLAOĞLU",
+        "RÜSTEM KABİL",
+        "ALİ YAZLI",
+        "AYDOĞAN AHIAKIN",
+        "ZEYNETTİN AYDIN",
+        "CEMAL DONAT",
+        "EBRU SARACOĞLU",
+        "AYŞEGÜL ESRA ATİK",
+        "FATİH ÖGÜN",
+        "ZEYNEP BAYIR",
+        "MURAT AÇIK",
+        "VELİ ARSLAN",
+        "YUNUS FIRAT AYDIN",
+        "MUSTAFA NAİM YAĞCI",
+        "FURKAN GÖKGÖZ",
+        "NURETTİN ALAGÖZ"
+      ],
+      "MHP": [
+        "EDİP SEMİH YALÇIN",
+        "İZZET ULVİ YÖNTER",
+        "MEMET BÜLENT KARATAŞ",
+        "NEVZAT ÜNLÜTÜRK",
+        "MURAT ŞAHİN",
+        "ŞAHİN GÜRZ",
+        "FADİME ERSOY DURSUN",
+        "BÜŞRA DÜZGÜN KAYA",
+        "HİLAL DİLBER",
+        "AFŞİN BİRBEN",
+        "İREM ÇELİK",
+        "ERDEM DOĞRUER",
+        "YİĞİT EMRE ALTUN",
+        "FATİH ERYILMAZ",
+        "FEVZİYE HASASU",
+        "BAYRAM BİNİCİ",
+        "AYSUN TURGUT BEŞOLUK",
+        "CAN ILDIRI",
+        "GÖKSAL BEŞKAYA",
+        "FİKRİ AY",
+        "İLKER ÇAKIROĞLU",
+        "YUNUS EMRE DURMUŞ",
+        "ŞENEL USTABAŞI",
+        "GÖKMEN KAYIKCİ",
+        "CEMAL ALTUNHAN",
+        "FATİH KAYA",
+        "MAHMUT COŞKUN",
+        "MURAT CAN AYDIN",
+        "SERDAR BIYIKOĞLU",
+        "MÜCAHİT GÜNGÖR",
+        "MUSTAFA YETER",
+        "HALİL İBRAHİM UZ",
+        "SUAT ALTUNKAYNAK",
+        "UMUT AKBULUT",
+        "GÖKHAN ALPASLAN"
+      ],
+      "YRP": [
+        "SUAT PAMUKÇU",
+        "DAVUT GÜLOĞLU",
+        "CEMİL ÇOLAK",
+        "MEHMET FATİH BAYRAMOĞLU",
+        "ERHAN ERDOĞAN",
+        "BURHAN ŞAFAK",
+        "ABDULLAH DİNÇ",
+        "HASAN KÖTEN",
+        "MİKTAT ERDEM",
+        "RABİA BAŞKAN",
+        "İSMAİL POLAT",
+        "VEFA AKTÜZ",
+        "MAHMUT BAŞAK",
+        "CEMİL CEBİR",
+        "ŞENEL AKARÇEŞME",
+        "LEVENT METİN",
+        "KÜÇÜKAĞA HACIEFENDİOĞLU",
+        "YUNUS YAĞCI",
+        "MUSTAFA ALPAY",
+        "ZÜLEYHA ZENGİN",
+        "EROL KARAKOÇ",
+        "MUSTAFA ÖZER",
+        "HASAN YİĞİT",
+        "ERDAL KIRAN",
+        "ZEYNEP ASLAN",
+        "CENGİZ KARA",
+        "HAYRİ AYYILDIZ",
+        "HALİL KEY",
+        "OSMAN AYAZ",
+        "HURİYE KELEŞ",
+        "FATİH AKÇAY",
+        "MEHMET KILINÇKAYA",
+        "TURGUT SADIKOĞLU",
+        "DİLEK SAMANCI",
+        "ÖMER AK"
+      ],
+      "BBP": [
+        "MUSTAFA DESTİCİ",
+        "DURSUN ÇAĞLAYAN",
+        "SULTAN SELİM ŞİMŞEK",
+        "YAŞAR SAYAN",
+        "RECEP TUFAN",
+        "EMİR FARUK UZUNPINAR",
+        "OYA EREN",
+        "MERT KAYA",
+        "ESRA BOĞAZ",
+        "KADİR TURAN",
+        "AYBÜKE BURCU ALAGÖZ",
+        "HASAN GÜNGÖRMEZ",
+        "ADEM KARSLI",
+        "SALİH KUYUMCU",
+        "MEHMET ARSLAN",
+        "HATİCE AÇIL AKAN",
+        "HAMDİ YILDIZ",
+        "BAKİ YAVUZ BİLGİN",
+        "BURAK TEKİN",
+        "KEMAL ÇOLAK",
+        "İSLAM ASLAN",
+        "EMİNE MERVE ALADAĞ",
+        "SONER ARSLANTÜRK",
+        "ÖMER OSMAN YARIKAN",
+        "TÜRKALP MERT ÇEVİK",
+        "SENEM FENNİ",
+        "AYSEL ÇARIKÇI",
+        "SALİH ŞAHİN",
+        "UĞUR CAN DEMİR",
+        "GÖKHAN KELEŞ",
+        "EMİNE ÇINAR",
+        "İLKNUR ÇAMOĞLU",
+        "KEREM BALA",
+        "ALİ OLGUN",
+        "YİĞİT ENSAR EROL"
+      ],
+      "CHP": [
+        "OĞUZ KAAN SALICI",
+        "GAMZE AKKUŞ İLGEZDİ",
+        "FETHİ AÇIKEL",
+        "GÖKHAN GÜNAYDIN",
+        "BİROL AYDIN",
+        "AHMET ERSAGUN YÜCEL",
+        "ELİF ESEN",
+        "HASAN KARAL",
+        "CEMAL ENGİNYURT",
+        "SELİM TEMURCİ",
+        "ALİ GÖKÇEK",
+        "SUAT ÖZÇAĞDAŞ",
+        "ÖZCAN ŞÜKRÜ BARİPOĞLU",
+        "SEVGİ KILIÇ",
+        "OLGUN ÇELİK",
+        "DOĞAN ÇAKMAK",
+        "KENAN OTLU",
+        "EFENDİ ARGUNŞAH",
+        "MURAT KANTEKİN",
+        "AYSEMİN GÜLMEZ",
+        "AHMET CAN YILMAZ",
+        "EBRU ZOR",
+        "ERDOĞAN ERDEN",
+        "FÜSUN SÖKMEZ",
+        "NEJLA ERDEM",
+        "BÜLENT KULKULOĞLU",
+        "GÜLLÜ SARAN",
+        "YÜCEL OTO",
+        "NEJDET AY",
+        "ELİFE GAMZE ÖZTÜRK",
+        "HAKAN BEKAR",
+        "DURSUN CAN KIRTORUN",
+        "MURAT GÖKHAN OFLUOĞLU",
+        "HALE DİLEK TOSUN",
+        "ABDULLAH ONUR BİLDİRİCİ"
+      ],
+      "İYİP": [
+        "NİMET ÖZDEMİR",
+        "BURAK AKBURAK",
+        "MUSTAFA CİHAN PAÇACI",
+        "BAVER MİROĞLU",
+        "DURSUN ÇOLAK",
+        "TAHA ORHUN ERTÜRKMEN",
+        "ALİ COŞKUN",
+        "EMİNE KÜÇÜKALİ",
+        "RAŞİT EMİR SÜER",
+        "MURAT KARAMAN",
+        "VEDAT BAYRAM",
+        "YÜCEL COŞKUN",
+        "OĞUZHAN HASAR",
+        "HATİCE DİLRUBA OĞULCUKLU",
+        "CEVAT SARAÇ",
+        "YÜCEL AYDIN",
+        "MERAL ALEMDAR",
+        "AHMET ÇELEBİ",
+        "AHMET SELÇUK CAN",
+        "İHSAN ÖNDER ALBAYRAK",
+        "AYSEL KIRALİ",
+        "HÜLYA ARICI",
+        "UĞUR HÜSEYİN HASANÇEBİ",
+        "BARIŞ TAVLAŞOĞLU",
+        "KADİR KÜRŞAT ARSLAN",
+        "BÜLENT ASLAN",
+        "RAMAZAN UĞURAL",
+        "MEHMET ERİŞEN",
+        "ARİF TEVETOĞLU",
+        "AYŞE KIRAÇ",
+        "ERDAL DEMİR",
+        "SEDAT GÜRKAN",
+        "SEVİM DEMİR",
+        "CELAL MAHMUT SOLAK",
+        "NAZLI YURDUSEVEN"
+      ],
+      "YSP/HDP": [
+        "SIRRI SÜREYYA ÖNDER",
+        "KEZİBAN KONUKCU KOK",
+        "HAKAN  ÖZTÜRK",
+        "TURGUT ÖKER",
+        "DERSİM DAĞ",
+        "ÖZTÜRK TÜRKDOĞAN",
+        "TUNCAY GÖKÇE",
+        "ABDULCEBAR BARIŞ",
+        "MEHMET TİMURTAŞ",
+        "EKATERİNİ NİKOLAO",
+        "ERDAL GÜZEL",
+        "PERVİN TUNBUL",
+        "AYHAN ERGENÇ",
+        "ÇİĞDEM BEKİROĞLU SADİOĞLU",
+        "DEVRİM ŞİMŞEK",
+        "BURCU AYYILDIZ",
+        "BEKİR KIRICI",
+        "SILA ÖZTÜRK",
+        "HÜSNÜ ALKAN",
+        "ÖZGÜL BİNGÖL",
+        "ALAETTİN ALTINTAŞ",
+        "TALİN DİANA ÖZKEŞİŞ ÖZBOYAR",
+        "MEHMET YUSUFOĞLU",
+        "CEVRİYE AYDIN",
+        "MUSA KARADEMİR",
+        "ZEKİNE TÜRKERİ",
+        "İSHAK KARAKAŞ",
+        "AYŞE TEPE DOĞAN",
+        "ALİ DOĞAN",
+        "AYTEN BİNGÖL",
+        "REŞİT KÖÇEROĞLU",
+        "ROZERİN KAYA",
+        "NEFİSE AKSOY",
+        "YILMAZ CESUR",
+        "YAĞMUR KAVAK"
+      ],
+      "TİP": [
+        "SALİHA SERA KADIGİL",
+        "ANIL DENİZCİ",
+        "ALİ RONAY",
+        "FATMA KARABULUT",
+        "SEDAT DUREL",
+        "TAYFUN BUDAK",
+        "DİDEM DOĞAN AYDEDİM",
+        "ASUMAN FAZLIOĞLU",
+        "ERDİNÇ MEHMETOĞLU",
+        "ARİF ÖZDEMİR",
+        "MAHBİP DİLEK",
+        "ÇAĞLAR ÇAĞLI",
+        "FİLİZ KILIÇ",
+        "FOTİ BENLİSOY",
+        "HARUN GÖKTEPE",
+        "MİZGİN ÖZMEN",
+        "BÜLENT YÜKSEL",
+        "ALİ İZZET ETİ",
+        "FIRAT ÇOBAN",
+        "GÖKÇE USTA",
+        "EYLEM PINAR",
+        "GÖRKEM DURU",
+        "ZEYNEP DEMİREL",
+        "OKTAY RAİF EVRENSEL",
+        "MEHMET KILIÇ",
+        "MEHMET ACAR",
+        "EZGİ CEREN IŞIK",
+        "ESİN AYDIN KAYA",
+        "GÜNER YENER",
+        "NURDAN ÜNVER",
+        "HAKAN BİLGEHAN",
+        "ESMA KARA",
+        "EMİRHAN TURAN",
+        "CENK VERDİ",
+        "UTKU URAZ AYDIN"
+      ]
+    }
+  },
+  "İSTANBUL-2": {
+    "totalSeats": 27,
+    "parties": {
+      "AKP": [
+        "SÜLEYMAN SOYLU",
+        "HALİT YEREBAKAN",
+        "RABİA KALENDER İLHAN",
+        "MEHMET ÖNDER AKSAKAL",
+        "MUSTAFA DEMİR",
+        "İSMAİL EMRAH KARAYEL",
+        "ZAFER SIRAKAYA",
+        "BÜŞRA PAKER",
+        "SEVAN SIVACIOĞLU",
+        "DERYA AYAYDIN",
+        "ADEM YILDIRIM",
+        "SENA NUR ÇELİK",
+        "AHMET BİLAL KIYMAZ",
+        "HÜSEYİN EROĞLU",
+        "ENES EMİNOĞLU",
+        "AHMET HAMDİ ÇAMLI",
+        "EMRE USTAOSMANOĞLU",
+        "ŞEVKİ ŞAR",
+        "CAHİT ALTUNAY",
+        "ÖMER FUAT GÜNDAY",
+        "ORHAN NARİN",
+        "SELÇUK KAR",
+        "KEMAL OĞUZ KIDİL",
+        "FERŞAT YILDIRIM",
+        "ECRİN NAZLI İNAN",
+        "NAZİF BARIŞ ÇİFTÇİOĞLU",
+        "BEŞİR AÇIKÇA"
+      ],
+      "MHP": [
+        "CELAL ADAN",
+        "CEMAL ÇETİN",
+        "FERHAT ÇAKIROĞLU",
+        "NUR TUĞBA AKTAY",
+        "NİYAZİ PAKSOY",
+        "BİROL GÜR",
+        "YÜKSEL KALECİ",
+        "GÜLLÜ YENER",
+        "MAHMUT YALÇIN",
+        "TUĞRUL GÖK",
+        "AYHAN ARAS",
+        "FEİME AKINCI",
+        "NEVRA İMAMOĞLU",
+        "MEHMET ÇETİN",
+        "RECEP YAVAŞ",
+        "ALİ ATABEYOĞLU",
+        "ERHAN ÜSTÜNBAŞ",
+        "SERKAN BÜYÜK",
+        "MURAT SANCAK",
+        "ERKAN ÖZÇELİK",
+        "CANER ÖNER",
+        "BEYDA NUR AYÇETİN",
+        "FERDA KAPUCUOĞLU",
+        "NECDET ÖZTÜRK",
+        "SERDAR DOYURAN",
+        "ALİCAN ERDOĞAN",
+        "CELAL DENİZ"
+      ],
+      "YRP": [
+        "MUHAMMED ALİ FATİH ERBAKAN",
+        "DOĞAN AYDAL",
+        "LÜTFÜ ŞENOCAK",
+        "DAVUT KONAKÇI",
+        "TEKİN KARATAŞ",
+        "MUSTAFA SARI",
+        "OSMAN UÇAR",
+        "HALİT ÖZKARATAŞLIOĞLU",
+        "MİKAİL KARAHAN",
+        "MAHMUT OKUDAN",
+        "BEYZA ÖZMEN",
+        "ORHAN KARA",
+        "ORHAN ÇAĞLAYAN",
+        "HACI RAMAZAN KAYA",
+        "HALİL İBRAHİM ECE",
+        "TEVFİK YAZICILAR",
+        "ABDULKADİR ŞENGÜL",
+        "ESMA TIĞLI",
+        "SONGÜL AKSEL",
+        "ÜMMÜHAN ADIGÜZEL",
+        "ALİ YENER",
+        "CENGİZHAN SESLİKAYA",
+        "ASLAN ESLAM TÜRKMEN",
+        "MURAT MARAP",
+        "ZEYNEL ÖZMEN",
+        "MUHTEREM GÜL",
+        "VAHDET ERDOĞAN"
+      ],
+      "BBP": [
+        "AHMET YELİS",
+        "MUTLU FURTUNA",
+        "SERVET ÖZTAŞ",
+        "EROL HACİGÜL",
+        "NAİL GÜN",
+        "İZZET SADAT",
+        "DİLEK AYDOĞAN",
+        "NECDET KARATAŞ",
+        "MUAMMER AHMET YILDIZ",
+        "MURAT SARIGÜL",
+        "BAHADIR GÖNÜL",
+        "MUHSİN ŞENEL",
+        "İLYAS KÜREM",
+        "PINAR SERGİ",
+        "ŞAKİR AYGÖL",
+        "MURAT MERT",
+        "YAKUP ÖZEN",
+        "FADİME CERAN",
+        "MÜJDAT SELVİ",
+        "AHMET BOZAN",
+        "CANER YILDIRIM",
+        "KÜBRA DENİZ",
+        "ERSİN TOGAÇ",
+        "TUĞBA ŞENAY SARIPOLAT",
+        "KENAN HELVALI",
+        "ESMA SERHAT",
+        "EKREM BELLİ"
+      ],
+      "CHP": [
+        "NAMIK TAN",
+        "YUNUS EMRE",
+        "GÖKAN ZEYBEK",
+        "KADRİ ENİS BERBEROĞLU",
+        "MUSTAFA KAYA",
+        "YÜKSEL MANSUR KILINÇ",
+        "İSA MESİH ŞAHİN",
+        "EVRİM RIZVANOĞLU",
+        "BERNA SUKAS",
+        "FUAT YILDIRIM",
+        "ONUR AYDIN",
+        "IŞIK ÖĞÜTÇÜ",
+        "SONER ÖZİMER",
+        "MEHMET ALİ YÜKSEL",
+        "ŞABAN KARAASLAN",
+        "ELMAS ARUS",
+        "MUHARREM NACİ TEMİZ",
+        "SEVİM YALINKILIÇ",
+        "GÖZDE FİL",
+        "BÜLENT ÜTEBAY",
+        "MEHMET SÜLEYMAN TÜRKER",
+        "YİĞİT HÜSEYİN NUMAN BIÇAKLI",
+        "ALİ ARMAN",
+        "BEDİA BÜYÜKGEBİZ",
+        "ÖZGÜR NEMUTLU",
+        "EZGİ PEKŞEN",
+        "REFİK ERSİN EROĞLU"
+      ],
+      "İYİP": [
+        "MEHMET SATUK BUĞRA KAVUNCU",
+        "SALİM ENSARİOĞLU",
+        "BAHATTİN BAHADIR ERDEM",
+        "ECE GÜNER",
+        "HATİCE CEREN YILMAZ",
+        "HATİCE KAYALI",
+        "MÜJDAT ÖZTÜRK",
+        "MUSTAFA YAZICI",
+        "ABDULLAH ŞALCI",
+        "ALİ ÇELİK",
+        "FİSUN MEHLİKA TOCA",
+        "İSMET KOÇAK",
+        "ALİ AKGÜN",
+        "ERİŞ CESUR",
+        "BARBAROS HAYRETTİN MAHİROĞULLARI",
+        "ERHAN ÖZKAN",
+        "BİLAL UZUN",
+        "GÖKHAN KARGI",
+        "HASAN HOŞBEN",
+        "RAİF GÜLER",
+        "ASLIHAN ELİBOL",
+        "YILMAZ DAĞDELEN",
+        "MUSTAFA ALKAN KÜÇÜKLER",
+        "NAZLI ASPAY ŞENER",
+        "AFFAN MAHMUT KEÇECİ",
+        "ARZU BAŞKAN",
+        "ÖMER LÜTFİ ÖZENÇ"
+      ],
+      "YSP/HDP": [
+        "CENGİZ ÇİÇEK",
+        "ÖZGÜL SAKİ",
+        "HASAN KAYA CEMAL",
+        "ÖZTÜRK TÜRKDOĞAN",
+        "KAMİLE KANDAL",
+        "HIDIR KARADAŞ",
+        "NİLAY KUŞ",
+        "CEMİL AKSU",
+        "RIZA KAHRAMAN",
+        "DİLŞAT CANBAZ KAYA",
+        "ERDAL DOĞAN",
+        "AYŞAN  AKSOY",
+        "AHMET SAYMADİ",
+        "MENEKŞE KIZILDERE",
+        "CELAL ALPHAN",
+        "HAZAN İLİK",
+        "SERVET GÜZEL",
+        "BERFİN POLAT",
+        "MUSTAFA ÖZTÜRK",
+        "AYLİN HACALOĞLU",
+        "ŞADİ ÖZDEMİR",
+        "DİLEK ODABAŞ BAKIR",
+        "NURAY ONUK",
+        "ABDURRAHMAN ÖZTÜRK",
+        "GÜNER BASUT",
+        "GÖKHAN ÇETİN",
+        "ŞENGÜL BİLA AYAZ"
+      ],
+      "TİP": [
+        "AHMET ŞIK",
+        "MISRA ÖZ",
+        "ZEYNEP ESMERAY ÖZADIKTI",
+        "KORAY DOĞAN URBAR",
+        "YILMAZ ASLANTÜRK",
+        "ŞERİF ÖZGÜR URFA",
+        "FATMAGÜL ERYILMAZ ŞENVARDAR",
+        "ATAKAN ÖZSOY",
+        "ENES KARAKAŞ",
+        "EVİN DOĞU",
+        "SENNUR SIRBUDAK",
+        "NACİYE BABALIK",
+        "BOGOS MASİS KÜRKÇÜGİL",
+        "METİN AKIN",
+        "EMRAH YALÇIN",
+        "ELİF DAMLA İLGİN",
+        "HASAN HÜSEYİN ŞENSES",
+        "BAHA AYDIN",
+        "MEHMET KÖKSAL",
+        "TUĞRUL EYLÜL CERRAHOĞLU",
+        "KAYACAN ÇENGEL",
+        "OZAN ERBAŞ",
+        "CAN YILMAZ KAYA",
+        "DERSİM ŞAN GENÇ",
+        "EREN IŞIKBAŞ",
+        "MERTCAN İLGÖZ",
+        "HASAN KARAYİĞİT"
+      ]
+    }
+  },
+  "İSTANBUL-3": {
+    "totalSeats": 36,
+    "parties": {
+      "AKP": [
+        "NUMAN KURTULMUŞ",
+        "ÖZLEM ZENGİN",
+        "CÜNEYT YÜKSEL",
+        "ZEKERİYA YAPICIOĞLU",
+        "HALİS DALKILIÇ",
+        "RÜMEYSA KADAK",
+        "OĞUZ ÜÇÜNCÜ",
+        "NECMİ KADIOĞLU",
+        "ŞAMİL AYRIM",
+        "SEDA GÖREN BÖLÜK",
+        "NİLHAN AYAN",
+        "YILDIZ KONAL SÜSLÜ",
+        "ŞENGÜL KARSLI",
+        "YÜCEL ARZEN HACIOĞULLARI",
+        "HALİME KÖKCE",
+        "MEHMET SARI",
+        "NEVZAT ŞATIROĞLU",
+        "EKREM GÖRÇEKER",
+        "NECATİ KARAGÖZ",
+        "RASİM ERDOĞMUŞ",
+        "YUSUF ASLAN",
+        "MUSTAFA KORKUT",
+        "MUTLU BOZOĞLU",
+        "FETİ AHMET BALIN",
+        "OKTAY ŞAMDANLI",
+        "MEHMET YILDIZ",
+        "YILMAZ DURMUŞ",
+        "NEVİN MİNE VURAL",
+        "MEMET YALÇIN",
+        "NAZİF ÇETİN",
+        "RAMAZAN ARKAN",
+        "HARUN ÇELİK",
+        "RASİM YAĞAR",
+        "CEMAL TOPTANCI",
+        "RECEP SEYYAR",
+        "ALİ ÇİÇEK"
+      ],
+      "MHP": [
+        "FETİ YILDIZ",
+        "İSMAİL FARUK AKSU",
+        "HAYATİ ARKAZ",
+        "ARZU ERDEM",
+        "GÖKHAN TÜRKEŞ ÖNGEL",
+        "DAVUT HASKIRIŞ",
+        "AHMET SAVAŞ ÇOLAK",
+        "ÖZGE TEKOĞULLARI",
+        "AYLİN YÜKSEL ÜLKER",
+        "METİN ARI",
+        "BAHATTİN ŞENGÜL",
+        "OSMAN BÜYÜKKAYA",
+        "UYGAR ORAL ÖZTÜRK",
+        "ALPARSLAN ÇATAK",
+        "İLKAY KAYMAK",
+        "DİLARA ERKUT",
+        "ASLIHAN SOYLU",
+        "MUSTAFA SEPİN",
+        "JASMİNA TÜRKOĞLU",
+        "VOLKAN BÜYÜKUSTA",
+        "NERGİS GÖK",
+        "OKAN DEMİR",
+        "MESUT YILDIRIM",
+        "MUSTAFA ALP",
+        "MEHMET BAŞAK",
+        "MEHMET ŞENER ÇELİK",
+        "BEKİR SITKI KARAUSTA",
+        "MEHMET GALİP DERE",
+        "ENES YILMAZ",
+        "MEHMET SIDDIK KAPLAN",
+        "HAKAN ÖZTÜRK",
+        "MEHMET GÜRBÜZ",
+        "FATİH MEHMET ÇETİNKAYA",
+        "MEHMET ALİ ÖZEL",
+        "MUHAMMED RAFET YİĞİT",
+        "BÜLENT ÖZCAN"
+      ],
+      "YRP": [
+        "DOĞAN BEKİN",
+        "BAYRAM SAKARTEPE",
+        "MUSTAFA DOĞAN",
+        "SERHAT FINDIK",
+        "KADİR KARACA",
+        "ABDÜRREZZAK İLBEYİ",
+        "RECEP EROL",
+        "SETENAY KANAR",
+        "ALİ YÖNEM",
+        "RAMAZAN KAHVECİ",
+        "BEKİR KÜÇÜKÇAYIR",
+        "MEHMET YAVAN",
+        "EMİNE BARUTÇU",
+        "HASAN BAHÇIVAN",
+        "YAKUP POLAT",
+        "YUNUS EMRE TAŞÇI",
+        "OSMAN ÜNSAL",
+        "NURİ ÖZATA",
+        "NEVZAT EMİROĞLU",
+        "SERKAN KAYA",
+        "İZZETTİN COŞKUN",
+        "TALHA SAİT ATAY",
+        "M. AKİF BİÇER",
+        "BÜLENT AYDIN",
+        "HAMZA AYDINLAR",
+        "SAMET PEKER",
+        "RAMZAN DEYİRMENCİ",
+        "YAHYA KEMAL KOÇ",
+        "ESRA BAYSAL",
+        "BATUHAN FATİH DOĞAN",
+        "FAYSAL İLKAN",
+        "NİHAT TOKUŞ",
+        "MAHMUT FINDIK",
+        "MUHAMMET KOÇ",
+        "TANSU YILMAZ",
+        "YASİN TOSUN"
+      ],
+      "BBP": [
+        "BAYRAM KARACAN",
+        "ALTAN ARAS ORTA İŞ İNSANI",
+        "MEHMET CEM ÖZEL",
+        "ABDULLAH AZDER",
+        "ÖMER İLHAN",
+        "HAKKI KAYA",
+        "MUHARREM DANIŞMAZ",
+        "GÜLYETER SOYDAŞ TORUNOĞLU",
+        "KEMAL YILMAZ",
+        "ŞERİF ÇELİK",
+        "KÜBİLAY YETİM",
+        "İLYAS ÖZCAN",
+        "UĞUR BAY",
+        "ABDULLAH AYDIN",
+        "HAYRULLAH ÇALIŞIR",
+        "MUHAMMET ALİ AKSOY",
+        "HAKAN KARPUZ",
+        "ARZUCAN YILDIRMIŞ",
+        "CELAL RIDVAN PARMAKSIZ",
+        "ABDULLAH DEMİROĞLU",
+        "FATİH MEHMET TASASIZ",
+        "FATİH KAYA",
+        "SANİYE ÇELİK",
+        "ZAFER TABAŞ",
+        "HÜSEYİN CELEP",
+        "ALİ AKTAŞ",
+        "YAŞAR TAYAR",
+        "ERSİN AÇAR",
+        "EDA YİĞİT",
+        "ADEM KAYANER",
+        "MUHAMMET ZİYA DÖVLETOĞULLARI",
+        "ERTAN EYRİAY",
+        "EYÜP ALİ ÖZDEMİR",
+        "MUSTAFA NURİ KAYA",
+        "EDAVİYE YALÇIN",
+        "COŞKUN AÇIL"
+      ],
+      "CHP": [
+        "ENGİN ALTAY",
+        "ERDOĞAN TOPRAK",
+        "TÜRKAN ELÇİ",
+        "İLHAN KESİCİ",
+        "ZEYNEL EMRE",
+        "MUSTAFA YENEROĞLU",
+        "BÜLENT KAYA",
+        "DOĞAN DEMİR",
+        "ÖZGÜR KARABAT",
+        "MEDENİ YILMAZ",
+        "TURAN TAŞKIN ÖZER",
+        "DORUK BULUT",
+        "OĞUZ KEMAL YAKAR",
+        "TURGAY ÖZCAN",
+        "FEVZİ DONAT",
+        "UTKU CANER ÇAYKARA",
+        "HÜSEYİN REMZİ GÖKBULAK",
+        "BAYRAMALİ ÇEŞMECİ",
+        "RECEP KARAKOÇ",
+        "BURAK YILDIRIM",
+        "EDA KURT",
+        "KAZIM ÖZEREN",
+        "MARGARİT DİKME",
+        "MEHTAP ALBAYRAK",
+        "NAZLI AKYÜZ",
+        "ÖZLEM DURDAĞI DOKUYUCU",
+        "SİNAN KARAHAN",
+        "SİNEM ÖZCAN",
+        "SÜLEYMAN ŞAFAK",
+        "CEMAL DOĞAN",
+        "HÜSEYİN ARDA ENGİZEK",
+        "TURGUT KOÇ",
+        "SERVER GÖKMEN",
+        "ENDER UNUTAN ERSÖZLÜ",
+        "NEŞE KIYIK",
+        "YAREN KARACA"
+      ],
+      "İYİP": [
+        "ERSİN BEYAZ",
+        "SEYİTHAN İZSİZ",
+        "AYŞE SİBEL YANIKÖMEROĞLU",
+        "ŞÜKRÜ KULEYİN",
+        "CELAL KARAPINAR",
+        "HAMZA YURTSEVER",
+        "ALİ KIDIK",
+        "MEHTAP NAZAN GÖKTAŞ",
+        "METİN BOZKURT",
+        "FEVZİ FATİH OĞUZ",
+        "ETHEM BAYKAL",
+        "ÜLKÜ AYAYDIN",
+        "DOĞAN AVCI",
+        "ADNAN SİNAN ÇAKIROĞLU",
+        "AYHAN BÖLÜKBAŞI",
+        "METE KOCA",
+        "SURURİ KARABAL",
+        "NAZMİYE İZGİN",
+        "SEVİNÇ GÜMÜŞ",
+        "MEHMET ALİ UYKUR",
+        "ZEKİ BULGAN",
+        "ARZU ÖNŞEN",
+        "ŞULE AĞAÇAYAK ERSOY",
+        "HÜRANA GÜNGÖR",
+        "MELİHA APAYDIN",
+        "ARZU ŞİMŞEK",
+        "BUSE ALBAYRAK",
+        "MERYEM TANRIVERDİ GÖKTAŞ",
+        "ATAKAN ÖZKAN",
+        "HASAN KAYA",
+        "ŞEREF TAMTÜRK",
+        "ASİYE KÜÇÜKYILMAZ",
+        "BURAK USTALI",
+        "KÜRŞAT ÖZER",
+        "SELMA SARICIOĞLU ÇALIŞKAN",
+        "FİLİZ ÇELİK"
+      ],
+      "YSP/HDP": [
+        "ÇİĞDEM KILIÇGÜN UÇAR",
+        "İSKENDER BAYHAN",
+        "ÇİÇEK OTLU",
+        "CELAL FIRAT",
+        "CEMİL GÜNGÖREN",
+        "KEREM FIRTINA",
+        "İLKNUR BİROL",
+        "ABDULHAKİM DAŞ",
+        "ÇİÇEK ARIÇ",
+        "EDİP ARSLAN",
+        "ERDAL ATAŞ",
+        "YILDIZ SEVEN",
+        "YAVUZ OKÇUOĞLU",
+        "FERDİ YAMAR",
+        "NALAN ÇELİK",
+        "UĞUR ŞEKER",
+        "NEVRİM KOTANOĞLU",
+        "YUSUF YALVAÇ",
+        "GÜLFİRAZ SAĞLIK",
+        "HÜSEYİN ÇALİŞCİ",
+        "ELİF BAYSAL",
+        "NİZAMETTİN ÖZTÜRK",
+        "ÖZGÜL BAYDOĞAN",
+        "ERCAN SAĞLAM",
+        "NESRİN ARSLAN",
+        "FAİK DELİ",
+        "FATMA KÖMÜRCÜ",
+        "HÜSEYİN FİDANBOY",
+        "LEVENT GÖKÇEK",
+        "AYŞE CENGİZ",
+        "ABDURRAZAK EKİNCİ",
+        "HASAN ARDA İLALDI",
+        "SEFA ÖZTÜRK",
+        "MEHMET ŞERİF ÖNER",
+        "ERGÜN ŞİMŞEK",
+        "İRFAN HÜLAKÜ"
+      ],
+      "TİP": [
+        "ERKAN BAŞ",
+        "MERYEM GÖKTEPE TÜRKMEN",
+        "UMUR EKREM TALU",
+        "YAPRAK DİDEM KORYÜREK ARMUTLU",
+        "ÖZLEM TEKE",
+        "FEREMEZ TUNCAY",
+        "JİYAN AYBAR",
+        "AYLİN DOĞAN",
+        "BİLGEHAN TUBA TİRYAKİ",
+        "NİLAY BARKIN",
+        "NİLER ALBAYRAK",
+        "EKREM ERDİN",
+        "VEYSEL DÖNMEZ",
+        "AHMET ORAL",
+        "EBRU KIRANER",
+        "MUHAMMED ÇELİK",
+        "SAADET ÖZSOY",
+        "FERHAT ÇELİKOĞLU",
+        "ÖMER TURA",
+        "ALEV SANATLIOĞLU",
+        "SİNEM MERTCAN UĞURDOĞAN",
+        "TANYEL SÜZER",
+        "ÜMİT DENİZ",
+        "FATMA BERAZZİOĞLU",
+        "SERKAN GENÇ",
+        "GÜNGÖR KAYA",
+        "GÖZDE ÖZEL",
+        "NİLGÜN TUTAK",
+        "ŞAHİN ÖZSOY",
+        "ÖZGE İNCE",
+        "ANIL GÜLER",
+        "YAĞMUR ÇETİN",
+        "NURHAK GÖRKEM DOĞAN",
+        "İLKİN ERKORKUT",
+        "GİZEM YERİK",
+        "GÜN ÇAĞ AYDIN"
+      ]
+    }
+  },
+  "İZMİR-1": {
+    "totalSeats": 14,
+    "parties": {
+      "AKP": [
+        "MEHMET KASAPOĞU",
+        "MAHMUT ATİLLA KAYA",
+        "ŞEBNEM BURSALI",
+        "MEHMET ALİ ÇELEBİ",
+        "CEMAL BEKLE",
+        "SAVCI SAYAN",
+        "ENES EFENDİOĞLU",
+        "ÖMÜR ŞANLI",
+        "MEHMET SADIK TUNÇ",
+        "NİSA ALPTEKİN",
+        "MEHMET SAİD BAŞDAŞ",
+        "SELAHATTİN SERDAR MUÇAY",
+        "BERKAN YILDIZHAN",
+        "HATİCE YELİZ KARATAŞ"
+      ],
+      "MHP": [
+        "HASAN KALYONCU",
+        "BAHADIR BUMİN ÖZARSLAN",
+        "CİHAN ASLAN",
+        "SALAHATTİN ŞAHİN",
+        "UFUK AKSOY",
+        "SIDIKA TOPAL",
+        "SALİM ARDUÇLU",
+        "LOKMAN KIZILÖRENLİ",
+        "NİHAL BAŞ",
+        "ALİ DURUT",
+        "ABDULLAH BATUHAN GÜRBÜZ",
+        "HÜLYA AYKAÇ",
+        "HALİT GÖNDÜZ",
+        "KAYHAN DERYA"
+      ],
+      "YRP": [
+        "CEMAL ARIKAN",
+        "BAKİ MURAT TOP",
+        "YUSUF DOĞAN",
+        "ALİ OSMAN KALKAN",
+        "RUZİYE  TAN",
+        "NURETTİN YAKUT",
+        "EMRAH UYAN",
+        "İSMAİL TANAS",
+        "RAMAZAN DURAN",
+        "YUNUS TOPRAK",
+        "NECATİ KAVALCI",
+        "MERT ERKEZ",
+        "SAMET KOÇLU",
+        "ABDURRAHMAN KAYA"
+      ],
+      "BBP": [
+        "ERDEM ÖKSÜZ",
+        "MUSTAFA ESER",
+        "HAMZA ÇATIR",
+        "MEHMET ALTUNBAŞ",
+        "FATİH ESER",
+        "FAİK CENNET",
+        "İSMAİL YILMAZ",
+        "MEHMET DUDU",
+        "SALİH OKTAY",
+        "ALİ ŞENER",
+        "MUSTAFA ESER",
+        "MEHMET ATEŞ",
+        "CENGİZ BAŞTÜRK",
+        "OSMAN ESER"
+      ],
+      "CHP": [
+        "YÜKSEL TAŞKIN",
+        "AHMET TUNCAY ÖZKAN",
+        "SEVDA ERDAN KILIÇ",
+        "MURAT BAKAN",
+        "EDNAN ARSLAN",
+        "SEDA KÂYA ÖSEN",
+        "HAYDAR ALTINTAŞ",
+        "DEVRİM BARIŞ ÇELİK",
+        "SEFER İPEKLİ",
+        "GÜLDEM ATABAY",
+        "ŞAHBAL ARAS",
+        "FULYA ALÇAY",
+        "MEHMET ŞAHİN FIRAT",
+        "BİRGÜL DEĞİRMENCİ"
+      ],
+      "İYİP": [
+        "DURSUN MÜSAVAT DERVİŞOĞLU",
+        "ÜMİT ÖZLALE",
+        "ÖZTÜRK KESKİN",
+        "ÜLKÜ DOĞAN",
+        "ALİ TOPÇU",
+        "FİGEN YILDIRIM",
+        "LÜTFİ İLTERİŞ ÖNEY",
+        "İSMAİL AYBARS AKSOY",
+        "ASLAN SEZGİN",
+        "GİZEM ALBAŞ",
+        "KAAN ALTINDAĞ",
+        "MURAT ÇAKAR",
+        "HASAN YILDIZ",
+        "GÜLŞAH SAKAR"
+      ],
+      "YSP/HDP": [
+        "BURCUGÜL ÇUBUK",
+        "ABDULMECİT YILDIRIM",
+        "SEMRA KIRATLI",
+        "ERHAN MORKOÇ",
+        "MUSTAFA OKCU",
+        "FATİH SÜRENKÖK",
+        "SEBÜKTAY KAAN",
+        "ARİFE MERYEM YILDIRIM",
+        "HURŞİ ATAMAN",
+        "MEHMET YILDIRIM",
+        "NEVİN AYTEKİN",
+        "KEREM AY",
+        "BÜLENT TEKİN",
+        "HEDİYE KORKUT"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "İZMİR-2": {
+    "totalSeats": 14,
+    "parties": {
+      "AKP": [
+        "EYYÜP KADİR İNAN",
+        "FEHMİ ALPAY ÖZALAN",
+        "CEYDA BÖLÜNMEZ ÇANKIRI",
+        "YAŞAR KIRKPINAR",
+        "KEREM ALİ SÜREKLİ",
+        "MUHAMMET DOĞAN",
+        "DİLEK YILDIZ",
+        "İSMAİL HANCI",
+        "AHMET CAN ÇELİK",
+        "GÜLŞEN GEZİCİ",
+        "HALİL POLAT",
+        "VEYSEL GÜLDOĞAN",
+        "GÜVEN DEMİRAĞ",
+        "YASİN DEMİREL"
+      ],
+      "MHP": [
+        "TAMER OSMANAĞAOĞLU",
+        "ABDULKADİR BEKTAŞ",
+        "İSMAİL OBUZ",
+        "AYŞEGÜL EKŞİ",
+        "RECEP AKAN",
+        "EYÜP ERİM ERGÖREN",
+        "ÇETİN ALTIN",
+        "İHSAN GÜRKAN TAŞKIN",
+        "AHMET DEHA İMAL",
+        "YİĞİT FİKRİ ATALI",
+        "HASAN SEKİN",
+        "ERHAN ELİBOL",
+        "MUSTAFA ÇİNTAŞ",
+        "MEHMET MERT DOLĞAÇ"
+      ],
+      "YRP": [
+        "ABDURRAHMAN KARAMAN",
+        "HACI MEHMET SOLMAZ",
+        "ÖZBEK TAŞDEMİR",
+        "ALİ HAKAN KULAKÇIOĞLU",
+        "REŞAT SAYMAZ",
+        "YUSUF ŞİMŞEK",
+        "MURAT AVCIOĞLU",
+        "NAZİF TUNAHAN ŞEN",
+        "HASAN HÜSEYİN LEVENT",
+        "REŞİDE YAVAŞ",
+        "RAHMİ ÖZBAK",
+        "HAKAN ÇENBER",
+        "HASAN GÖL",
+        "MUAAMMER SARIBAŞ"
+      ],
+      "BBP": [
+        "YASİN YARDIMCI",
+        "ÖMRÜYE ELİBOL",
+        "EMİRHAN KILIÇ",
+        "ERTUĞRUL TOPÇU",
+        "NURCAN ŞANLI",
+        "BÜŞRA ÖZDEMİR",
+        "MELEK ÖZTÜRKAN",
+        "HAYATİ ATMACA",
+        "OSMAN DEMİR",
+        "ABDURRAHMAN ESER",
+        "RECEP BURGUCU",
+        "BEKİR SÖNMEZ",
+        "YAVUZ TAÇ",
+        "HÜSEYİN GAZİ EMRE"
+      ],
+      "CHP": [
+        "GÖKÇE GÖKÇEN",
+        "RIFAT TURUNTAY NALBANTOĞLU",
+        "RAHMİ AŞKIN TÜRELİ",
+        "MAHİR POLAT",
+        "MEHMET SALİH UZUN",
+        "DENİZ YÜCEL",
+        "MUSTAFA BİLİCİ",
+        "HACER FOGGO",
+        "ESİN DOĞAN METİN",
+        "ALTAN İNANÇ",
+        "EMİNE HELİL İNAY KINAY",
+        "AYTEN GÜLSEVER",
+        "NURŞEN BALCI",
+        "BURAK KOTAN"
+      ],
+      "İYİP": [
+        "HÜSMEN KIRKPINAR",
+        "YİĞİT KARAKIŞ",
+        "ARZU YILDIRIM",
+        "TAMER CÜCÜ",
+        "DİNÇER IŞIKTAŞ",
+        "MÜJDE HARPUT APAK",
+        "MÜMİN YALÇINKAYA",
+        "YELİZ ÇULHA",
+        "BÜLENT UYGUR",
+        "MİRAN BACGEROĞLU",
+        "MUSTAFA NURİ DENİZ",
+        "NAZLI BUKET KARASU",
+        "MEHMET HALİS KÖSE",
+        "MEHMET EMİN CANTÜRK"
+      ],
+      "YSP/HDP": [
+        "İBRAHİM AKIN",
+        "CANAN KEBENÇ ÖZKAN",
+        "MEVLÜT ÜLGEN",
+        "SEVGİ ERSAN",
+        "HAİSP ERKAN GÖKBER",
+        "MEHMET ORTAKAYA",
+        "ÖNDER AKTAŞ",
+        "RAMAZAN İDİN",
+        "AYSEL ÖNEN TURAN",
+        "ÖNDER BİROL BIYIK",
+        "İRFAN ALTAN",
+        "SERKAN ÇİFTÇİ",
+        "İSMAİL DOĞAN",
+        "EROL ÇIRAK"
+      ],
+      "TİP": [
+        "İRFAN DEĞİRMENCİ",
+        "MEHMET KANİ",
+        "ESER ATAK",
+        "ADALET KUL",
+        "ÖZLEM AVCI",
+        "AYDIN TEPE",
+        "AYKUT YÜKSEL",
+        "DENİZ KONDİL",
+        "MEVLUDA SENA YAZIBAĞLI SELANİK",
+        "ALİ HAYDAR ÖZTÜRK",
+        "GÜZEL ÖZTÜRK",
+        "OYA OYBİR MİDİLLİ",
+        "BEYZA YAMAN",
+        "MELİS AYDINLI"
+      ]
+    }
+  },
+  "KAHRAMANMARAŞ": {
+    "totalSeats": 8,
+    "parties": {
+      "AKP": [
+        "VAHİT KİRİŞÇİ",
+        "ÖMER ORUÇ BİLAL DEBGİCİ",
+        "MEVLÜT KURT",
+        "TUBA KÖKSAL",
+        "MEHMET ŞAHİN",
+        "HASAN GEZGİNÇ",
+        "KORAY KIRAÇ",
+        "RAMAZAN GÜRBAK"
+      ],
+      "MHP": [
+        "ZUHAL KARAKOÇ DORA",
+        "TURAN ŞAHİN",
+        "ERTUĞRUL DOĞAN",
+        "ÖMER ÖZKAN",
+        "AZİZ KÖMÜRCÜ",
+        "HÜSEYİN ÇİÇEK",
+        "SERMET YILDIZ",
+        "MESUT ÇAKAR"
+      ],
+      "YRP": [
+        "MUHAMMED AYDOĞAR",
+        "MEHMET DERE",
+        "LEVENT PARLAK",
+        "MAHMUT SULAYICI",
+        "EKREM BEKERECİ",
+        "MERVE KIRMACI KUTLU",
+        "HAKAN ZIBA",
+        "MİKTAT KUZHAN"
+      ],
+      "BBP": [
+        "BÜLENT İSPİR",
+        "NEDAT TÜRK",
+        "OĞUZHAN KOCA",
+        "SONGÜL ZÜLKADİROĞLU",
+        "NEVZAT ULUTÜRK",
+        "AHMET HAKAN KAYA",
+        "AHMET ARSLAN",
+        "HAYRULLAH CAN"
+      ],
+      "CHP": [
+        "ALİ ÖZTUNÇ",
+        "İRFAN KARATUTLU",
+        "MEHMET BAĞLAR",
+        "EJDER KAYGUSUZ",
+        "NAİLE İŞLEK",
+        "TUFAN YANAR",
+        "AZİZ CEM GÜNER",
+        "ÇAĞATAY ATASAY"
+      ],
+      "İYİP": [
+        "AHMET ÇABUKEL",
+        "NESLİHAN KOCA NERGİZ",
+        "ZİYA DUMLUPINAR",
+        "BURAK SERT",
+        "ŞEYMA AYTEMİZ ARSLANTÜRK",
+        "İRFAN MERT YIKAN",
+        "EMİNE LEBLEBİCİ",
+        "SERDAL KURTOĞLU"
+      ],
+      "YSP/HDP": [
+        "HÜSEYİN EROĞLU",
+        "AYŞEGÜL DEMİROĞLU",
+        "ABDÜLHAKİM GÜLMEZ",
+        "NURTEN GÜLMEZ",
+        "BAHİR HORUZ",
+        "ALİ İPER",
+        "ALİ ARDIÇ",
+        "YUNUS YILDIZ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "KARABÜK": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "CEM ŞAHİN",
+        "DURMUŞ ALİ KESKİNKILIÇ",
+        "HÜSEYİN GÜNDOĞDU"
+      ],
+      "MHP": [
+        "AHMET DÖNMEZ",
+        "MURAT KARAGÜL",
+        "DİLEK ÜNVER"
+      ],
+      "YRP": [
+        "İSMAİL ÖZER",
+        "MEVLÜT BAŞDEMİR",
+        "NESRİN ADAKOĞLU"
+      ],
+      "BBP": [
+        "HALİL YILDIRIM",
+        "FATİH KELEŞ",
+        "ALPARSLAN GÜNGÖR ÜSKÜP"
+      ],
+      "CHP": [
+        "CEVDET AKAY",
+        "ABDULLAH ÇAKIR",
+        "BAYRAM KARADAĞ"
+      ],
+      "İYİP": [
+        "KÜBRA DURSUN",
+        "OZAN CANYURT",
+        "GÖKÇE ÖZDEMİR"
+      ],
+      "YSP/HDP": [
+        "İBRAHİM EKER",
+        "EZGİ ÇADIRCI",
+        "EFKAN DAŞKAYA"
+      ],
+      "TİP": [
+        "GÜNUZ FULYA UZ",
+        "ARZU GENLİK",
+        "ÖZÜM HANCI"
+      ]
+    }
+  },
+  "KARAMAN": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "SELMAN OĞUZHAN ESER",
+        "OSMAN SAĞLAM",
+        "FATMA ÇOŞTU"
+      ],
+      "MHP": [
+        "MAHMUT ÜNÜVAR",
+        "TURAN ŞENER",
+        "SOYDAN EVCİ"
+      ],
+      "YRP": [
+        "AHMET TAŞKIRAN",
+        "ŞUAYİP EROĞLU",
+        "GÖKHAN ÖZYER"
+      ],
+      "BBP": [
+        "MESUT SOYFİDAN",
+        "RAMAZAN YEŞİL",
+        "AVNİ YAĞCI"
+      ],
+      "CHP": [
+        "İSMAİL ATAKAN ÜNVER",
+        "YUSUF BAŞTUĞ",
+        "HASAN EHLİZ"
+      ],
+      "İYİP": [
+        "ATİLA ZORLU",
+        "ZİHNİ KOCAERKEK",
+        "FADİME HARMANİZİ"
+      ],
+      "YSP/HDP": [
+        "YILDIZ KILINÇ",
+        "KAYHAN YÜKSEL",
+        "ELİF KIVIRCIK"
+      ],
+      "TİP": [
+        "EZGİ GÜLŞEN",
+        "KENAN YILMAZ",
+        "OĞUZ YAŞARGİL"
+      ]
+    }
+  },
+  "KARS": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "ADEM ÇALKIN",
+        "YUNUS KILIÇ",
+        "SERKANT AYKUL"
+      ],
+      "MHP": [
+        "TANER GÖKÇEK",
+        "UĞUR BOY",
+        "HALİL KEREM AYDIN"
+      ],
+      "YRP": [
+        "MURAT KIZILTAŞ",
+        "OKAY AKARÇAY",
+        "ERTÜRK TOPÇU"
+      ],
+      "BBP": [
+        "MUHAMET KARAHAL",
+        "GÜLTEKİN BULUT",
+        "KEMAL AYDEMİR"
+      ],
+      "CHP": [
+        "İNAN AKGÜN ALP",
+        "ONUR ULUDAŞDEMİR",
+        "EVREN YERDELEN"
+      ],
+      "İYİP": [
+        "ALPASLAN YÜCE",
+        "AYTAÇ ERMAN KESGİN",
+        "AYŞE TARLAK YILMAZ"
+      ],
+      "YSP/HDP": [
+        "GÜLÜSTAN KILIÇ KOÇYİĞİT",
+        "GÜLCAN ALP",
+        "SERTAÇ ÇELİKKALELİ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "KASTAMONU": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "HALİL ULUAY",
+        "FATMA SERAP EKMEKCİ",
+        "MEHMET UMUR"
+      ],
+      "MHP": [
+        "EMİN ÇINAR",
+        "ALPEREN ÖZMEN",
+        "ENGİN UZUNER"
+      ],
+      "YRP": [
+        "İBRAHİM DEMİR",
+        "KAĞAN YORULMAZ",
+        "HAYRİ ÇELİK"
+      ],
+      "BBP": [
+        "MAHİR ALAY",
+        "SATILMIŞ KÜLÇE",
+        "ERHAN BAŞER"
+      ],
+      "CHP": [
+        "HASAN BALTACI",
+        "KADİR YALÇIN",
+        "ZİVER KAPLAN"
+      ],
+      "İYİP": [
+        "AHMET KATAR",
+        "METİN ATEŞ",
+        "MUSTAFA GÜVENÇ"
+      ],
+      "YSP/HDP": [
+        "BERRİN SELBUZ",
+        "FİKRET TUFANYAZICI",
+        "SÖZDAR AKDOĞAN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "KAYSERİ": {
+    "totalSeats": 10,
+    "parties": {
+      "AKP": [
+        "HULUSİ AKAR",
+        "AYŞE BÖHÜRLER",
+        "ŞABAN ÇOPUROĞLU",
+        "MURAT CAHİD CINGI",
+        "SAYIN BAYAR ÖZSOY",
+        "MAHMUT GÜRCAN",
+        "EMİNE TİMUÇİN",
+        "HÜSEYİN CAHİT ÖZDEN",
+        "HÜSEYİN OKANDAN",
+        "DENİZ MUSTAFA ÇAĞAN"
+      ],
+      "MHP": [
+        "İSMAİL ÖZDEMİR",
+        "MUSTAFA BAKİ ERSOY",
+        "ADNAN İNCETOPRAK",
+        "METE KURT",
+        "MÜLAYİM GÜL AKARSU",
+        "ERGÜN ERYILMAZ",
+        "ERTUĞRUL YÜCEBAŞ",
+        "KAYHAN SARAÇ",
+        "MUSTAFA BOZKURT",
+        "BATUHAN BERKE BAŞPINAR"
+      ],
+      "YRP": [
+        "ÖNDER NARİN",
+        "ERCAN ARAS",
+        "ALİ RIZVAN",
+        "SELVER BOZTAŞ",
+        "ADEM KAHVECİ",
+        "MURAT YILMAZ",
+        "CENGİZ GENÇTÜRK",
+        "GÖKHAN DUMAN",
+        "HÜSEYİN ACARI",
+        "YUSUF ADIYAMAN"
+      ],
+      "BBP": [
+        "HAKAN SATILMIŞ",
+        "ATİLLA ÖNİZ",
+        "MURAT KELEK",
+        "ERCAN YOZGAT",
+        "FATİH KOÇ",
+        "AHMET YILDIZ",
+        "RAMAZAN GÜNEŞ",
+        "CENGİZ GÖKSUN",
+        "BÜNYAMİN MERT",
+        "GAZİ KARATAŞ"
+      ],
+      "CHP": [
+        "AŞKIN GENÇ",
+        "MAHMUT ARIKAN",
+        "BURHAN BAHADIR ÖZSOY",
+        "ZÜLKÜF ARSLAN",
+        "ÜMİT ÖZER",
+        "ÖZGEN AYDINCAK",
+        "ALİ ÇETİNKAYA",
+        "ONUR SERGEN DOĞAN",
+        "İBRAHİM KAAN",
+        "NİYAZİ ÜNALMIŞ"
+      ],
+      "İYİP": [
+        "DURSUN ATAŞ",
+        "ABDULLAH İLKER SUNGUR",
+        "HÜSEYİN CENGİZ GÜRBÜZ",
+        "BETÜL TOSUN",
+        "KAZIM YÜCEL",
+        "SERAP DURMUŞ",
+        "SÜLEYMAN BOZKURT",
+        "MEHMET SEBATİ ATAMAN",
+        "SEDAT KILINÇ",
+        "BELGÜZAR KILIÇ"
+      ],
+      "YSP/HDP": [
+        "DAĞISTAN BUDAK",
+        "NURAN ERGEN KILIÇ",
+        "HASAN DAŞKIN",
+        "FADİK TEMİZYÜREK",
+        "İZZET KAPLAN",
+        "RANA BERK",
+        "İHSAN SARIYAR",
+        "SELMA KARAMAN",
+        "ALİ  ÇELEBİ",
+        "NECLA AKTAY"
+      ],
+      "TİP": [
+        "BİLGİN ASLAN",
+        "NAZIR KAPUSUZ",
+        "İLAYDA TOK",
+        "ÖZLEM DEMİR",
+        "SERCAN LAÇIN",
+        "EREN GÜRPINAR",
+        "AHMET İŞBİLEN",
+        "BERİL KARABULUT",
+        "CEVHER ÖZBOLAT",
+        "AYSEL DUMAN"
+      ]
+    }
+  },
+  "KIRIKKALE": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "MUSTAFA KAPLAN",
+        "ERGÜN TEKİN",
+        "MUHAMMET EMİN AVUNDUKLUOĞLU"
+      ],
+      "MHP": [
+        "HALİL ÖZTÜRK",
+        "MELİKE BORAN İSMAİLOĞULLARI",
+        "MENDERES ERAY"
+      ],
+      "YRP": [
+        "ARİF ERDAL",
+        "FERHAT UYSAL",
+        "MEHMET PEKTAŞ"
+      ],
+      "BBP": [
+        "MUSTAFA SU",
+        "MURAT GÜNEŞ",
+        "ALPER ZARARSIZ"
+      ],
+      "CHP": [
+        "AHMET ÖNAL",
+        "ÖMER ELDEMİR",
+        "ÜMİT DUMAN"
+      ],
+      "İYİP": [
+        "BÜLENT ŞÜKRÜ ALTINIŞIK",
+        "ORHAN KILIÇ",
+        "SEVİM PEHLİVANLI ÖZBEK"
+      ],
+      "YSP/HDP": [
+        "BURAK ÇOĞALAN",
+        "RAHİME KÜRKÇÜ",
+        "VELAT AYGÜN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "KIRKLARELİ": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "AHMET GÖKHAN SARIÇAM",
+        "HÜSEYİN TUZCU",
+        "NEŞE KİRAZ"
+      ],
+      "MHP": [
+        "NUR AYBÜKE BAYBAŞ",
+        "GAMZE BOZDEMİR",
+        "ALAATTİN ERSAN ŞENYİĞİT"
+      ],
+      "YRP": [
+        "YUSUF AYDIN",
+        "RIDVAN ÖZAY",
+        "UFUK ÖZKARACAN"
+      ],
+      "BBP": [
+        "ERCAN ANDAÇ",
+        "ANIL SARPDERE",
+        "KEMAL KARAKAŞ"
+      ],
+      "CHP": [
+        "VECDİ GÜNDOĞDU",
+        "FAHRİ ÖZKAN",
+        "HATİCE GÜL BİNGÖL"
+      ],
+      "İYİP": [
+        "TÜRKER YÖRÜKÇÜOĞLU",
+        "SİBEL PİŞKİN",
+        "İRFAN GÖKLER"
+      ],
+      "YSP/HDP": [
+        "MERAL GARİP",
+        "ERDAL TEKTAŞ",
+        "AYŞEN ECE KAVAS"
+      ],
+      "TİP": [
+        "ZEYNEP BİLGİÇ",
+        "YILMAZ BİÇER",
+        "DENİZ ÖZTÜRK"
+      ]
+    }
+  },
+  "KIRŞEHİR": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "NECMETTİN ERKAN",
+        "OSMAN ARSLAN"
+      ],
+      "MHP": [
+        "ALİ AYDIN AKPINAR",
+        "MEHMET AY"
+      ],
+      "YRP": [
+        "BİLAL ÇAĞRI KAYA",
+        "ALİ YAŞAR"
+      ],
+      "BBP": [
+        "MUSTAFA USLU",
+        "SERTAN BEDİRHAN"
+      ],
+      "CHP": [
+        "METİN İLHAN",
+        "ŞEREF BARAN GENÇ"
+      ],
+      "İYİP": [
+        "TURAN YILDIRIM",
+        "ASAF KAYAOĞLU"
+      ],
+      "YSP/HDP": [
+        "MUSTAFA KARAMAN",
+        "BEHİYE AKYOL"
+      ],
+      "TİP": [
+        "SİNAN YILDIIRM",
+        "FUNDAGÜL DEMİRKOL"
+      ]
+    }
+  },
+  "KİLİS": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "AHMET SALİH DAL",
+        "FAZIL ARISOY"
+      ],
+      "MHP": [
+        "MUSTAFA DEMİR",
+        "FATİH KAYA"
+      ],
+      "YRP": [
+        "FAZIL TOSYALIOĞLU",
+        "ALİ CECELİ"
+      ],
+      "BBP": [
+        "DAVUT CEM KAYMAKÇI",
+        "CEMİL ERCAN ASLAN"
+      ],
+      "CHP": [
+        "MEHMET AKİF PERKER",
+        "HURŞİT ÇETİN"
+      ],
+      "İYİP": [
+        "MUSTAFA ARAZ",
+        "MUSTAFA POLAT"
+      ],
+      "YSP/HDP": [
+        "MEHMET SEFA ÖZDEMİR",
+        "GÜLŞEN KARASU"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "KOCAELİ": {
+    "totalSeats": 14,
+    "parties": {
+      "AKP": [
+        "SADETTİN HÜLAGÜ",
+        "RADİYE SEZER KATIRCIOĞLU",
+        "VEYSAL TİPİOĞLU",
+        "MEHMET AKİF YILMAZ",
+        "CEMİL YAMAN",
+        "SAMİ ÇAKIR",
+        "YASEMİN ÖZDEMİR",
+        "MEHMET ELLİBEŞ",
+        "ALİ GÜNEY",
+        "BERNA ABİŞ",
+        "HASAN SOBA",
+        "ERKAN AKSOY",
+        "GÜLAY ARTUT",
+        "İBRAHİM EFE"
+      ],
+      "MHP": [
+        "SAFFET SANCAKLI",
+        "YUDUM KAŞIKÇI",
+        "EMRE KÜLCÜ",
+        "HAKTAN KALINTAŞ",
+        "HASAN GALYAN",
+        "CELALETTİN YAYLAK",
+        "SERKAN GÜNAYDIN",
+        "HALİL MAYA",
+        "MURAT BALTA",
+        "HAVVA KÖSE",
+        "MUHTEREN ÇAY",
+        "HACI ERTAN",
+        "İSA ARAZ",
+        "ABDULKADİR DANIŞMAZ"
+      ],
+      "YRP": [
+        "MEHMET AŞILA",
+        "BASRİ ÇAYIR",
+        "MEHMET ARAS",
+        "AHMET EMRE AYDIN",
+        "MAŞALLAH SÖĞÜT",
+        "YAŞAR BİRGÜL",
+        "SELİM KIRICI",
+        "MELİKE YALÇIN",
+        "SÜLEYMAN KABACA",
+        "EMİN GÜRCAN",
+        "HAKAN UZUN",
+        "MURAT DOĞRU",
+        "TOLGA AYDIN",
+        "CİHAN KURDAL"
+      ],
+      "BBP": [
+        "ŞERAFETTİN AKDEMİR",
+        "ÖMER GÖKHAN ALADAĞ",
+        "SELİM ÖZTÜRK",
+        "SERKAN KOÇ",
+        "MURAT SARI",
+        "SAMET ÇETİN",
+        "SADULLAH KILIÇ",
+        "MEHMET BATIKAN AKBALLI",
+        "ARİF EMRE DUMAN",
+        "AYSUN DEMİREL",
+        "FATMA BANU KAYRALDAĞ",
+        "ÖMER BALKAN",
+        "TİMUR ACAR",
+        "EMRE BERK SEYMEN"
+      ],
+      "CHP": [
+        "MÜHİP KANKO",
+        "HARUN ÖZGÜR YILDIZLI",
+        "HASAN BİTMEZ",
+        "NAİL ÇİLER",
+        "SERAP ÇAKIR",
+        "TÜLİN KEÇECİ GÜNGÖR",
+        "CUMA KARAVAR",
+        "CANER ARDUÇ",
+        "MEHMET ÜMİT KÜÇÜKKAYA",
+        "SELMAN KÖSALI",
+        "HÜLYA GÜRELİ YOLCUBAL",
+        "BELKIZA İLTER",
+        "İSMET İŞERİ",
+        "BERNA ÇETİN"
+      ],
+      "İYİP": [
+        "LÜTFÜ TÜRKKAN",
+        "ŞANBAZ YILDIZ",
+        "MEHMET KAMİL ŞİRİN",
+        "PELİN FİLİZ COŞTUR",
+        "NESLİ GÖKÇE KONDU ÇAĞLAYAN",
+        "ALİPAŞA NAİPOĞLU",
+        "ABDULKADİR ERBAĞCI",
+        "YÜKSEL ERCAN",
+        "ÖZHAN AŞKIN ÖZTÜRK",
+        "HASAN SIR",
+        "SEDA BÜYÜKKARA",
+        "GÜZİN AŞKIN ALPARSLAN ATALI",
+        "AŞKIN ÖZÖN",
+        "SAVAŞ EMİNOĞLU"
+      ],
+      "YSP/HDP": [
+        "ÖMER FARUK GERGERLİOĞLU",
+        "EYLEM ARZU KAYAOĞLU",
+        "İLHAMİ ŞAHBAZ",
+        "SELDA İLGÖZ KOCAYİĞİT",
+        "MEMET SELİM AKBOĞA",
+        "ZELİHA GÖKSÜGÜZEL",
+        "SİNAN ODABAŞ",
+        "FATMA YILDIRIM",
+        "MEHMET EMİN İNCE",
+        "KUDRET DAVUTOĞLU",
+        "YUSUF AKAR",
+        "SERPİL TOPAL",
+        "AYTEN DÖNMEZ",
+        "MURAT OZAN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "KONYA": {
+    "totalSeats": 15,
+    "parties": {
+      "AKP": [
+        "TAHİR AKYÜREK",
+        "ORHAN ERDEM",
+        "SELMAN ÖZBOYACI",
+        "MERYEM GÖKA",
+        "ABDULLAH AĞRALI",
+        "MEHMET BAYKAN",
+        "ZİYA ALTUNYALDIZ",
+        "LATİF SELVİ",
+        "MUSTAFA HAKAN ÖZER",
+        "FARUK ÖZÇELİK",
+        "BURHANETTİN SEVENCAN",
+        "SAADET ARMAĞAN GÜLEÇ KORUMAZ",
+        "ERCAN USLU",
+        "HÜMEYRA SAÇKESEN",
+        "MUHAMMED ZEREN"
+      ],
+      "MHP": [
+        "MUSTAFA KALAYCI",
+        "KONUR ALP KOÇAK",
+        "CELİL ÇALIŞ",
+        "GÜZİDE ÇİPAN",
+        "HÜSEYİN KAVAS",
+        "BİLAL YİĞİT",
+        "MUSTAFA YAĞAN",
+        "MEHMET TURHAN",
+        "YASİN YAKAR",
+        "SALİH AKÇA",
+        "SONGÜL GİZEM YÜCEL",
+        "RAMAZAN UYAR",
+        "AYTEKİN MART",
+        "YAKUP KOCABAŞ",
+        "FATİH TOKLUCU"
+      ],
+      "YRP": [
+        "ALİ YÜKSEL",
+        "ADNAN ACAR",
+        "MEVLÜT KOÇ",
+        "MUSTAFA ÖZERDEM",
+        "TEMEL PEKER",
+        "HATİCE İNLİDERE",
+        "MEHMET UYAN",
+        "MEHMET ALTUĞ",
+        "MEHMET KACAROĞLU",
+        "İSMAİL TOPÇU",
+        "HASAN DOĞAN",
+        "ÖMER CEYLAN",
+        "ALİ CAMGÖZ",
+        "BURAK CİHAT DÜNDAR",
+        "FERİDUN DEMİRCİ"
+      ],
+      "BBP": [
+        "OSMAN SEÇKİN",
+        "İSMAİL İNLİDERE",
+        "SEYİT ÖZCAN",
+        "DOĞAN SATI",
+        "HALİL İBRAHİM SÖĞÜT",
+        "HACER ATASAGUN",
+        "ALPER KUTSAL KÖZ",
+        "MUHAMMED FATİH DAĞLIOĞLUGİL",
+        "FATİH YAKARER",
+        "ÖMER FARUK KERESTECİ",
+        "FATİH MEHMET KUZ",
+        "YAŞAR İVRİZ",
+        "ABDURRAHMAN ÇİMEN",
+        "MİLAZIM ESEN",
+        "EYÜP ŞENOL"
+      ],
+      "CHP": [
+        "BARIŞ BEKTAŞ",
+        "HASAN EKİCİ",
+        "GENÇOSMAN KİLLİK",
+        "ÖMER ÜNAL",
+        "HALİL ERCAN",
+        "KAMİL BÜLBÜL OKUYUCU",
+        "GALİP POLAT",
+        "AYŞE ALKIM GÖKÇE",
+        "MÜRSEL AYRANCI",
+        "EZGİ BİLGE ARSLAN",
+        "ŞERİFE TUNÇ",
+        "MEHMET PİRZADE",
+        "DURSUN KAPLAN",
+        "RIDVAN ŞENYURT",
+        "TEVFİK FİKRET İVGEN"
+      ],
+      "İYİP": [
+        "ÜNAL KARAMAN",
+        "FAHRETTİN YOKUŞ",
+        "SELİN TOZOĞLU",
+        "OSMAN FEDAİ",
+        "SÜLEYMAN ŞENOL",
+        "YAŞAR YAMAN",
+        "TOLUNAY ÖZÇELİK",
+        "ESRA TOTAN",
+        "NURİ ÜNALAN",
+        "ERHAN GÖKMEN",
+        "HASAN HÜSEYİN HADİMLİ",
+        "ADNAN AYYILDIZ",
+        "İSMAİL AFŞAR",
+        "İBRAHİM ÇALIŞKAN",
+        "SEMA VADİ"
+      ],
+      "YSP/HDP": [
+        "MULLA ŞİMŞEK",
+        "EMİNE DUYMAZ",
+        "ESMA KÖKER",
+        "AHMET RECAİ ERSOY",
+        "FATMA YILDIZ",
+        "ROJVAN ULUDAĞ",
+        "SADİYE KELEŞ",
+        "ERKAN ŞENGÜL",
+        "MEHMET ALİ KARTAL",
+        "MEVLÜT TAŞDEMİRCİ",
+        "AZAT SARI",
+        "SEVİM ŞAKAR",
+        "KANAN MAÇOĞLU",
+        "KARDELEN KARAMAN",
+        "ONUR ARDIK"
+      ],
+      "TİP": [
+        "BİLAL ORTAKALAYCI",
+        "PINAR BABİR",
+        "İBRAHİM ALTINPINAR",
+        "BİLGE KAAN ÖZDAL",
+        "YUNUS KOCA",
+        "MUHAMMED ENES AKUĞUR",
+        "AYŞE BAĞLAMIŞ",
+        "DENİZ CAN AYDIN",
+        "YAĞMUR TOK AL",
+        "MAHİ ÖZNUR BİLEN",
+        "CENAN ŞARMAN UTKU",
+        "ÖMER ERYETKİN",
+        "NURCAN KAYA",
+        "SERKAN TUNÇ KEÇELİ",
+        "AYŞE ERDOĞAN"
+      ]
+    }
+  },
+  "KÜTAHYA": {
+    "totalSeats": 5,
+    "parties": {
+      "AKP": [
+        "ADİL BİÇER",
+        "İSMAİL ÇAĞLAR BAYIRCI",
+        "MEHMET DEMİR",
+        "ESRA ÖZBEK BALCI",
+        "MUSTAFA ALTUĞ ATALAY"
+      ],
+      "MHP": [
+        "AHMET ERBAŞ",
+        "MURAT GÜL",
+        "MEHMET DİNÇ",
+        "ARZU KURNAZ",
+        "ÜLKÜ GÖKÇEN KEHRİBAR"
+      ],
+      "YRP": [
+        "OSMAN GEZGİN",
+        "İRFAN GÜLEÇ",
+        "İBRAHİM GİRGİN",
+        "BAYRAM TOSUN",
+        "MUHAMMET ALİ GÜNGÖR"
+      ],
+      "BBP": [
+        "CÜNEYT EROL",
+        "YUNUS SOYGÜR",
+        "HAVVA BACAK",
+        "HASAN KESKİN",
+        "YILDIRIM BEYAZID ŞENFERAH"
+      ],
+      "CHP": [
+        "ALİ FAZIL KASAP",
+        "AHMET SUNAR",
+        "GÜLER EZGİ DOĞAN TURAN",
+        "HAŞİM ERTEKİN",
+        "KEREM ERKUL"
+      ],
+      "İYİP": [
+        "ORHAN ÖZATİK",
+        "SEYDİ KARAKUŞ",
+        "EROL ERTÜRK",
+        "NURCAN DUYGU",
+        "TANSU COŞKUN"
+      ],
+      "YSP/HDP": [
+        "AYŞEGÜL KORKUTAN",
+        "BİLAL BİLİN",
+        "AZİME DAŞ",
+        "NİHAT YILDIRIM",
+        "FİLİZ PEŞTEK KESKİN"
+      ],
+      "TİP": [
+        "İBRAHİM BEYTULLAH SAYAR",
+        "ADNAN PAK",
+        "MUSTAFA ÖZMEN",
+        "BURAK ŞERİF KARATEKE",
+        "UTKU ÇİFCİ"
+      ]
+    }
+  },
+  "MALATYA": {
+    "totalSeats": 6,
+    "parties": {
+      "AKP": [
+        "BÜLENT TÜFENKCİ",
+        "İHSAN KOCA",
+        "İNANÇ SİRAÇ KARA ÖLMEZTOPRAK",
+        "ABDURRAHMAN BABACAN",
+        "VAHİT ATALAN",
+        "RAMAZAN ÖZCAN"
+      ],
+      "MHP": [
+        "MEHMET CELAL FENDOĞLU",
+        "ÖMER EKİCİ",
+        "MESUT SAMANLI",
+        "SELMA ÇİCEK",
+        "MUHSİN YİĞİT",
+        "UĞUR SEVİM"
+      ],
+      "YRP": [
+        "BİLAL YILDIRIM",
+        "AHMET ATEŞ",
+        "YILMAZ HOROZ",
+        "HACİ YUSUF ÇINAR",
+        "DENİZ KAR",
+        "OKTAY ÇELİK"
+      ],
+      "BBP": [
+        "NİHAT GÜRBÜZ",
+        "NEVZAT ŞAHİN",
+        "ÖZAY ÖZCAN",
+        "HÜSEYİN ÖNAL",
+        "ABDÜLKADİR ÖZASLAN",
+        "GAFFAR AKKUŞ"
+      ],
+      "CHP": [
+        "VELİ AĞBABA",
+        "ENVER KİRAZ",
+        "BATTAL KANBAY",
+        "ALİ İMRAN MARASALI",
+        "YUSUF KURŞUN",
+        "OKAY DEMİRHAN"
+      ],
+      "İYİP": [
+        "ŞEYHMUS GÖÇMEZ",
+        "ATİLLA ŞAHİN",
+        "ELİF APOHAN",
+        "SELÇUK HAN",
+        "METİN KAPIDERE",
+        "MENİJE NUR ÖZCAN"
+      ],
+      "YSP/HDP": [
+        "PERİHAN YÜCEKAYA",
+        "YUSUF BOZKUŞ",
+        "SEVİM ALAGÖZ",
+        "HÜSEYİN KILINÇ",
+        "ROZERİN ERCAN",
+        "GAFFAR BAYRAM"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "MANİSA": {
+    "totalSeats": 10,
+    "parties": {
+      "AKP": [
+        "BAHADIR YENİŞEHİRLİOĞLU",
+        "MURAT BAYBATUR",
+        "TAMER AKKAL",
+        "AHMET MÜCAHİT ARINÇ",
+        "MEHMET ALİ ÖZKAN",
+        "AYŞE NEVİN SERT",
+        "MÜRŞİT GEDİZLİ",
+        "FATİH KATIÖZ",
+        "AHMET PALABIYIK",
+        "YAŞAR DEMİREL"
+      ],
+      "MHP": [
+        "ERKAN AKÇAY",
+        "ALİ UÇAK",
+        "ŞEHNAZ GÜVENDİK ARIK",
+        "MUSTAFA ÜNVEREN",
+        "GÜNGÖR DİNCER",
+        "SEVAL BAŞKESEN",
+        "HÜSEYİN ŞAHİN ERTURUN",
+        "NADİ SARI",
+        "DENİZ SEVİM",
+        "ÖZTÜRK DEMİR"
+      ],
+      "YRP": [
+        "HAKAN LALEBAŞ",
+        "DOĞAN TAYYİP KARAKELLE",
+        "ADİL DURU",
+        "TOLGA YAMAKLI",
+        "MUHARREM HÜSEYİN ÇİPİLOĞLU",
+        "YALÇIN ÇAPANİK",
+        "MUHAMMET EMİN GÜLER",
+        "SEZEN KARABOĞA",
+        "AHMET ÇAKIL",
+        "RAMAZAN AKAR"
+      ],
+      "BBP": [
+        "İSMAİL HAKKI BAKIR",
+        "AHMET MUSTAFA SÜZER",
+        "CENGİZ APAYDIN",
+        "CİHAN ÖZCAN",
+        "HACI ERGİN",
+        "YASİN SARI",
+        "MUSTAFA AYDEMİR",
+        "ARİF UZUNOĞLU",
+        "ABDULLAH ERGİN",
+        "SÜLEYMAN KANYILMAZ"
+      ],
+      "CHP": [
+        "ÖZGÜR ÖZEL",
+        "AHMET VEHBİ BAKIRLIOĞLU",
+        "BEKİR BAŞEVİRGEN",
+        "SELMA ALİYE KAVAF",
+        "MUSA SEMİH BALABAN",
+        "NEŞE ZENGİN",
+        "AYSUN HELVACIOĞLU",
+        "SEÇİL EGE DEĞERLİ",
+        "ŞERİF AKMEŞE",
+        "İLKSEN ÖZALPER"
+      ],
+      "İYİP": [
+        "ŞENOL SUNAT",
+        "HASAN ERYILMAZ",
+        "FİLİZ TUĞÇE AYRANCI İPLİKÇİ",
+        "MEHMET KOÇ",
+        "GÜRHAN ÖZCAN",
+        "ORKUN ŞIKTAŞLI",
+        "ASLI ÖZ",
+        "KAZIM ÖZSOY",
+        "BİRGÜL BOZKURT",
+        "MEHMET DOĞAN"
+      ],
+      "YSP/HDP": [
+        "HABİP EKSİK",
+        "ZÜBEYDE TARLABÖLEN",
+        "GÜLSÜM ÇOLAK",
+        "EVİN GÜNSEL",
+        "KEREM TAYLAN",
+        "AYŞE KARAGÖZ",
+        "AYŞE GÜL",
+        "REMZİYE ESEN",
+        "İSMAİL TERUT",
+        "ZEHRA VEZAN KARABULUT"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "MARDİN": {
+    "totalSeats": 6,
+    "parties": {
+      "AKP": [
+        "FARUK KILIÇ",
+        "MUHAMMED ADAK",
+        "MEHMET AKİF NUHOĞLU",
+        "ABDULVAHAP ARBAĞ",
+        "MEHMET SAMSA",
+        "AYHAN ASLAN"
+      ],
+      "MHP": [
+        "FERHAN BOZKUŞ",
+        "MEHMET ERBOĞAN",
+        "MEHMET SAİT TEZDÖNEN",
+        "ZEYNİ ALBAYRAK",
+        "BEDRETTİN ASLAN",
+        "OKTAY ŞENGÜL"
+      ],
+      "YRP": [
+        "ÖMER FARUK AYDIN",
+        "ABDULLAH ÇELİK",
+        "YASİN ÇİFTÇİ",
+        "MEHMET ŞERİF GÜMÜŞAY",
+        "ABDULKADİR ÇAVUŞOĞLU",
+        "MAHMUT ÖZER"
+      ],
+      "BBP": [
+        "TÜRKAN ÇİFTÇİ",
+        "HAKAN SEVÜK",
+        "RIDVAN YALÇIN",
+        "İSMAİL SAROHAN",
+        "ÜMİT EKİNCİ",
+        "ASLAN AYDOĞAN"
+      ],
+      "CHP": [
+        "MEHMET SAİT ÇELEBİ",
+        "ŞÜKRÜ KARABOĞA",
+        "NURETTİN KILIÇ",
+        "İBRAHİM TAŞDELEN",
+        "NİLGÜN BAYRAKTAR",
+        "ÖMER DURAK"
+      ],
+      "İYİP": [
+        "ENVER ABEŞ",
+        "SONGÜL SADİOĞLU",
+        "ABDULLAH KARAKEÇİ",
+        "ABDULMUTALİP IRMAK",
+        "ŞEYHMUS MUSAOĞLU",
+        "AZİZ ARDA UĞUR"
+      ],
+      "YSP/HDP": [
+        "SALİHA AYDENİZ",
+        "KAMURAN TANHAN",
+        "BERİTAN GÜNEŞ",
+        "GEORGE ASLAN",
+        "LEYLA KAYA",
+        "SELAHATTİN ERTAŞ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "MERSİN": {
+    "totalSeats": 13,
+    "parties": {
+      "AKP": [
+        "NUREDDİN NEBATİ",
+        "ALİ KIRATLI",
+        "HAVVA SİBEL SÖYLEMEZ",
+        "FARUK DİNÇ",
+        "MEHMET AKDOĞAN",
+        "ALİ İHSAN GÖK",
+        "SERKAN TANRIKULU",
+        "HAKKI MENİZ",
+        "FATİH DÖLEK",
+        "MUSTAFA ERİM",
+        "FİRDEVS AKTÜRK",
+        "HALİT PEKDURAN",
+        "SEÇKİN TAŞ"
+      ],
+      "MHP": [
+        "LEVENT UYSAL",
+        "SERDAR SOYDAN",
+        "MUSTAFA AKIN",
+        "OLCAY KILAVUZ",
+        "MEHMET ŞAHİN",
+        "KÜRŞAT TÜRKER ERCAN",
+        "MUSTAFA YAŞAR",
+        "KIVANÇ DERYA",
+        "ZEYNEL KORKMAZ",
+        "FERDA ER",
+        "FATİH ÖNGE",
+        "ALİ ARI",
+        "ALİ KAYA"
+      ],
+      "YRP": [
+        "TANER BOZ",
+        "ADNAN UYAR",
+        "BAYRAM TANRIVERDİ",
+        "MEHMET BİLGE ŞAHİN",
+        "MİKAİL TEKÇE",
+        "İZZEDDİN ALKAN",
+        "SEFA ÇAYLAR",
+        "RAMAZAN ALUÇ",
+        "AHMET YILDIRIM",
+        "MUSA ÖZMEN",
+        "YUNUS TURAN",
+        "SONER ÇELİK",
+        "NEVZAT DÜRGEN"
+      ],
+      "BBP": [
+        "ALİ KESER",
+        "ABDULVAHAP POLAT",
+        "ALİ ATAY",
+        "ALİ BEKER",
+        "SALİM KAYIŞOĞLU",
+        "ERDAL ŞEVGİN",
+        "MUSTAFA KEMAL ASLAN",
+        "DÜNDAR AK",
+        "KEMAL CAN",
+        "FATMA KESER",
+        "MUSTAFA KÜPELİ",
+        "HALİL GENÇOĞULLARI",
+        "KADİR KÜÇÜK"
+      ],
+      "CHP": [
+        "ALİ MAHİR BAŞARIR",
+        "GÜLCAN KIŞ",
+        "MEHMET EMİN EKMEN",
+        "TALAT DİNÇER",
+        "HASAN UFUK ÇAKIR",
+        "EMRE YILMAZ",
+        "NURSEN YÜCESOY TEMİZKAN",
+        "LEYLA SERİN KIRIK",
+        "AHMET YORGUN",
+        "MEHMET GÜLTEKİN UĞUR",
+        "ŞERİFE ARICI YILDIZ",
+        "GÜVEN KOCABIYIK",
+        "NESLİHAN ÇELEBİ"
+      ],
+      "İYİP": [
+        "BURHANETTİN KOCAMAZ",
+        "AYDIN ENES SEYDANLIOĞLU",
+        "ALİ ER",
+        "ESRA KAHRAMAN",
+        "ÖZER ÖZEL",
+        "MEHMET TURGUT",
+        "YÜKSEL ÇELİK",
+        "ESİN ERKOÇ",
+        "ALİ RIZA ÖZDENİZ",
+        "MEHMET TÜRE",
+        "MEHMET YUNUS SEVEN",
+        "HİLAL USTA",
+        "ERKAN ARICI"
+      ],
+      "YSP/HDP": [
+        "ALİ BOZAN",
+        "PERİHAN KOCA",
+        "MUSTAFA TÜRK",
+        "HAMDİYE KIRICI",
+        "ŞERİF DURMAZ",
+        "HACI BAYRAM KIZARTICI",
+        "AYŞE GÜL TEMÜR",
+        "ESRA ERGÜZELOĞLU KİLİM",
+        "MUHAMMET TALAT ŞEKER",
+        "ADNAN ŞAHİN",
+        "DERMAN TARANCI",
+        "MEHMET ŞİRİN KAYA",
+        "AYDIN AYDIN"
+      ],
+      "TİP": [
+        "HAKAN GÜNEŞ",
+        "EBRU ÇERÇİ",
+        "BÜLENT UFUK ATEŞ",
+        "GENCER BAYKUL",
+        "ŞİLAN EKİNCİ",
+        "UĞURCAN ESİROĞLU",
+        "AYŞE SİBEL LEVENT",
+        "ALİ HAKAN ÇETİN",
+        "TENZİLE YADİGAR AK",
+        "OĞUZ ÖZCANLI",
+        "OLCAY  YILMAZ ULUĞ",
+        "KAMURAN GÜNAY",
+        "DENİZ ARSLAN"
+      ]
+    }
+  },
+  "MUĞLA": {
+    "totalSeats": 7,
+    "parties": {
+      "AKP": [
+        "KADEM METE",
+        "YAKUP OTGÖZ",
+        "EYLEM TAN",
+        "TURGAY ÖZTÜRK",
+        "ALİ METE KARAGÖZ",
+        "HAKAN FEVZİ İLHAN",
+        "ALİ TEKİN"
+      ],
+      "MHP": [
+        "ÖZLEM BALCI",
+        "ERTUĞRUL AVCI",
+        "MEVLÜT KİRİŞ",
+        "ABDULKADİR TEKİN",
+        "ŞEVKET TOKUR",
+        "HİLMİ BAŞPINAR",
+        "NESLİHAN DOĞANGÜL ÖNDER"
+      ],
+      "YRP": [
+        "İSMAİL BAYKAL",
+        "KADİR GÜRSOY",
+        "ERSİN TOPTAŞ",
+        "HASAN SEFA TURSUN",
+        "MEHMET NESİM POLAT",
+        "FARUK ÖGE",
+        "ENGİN KAYA"
+      ],
+      "BBP": [
+        "AHMET TARIK SARI",
+        "ALİ ÖZDEN",
+        "HİLAL ÇETİNKAYA",
+        "REYHAN YILMAZ",
+        "MUSTAFA RÜÇHAN ÖZER",
+        "HÜSEYİN ÇAKIR",
+        "UFUK DÖNMEZ"
+      ],
+      "CHP": [
+        "CUMHUR UZUN",
+        "GİZEM ÖZCAN",
+        "SÜREYYA ÖNEŞ DERİCİ",
+        "SELÇUK ÖZDAĞ",
+        "MEHMET DEMİR",
+        "FATMA GEBEŞ ÇİMEN",
+        "SALİH NAZMİ BÜYÜKDÖĞERLİOĞLU"
+      ],
+      "İYİP": [
+        "METİN ERGUN",
+        "BEHÇET SAATCI",
+        "MEHMET TOSUN",
+        "GÜLGÜN ÇOLAKOĞLU",
+        "AYFER İLHAN ÖÇER",
+        "TULGAY HASAR",
+        "ÖMER KAYA"
+      ],
+      "YSP/HDP": [
+        "HASAN YILDIRIM",
+        "İPEK MAHMUTOĞLU",
+        "İBRAHİM HALUK KOŞAR",
+        "NEZİR YATKI",
+        "DERYA HEZER",
+        "SEDAT YAĞCIOĞLU",
+        "İBRAHİM ÇİFTÇİOĞLU"
+      ],
+      "TİP": [
+        "MEHMET ASLANTUĞ",
+        "NEŞE TUNCER GÜNGÜT",
+        "OSMAN GÜLGÜN",
+        "MEHMET YAPICI",
+        "YAĞMUR ÖZGÜR GÜVEN",
+        "FÜSUN ÜNLÜSOY",
+        "NEŞET KARADAĞ"
+      ]
+    }
+  },
+  "MUŞ": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "MEHMET EMİN ŞİMŞEK",
+        "NUR AHMET KILIÇASLAN",
+        "MUHAMMED BAHADDİN İŞIK"
+      ],
+      "MHP": [
+        "LEVENT ÖZMEN",
+        "HALUK ZEKİ ÖĞRETEN",
+        "YAŞAR FURKAN BİNGÖL"
+      ],
+      "YRP": [
+        "HAKKI BULUT",
+        "CEMALETTİN ÖZDEN",
+        "İRFAN ÇELİK"
+      ],
+      "BBP": [
+        "HARUN AKOVA",
+        "RAŞİT GÜLER",
+        "ENES GASPAK"
+      ],
+      "CHP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "İYİP": [
+        "MÜMTAZ YAVUZ",
+        "UMUT DENİZ GÜNEYSU",
+        "EFEKAN KEMALOĞLU"
+      ],
+      "YSP/HDP": [
+        "SEZAİ TEMELLİ",
+        "SÜMEYYE BOZ",
+        "SERHAT DURSUN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "NEVŞEHİR": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "SÜLEYMAN ÖZGÜN",
+        "EMRE ÇALIŞKAN",
+        "MUSTAFA RAUF YANAR"
+      ],
+      "MHP": [
+        "FİLİZ KILIÇ",
+        "MUSTAFA ÇİFTCİ",
+        "EMRE AKTAŞ"
+      ],
+      "YRP": [
+        "ABDULGANİ ALTINIŞIK",
+        "ERSİN BAŞAR",
+        "MEHMET DERİN"
+      ],
+      "BBP": [
+        "RAMAZAN KALKAN",
+        "RECEP TÜKEL",
+        "MEHMET ÇİMEN"
+      ],
+      "CHP": [
+        "FARUK SARIASLAN",
+        "MEHMET DEĞİRMENCİ",
+        "EDA DOĞAN"
+      ],
+      "İYİP": [
+        "RASİM ARI",
+        "MESUT ERDOĞAN",
+        "AYŞE GÖL MIHÇI"
+      ],
+      "YSP/HDP": [
+        "CAFER KILIÇ",
+        "SADİYE GÜNDOĞAN",
+        "TANER KAYA"
+      ],
+      "TİP": [
+        "HAYRETTİN BAYER",
+        "GÜLÇİN AKSU DENİZHAN",
+        "İLKE KUMARTAŞLIOĞLU SAÇMALIOĞLU"
+      ]
+    }
+  },
+  "NİĞDE": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "CEVAHİR UZKURT",
+        "YAVUZ ERGUN",
+        "İBRAHİM BALOĞLU"
+      ],
+      "MHP": [
+        "CUMALİ İNCE",
+        "EMRULLAH TÜRE",
+        "AHMET YASİN ŞENTÜRK"
+      ],
+      "YRP": [
+        "ALİ SELMAN IŞIK",
+        "TANER GÜMÜŞ",
+        "MEHTAP TEMELTAŞ"
+      ],
+      "BBP": [
+        "HULUSİ KİPER",
+        "SERDAL KALEMİŞ",
+        "HÜSEYİN BABAOĞLU"
+      ],
+      "CHP": [
+        "ÖMER FETHİ GÜRER",
+        "SEVGİ ÖZBEK",
+        "OZAN SAKARYA"
+      ],
+      "İYİP": [
+        "MÜMİN İNAN",
+        "OLGUN EYTEMİŞ",
+        "FETDAH GÜLTEKİN"
+      ],
+      "YSP/HDP": [
+        "YASEMİN KAYA",
+        "CUMALİ ADIGÜZEL",
+        "MEDİNE ÇEKEN"
+      ],
+      "TİP": [
+        "ELİF ÖNDER",
+        "KEREM TANILKAN",
+        "EKİN DİCLE ERBİLGİN"
+      ]
+    }
+  },
+  "ORDU": {
+    "totalSeats": 6,
+    "parties": {
+      "AKP": [
+        "MAHMUT ÖZER",
+        "İBRAHİM UFUK KAYNAK",
+        "MUSTAFA HAMARAT",
+        "İSA YÜKSEL",
+        "İSA GÜL",
+        "SAMET ÖZDEMİR"
+      ],
+      "MHP": [
+        "NACİ ŞANLITÜRK",
+        "EROL BAYRAM",
+        "DOĞUKAN AK",
+        "ALPASLAN TÜRKKAN",
+        "TUNCER USTA",
+        "AHMET TOPAL"
+      ],
+      "YRP": [
+        "ADEM AĞCA",
+        "HARUN PALA",
+        "ZEHRA ÇINAR",
+        "HASAN DEMİR",
+        "FİKRET BALCI",
+        "ÜMİT ÖZDEN"
+      ],
+      "BBP": [
+        "COŞKUN SİPAHİOĞLU",
+        "ADEM PİŞMEK",
+        "MELİHA BEKÇİ",
+        "MURAT ŞAHİN",
+        "MURAT YİĞİT",
+        "MURAT HAMARAT"
+      ],
+      "CHP": [
+        "SEYİT TORUN",
+        "MUSTAFA ADIGÜZEL",
+        "AHMET TOKLUCUOĞLU",
+        "CENGİZ OKUR",
+        "NİLGÜN YILMAZ",
+        "SABRİ SONER GÖRGÜLÜ"
+      ],
+      "İYİP": [
+        "İDRİS NAİM ŞAHİN",
+        "ONUR ŞAHİN",
+        "ÇİĞDEM ÇELENK KARAKAYA",
+        "MURAT VARDAL",
+        "EBRU AVCI BAŞARAN",
+        "FEYZA NUR YALÇIN ÖNER"
+      ],
+      "YSP/HDP": [
+        "İBRAHİM ÖZDEMİREL",
+        "NURCAN KARASU",
+        "ŞEREF ÖZKAN",
+        "ÖZDEN ÜNAL",
+        "ORHAN KOCA",
+        "ERTAN KABADAYI"
+      ],
+      "TİP": [
+        "AYŞEGÜL AYDIN ŞENGÖZ",
+        "ERTUĞRUL KAHRAAMN",
+        "MERT EFE",
+        "DENİZ ARSLANTÜRK",
+        "TANSU AYIK",
+        "HAKAN DUYAN"
+      ]
+    }
+  },
+  "OSMANİYE": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "DERYA YANIK",
+        "SEYDİ GÜLSOY",
+        "İLYAS YİĞİT",
+        "MESUT TOKUR"
+      ],
+      "MHP": [
+        "DEVLET BAHÇELİ",
+        "RUHİ ERSOY",
+        "HAKAN HAKKOYMAZ",
+        "ALİ FUAT KARDAŞ"
+      ],
+      "YRP": [
+        "MEHMET AYDIN",
+        "CENGİZ ERDURAN",
+        "NECATİ YILDIRIM",
+        "EKREM TÜRKMEN"
+      ],
+      "BBP": [
+        "YÜCEL ABİDİNOĞLU",
+        "KÜRŞAT NACAR",
+        "ZELİHA ÖZKALE",
+        "TÜLAY ERKUL"
+      ],
+      "CHP": [
+        "ASU KAYA",
+        "ÜNAL KÖKSAL",
+        "MEHMET ORHUN DÖĞÜŞCÜ",
+        "RIZA TEKEREK"
+      ],
+      "İYİP": [
+        "ELİF LOĞOĞLU",
+        "MEHMET DEMİR",
+        "ADEM KIDIK",
+        "FATİH KILINÇ"
+      ],
+      "YSP/HDP": [
+        "SEVGÜL AYDIN",
+        "ZİYA BAYRAM",
+        "SEREN ELATAŞ",
+        "SABAHATTİN OKUDUCU"
+      ],
+      "TİP": [
+        "SABİHA GÜNDÜZALP",
+        "MUSTAFA DENİZLİ",
+        "ONUR TOSUNÖZ",
+        "BURAK SARIBIYIK"
+      ]
+    }
+  },
+  "RİZE": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "MUHAMMED AVCI",
+        "HARUN MERTOĞLU",
+        "YILMAZ KATMER"
+      ],
+      "MHP": [
+        "RECEP BAKIRCI",
+        "REMZİ KUTANOĞLU",
+        "YUNUS EMRE ÖZTÜRK"
+      ],
+      "YRP": [
+        "MEHMET AKİF ZERDECİ",
+        "SAMET ŞİŞMAN",
+        "MÜMİN BAKIRCI"
+      ],
+      "BBP": [
+        "ENSAR ÖZÇELİK",
+        "NEJLA KURTULUŞ",
+        "AYDIN DERECİ"
+      ],
+      "CHP": [
+        "TAHSİN OCAKLI",
+        "KÖKSAL TOPTAN",
+        "MUHAMMET YILDIZ"
+      ],
+      "İYİP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "YSP/HDP": [
+        "AYŞE BEKAR",
+        "NECMETTİN DURMUŞ",
+        "ALİ HAMDİ CUVELEK"
+      ],
+      "TİP": [
+        "BİLSAY KANAT",
+        "METİN KARADENİZ",
+        "AYBÜKE GEZEREL"
+      ]
+    }
+  },
+  "SAKARYA": {
+    "totalSeats": 8,
+    "parties": {
+      "AKP": [
+        "LÜTFİ BAYRAKTAR",
+        "ÇİĞDEM ERDOĞAN ATABEK",
+        "ALİ İNCİ",
+        "ERTUĞRUL KOCACIK",
+        "MURAT KAYA",
+        "AKİF ADNAN DİZER",
+        "KÜRŞAT KILIÇ",
+        "RAHMİ CAN ŞEŞEN"
+      ],
+      "MHP": [
+        "MUHAMMED LEVENT BÜLBÜL",
+        "AHMET ZİYA AKAR",
+        "HÜSEYİN EKŞİ",
+        "SEZER ŞENGÖZ",
+        "YAŞAR AYGÜNEŞ",
+        "ŞÜKÜR SALİH",
+        "NESRİN BURNAZOĞLU",
+        "ALİ HALİL"
+      ],
+      "YRP": [
+        "HASAN ÇINAR",
+        "NURULLAH ALTINTAŞ",
+        "BİRAN YASA",
+        "BEYZA ÇÖMLEKÇİOĞLU",
+        "SAMET BİNGAL",
+        "HİLAL PEKTAŞ",
+        "İSA SOYYİĞİT",
+        "MURAT KARAKOÇ"
+      ],
+      "BBP": [
+        "CENGİZ BAYAR",
+        "ADNAN YILMAZ",
+        "AYŞE GÜLGÜL",
+        "NAYİM YOLCU",
+        "YALÇIN YAŞAR",
+        "ÖMER KARAYEL",
+        "SENANUR YAŞAR",
+        "GÖKHAN DEMİROĞLU"
+      ],
+      "CHP": [
+        "AYÇA TAŞKENT",
+        "ECEVİT KELEŞ",
+        "KAMİL ÖZKAN",
+        "AZİZE ÇEROĞLU",
+        "EMEL AKÇİL",
+        "GÜNDÜZ KADİR GENÇCAN",
+        "ALİ FETHİ GÜRLER",
+        "ÖZER ÖZÇINAR"
+      ],
+      "İYİP": [
+        "ÜMİT DİKBAYIR",
+        "SELÇUK KILIÇASLAN",
+        "ARZU AKÇALIŞKAN",
+        "EDİZ SERDİP DOKUMACI",
+        "DUYGU ÇETİNKAYA ACAR",
+        "YUNUS AYDEMİR",
+        "ALPER ALPAY",
+        "HAKAN BAYKAL"
+      ],
+      "YSP/HDP": [
+        "SELAHATTİN YILMAZ",
+        "NAHİDE DOĞAN",
+        "İBRAHİM ÇELİK",
+        "FİLİZ TURAK",
+        "FETHİ BULUŞ",
+        "HÜSEYİN ATILGAN",
+        "MERAL ATMAN",
+        "HÜSEYİN KAYA"
+      ],
+      "TİP": [
+        "SAADET DİRİARIN",
+        "PELİN SÖNMEZ",
+        "UĞUR ALET",
+        "İNCİNUR ALA",
+        "PELİN KISA",
+        "ŞEVVAL LEYLA KOCAMAN",
+        "YUNUS EMRE GÖÇENOĞLU",
+        "ONUR YANAR"
+      ]
+    }
+  },
+  "SAMSUN": {
+    "totalSeats": 9,
+    "parties": {
+      "AKP": [
+        "MEHMET MUŞ",
+        "ÇİĞDEM KARAASLAN",
+        "YUSUF ZİYA YILMAZ",
+        "ORHAN KIRCALI",
+        "ERSAN AKSU",
+        "MÜCAHİT YILMAZ",
+        "HAVVA ŞEN SAYGIN",
+        "KADİR KAYAN",
+        "İRFAN ŞENOCAK"
+      ],
+      "MHP": [
+        "İLYAS TOPSAKAL",
+        "ABDULLAH KARAPIÇAK",
+        "HÜSEYİN DEMİR",
+        "BERFİN KARA",
+        "YUNİS AKSU",
+        "YAŞAR DURSUN",
+        "İBRAHİM YÜKSEL",
+        "HAMİ KORKMAZLI",
+        "ABDÜLVAHİT VARDAR"
+      ],
+      "YRP": [
+        "YAŞAR YAZICI",
+        "CANER BİLGİN",
+        "HALİL İBRAHİM DEMİRELLİ",
+        "MUSTAFA BARUTÇU",
+        "M. İSA ÖZTÜRK",
+        "ÖZCAN GÜLEÇİN",
+        "MURAT ASLAN",
+        "RECEP SEZEN",
+        "HÜSAMETTİN DEMİR"
+      ],
+      "BBP": [
+        "BAHADIR ŞAHİN",
+        "ERDAL AVCI",
+        "YILMAZ AKKUŞ",
+        "AYSEL KESİM",
+        "RESUL SARAÇOĞLU",
+        "YAVUZ YETER",
+        "SAADETTİN SÖNMEZ",
+        "RAMAZAN ÖRSEL",
+        "YAKUP SELVİ"
+      ],
+      "CHP": [
+        "MURAT ÇAN",
+        "MEHMET KARAMAN",
+        "MUSTAFA YEŞİLYURT",
+        "NAZAN GÜNEYSU",
+        "MEHMET ÖZDAĞ",
+        "SUAT YILDIZ",
+        "NEŞE KANGÜLEÇ",
+        "NİLSU İREM KOÇYİĞİT",
+        "ÖZLER YILMAZ"
+      ],
+      "İYİP": [
+        "ERHAN USTA",
+        "İMREN NİLAY TÜFEKÇİ",
+        "AHMET KARKUCAK",
+        "YUNUS GÜN",
+        "BİRSEN ÖZTÜRK",
+        "HALİL İBRAHİM YALGIN",
+        "EFE AYDIN",
+        "UFUK GÜLŞEN",
+        "KAZIM CAN ŞEN"
+      ],
+      "YSP/HDP": [
+        "EMEL ZENGİN ÇAKIR",
+        "SAVAŞ KARADUMAN",
+        "MENEKŞE TUREN",
+        "MAHMUT SÜRMELİ",
+        "GÜNER KARADUMAN",
+        "VEDAT ÜNAL",
+        "AHMET YALÇIN",
+        "OSMAN BAYRAK",
+        "ORHAN GAZİ KOFOĞLU"
+      ],
+      "TİP": [
+        "ARSLAN BOLAT",
+        "ÖZGE GÖKSU",
+        "TUNAHAN GÖK",
+        "ONUR ÇELİK",
+        "GÜLCAY KAYA",
+        "HİLMİ ÖZDEMİR",
+        "ARAL DEMİRCAN",
+        "KEMAL SERDAR ERBİL",
+        "BUSE BADE İSKENT"
+      ]
+    }
+  },
+  "SİİRT": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "MERVAN GÜL",
+        "FEYZİ SEVGİLİ",
+        "LOKMAN ÖZCAN"
+      ],
+      "MHP": [
+        "NECDET KAYRA",
+        "İSMAİL KESKİN",
+        "OKAN IŞIKTAŞ"
+      ],
+      "YRP": [
+        "UMUT BARDAK",
+        "ATAULLAH BAYAV",
+        "FATİH EĞİLMEZ"
+      ],
+      "BBP": [
+        "MELİKE NAZLI ER",
+        "MEHMET EYÜP KIZILKAN",
+        "MEHMET ŞERİF EKMEN"
+      ],
+      "CHP": [
+        "UMUT DAYANAN",
+        "DENİZ ACAR",
+        "MEHMET ZAKİR KIZILAY"
+      ],
+      "İYİP": [
+        "TUBA SOLMAZ",
+        "SERVET TARDUŞ",
+        "ABDULMECİT NAS"
+      ],
+      "YSP/HDP": [
+        "TUNCER BAKIRHAN",
+        "SABAHATTİN ERDOĞAN SARITAŞ",
+        "ABDULLAH ÇETİN"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "SİNOP": {
+    "totalSeats": 2,
+    "parties": {
+      "AKP": [
+        "NAZIM MAVİŞ",
+        "SEYİT ALİ ÇETİN"
+      ],
+      "MHP": [
+        "İSMAİL BÜYÜKKAYIKÇI",
+        "HASAN ATAMAN"
+      ],
+      "YRP": [
+        "UFUK ÖZKAPTAN",
+        "ERCAN ERDOĞAN"
+      ],
+      "BBP": [
+        "TANER DİNÇKURT",
+        "FATİH ÇELİKEL"
+      ],
+      "CHP": [
+        "BARIŞ KARADENİZ",
+        "ŞEVKET TERKAN"
+      ],
+      "İYİP": [
+        "YILMAZ ŞANLAN",
+        "BAKİ TAŞKIRAN"
+      ],
+      "YSP/HDP": [
+        "YILDIZ ÖZBEK",
+        "AHMET YORKUN"
+      ],
+      "TİP": [
+        "NURHAN ÇAYLI",
+        "ÇAĞLA KURT"
+      ]
+    }
+  },
+  "SİVAS": {
+    "totalSeats": 5,
+    "parties": {
+      "AKP": [
+        "ABDULLAH GÜLER",
+        "HAKAN AKSU",
+        "RUKİYE TOY",
+        "RÜSTEM YÜCE",
+        "SERDAR ÖKSÜM"
+      ],
+      "MHP": [
+        "AHMET ÖZYÜREK",
+        "İLKER İPEK",
+        "KENAN ÇARBOĞA",
+        "MURAT SEVİNÇ",
+        "BAHADIR GÖKMEN"
+      ],
+      "YRP": [
+        "CEMİL LAÇİNER",
+        "FATİH KALKAN",
+        "GÖKSEL ÖZPINAR",
+        "CABİR ÇETİNKAYA",
+        "ENİSA KARAKOÇ"
+      ],
+      "BBP": [
+        "DOĞAN ÜRGÜP",
+        "UĞUR BULUT",
+        "AYTEKİN KULMAÇ",
+        "UĞUR KARACA",
+        "HAMZA KEVİOĞLU"
+      ],
+      "CHP": [
+        "ULAŞ KARASU",
+        "SERDAR İNCE",
+        "SERVECAN KAYA",
+        "LÜTFİ GÖRKEM MARŞAN",
+        "BAHATTİN YAVUZ"
+      ],
+      "İYİP": [
+        "CELAL DAĞGEZ",
+        "AHMET BOZDOĞAN",
+        "SERAP BOZPOLAT AYAN",
+        "MERVE YILDIZ YARAY",
+        "TOLGA SAY"
+      ],
+      "YSP/HDP": [
+        "GANİ KAPLAN",
+        "MEHMET MUSTAFA YILDIZ",
+        "VİLDAN DOĞAN",
+        "HÜSEYİN ÖZCAN",
+        "SELMA ÖZEL ASI"
+      ],
+      "TİP": [
+        "KÖKSAL TEK",
+        "YAĞMUR AKIN",
+        "VELİ REÇBER",
+        "HAKAN TEKŞEN",
+        "YUSUF AKGEDİK"
+      ]
+    }
+  },
+  "ŞANLIURFA": {
+    "totalSeats": 14,
+    "parties": {
+      "AKP": [
+        "BEKİR BOZDAĞ",
+        "ABDULKADİR EMİN ÖNEN",
+        "ABDÜRRAHİM DUSAK",
+        "MEHMET ALİ CEVHERİ",
+        "CEVAHİR ASUMAN YAZMACI",
+        "İBRAHİM EYYÜPOĞLU",
+        "HİKMET BAŞAK",
+        "MEHMET FARUK PINARBAŞI",
+        "MAHMUT KAÇAR",
+        "NİHAT KILIÇ",
+        "EMRE KARAÇİZMELİ",
+        "MEHMET İLHAMİ GÜNBEGİ",
+        "ABDULLAH AKSAK",
+        "ABDURRAHİM TORU"
+      ],
+      "MHP": [
+        "İBRAHİM ÖZYAVUZ",
+        "HALİL BAKIŞ",
+        "HALİT YILDIZ",
+        "OSMAN MUTLU",
+        "MEHMET ARPACİ",
+        "MAHMUT POLAT",
+        "KEMAL GÜNEŞ",
+        "HAVVA BİRSEN DEGER",
+        "İSMAİL AKÇAKAYA",
+        "MUSTAFA AYĞIRCI",
+        "ALİ KURT",
+        "AHMET ERGÜN",
+        "HASAN KORUK",
+        "HAKKI KAYA"
+      ],
+      "YRP": [
+        "İSMAİL YAVUZ",
+        "HACI ALMAS",
+        "SABİH DALLI",
+        "OSMAN ÖZMEN",
+        "HALİT TOPRAK",
+        "HALİL SAÇAKLI",
+        "ALİ ÇULCU",
+        "MEHMET GÜNEŞ",
+        "TAHSİN BİLBAY",
+        "HALİL ALKAN",
+        "AYŞE KAPLAN",
+        "İBRAHİM HALİL ŞAHİN",
+        "HÜSNÜ BİLEN",
+        "KAMİL ŞİŞ"
+      ],
+      "BBP": [
+        "MUSTAFA KARAL",
+        "MUSTAFA ÇAVCI",
+        "HALİL ŞEN",
+        "MEHMET ALTUNBOĞA",
+        "FIRAT AKBAŞ",
+        "ÖMER TAŞDAN",
+        "HALİL ÇAKMAZ",
+        "HALİT ÖZBEK",
+        "AHMET DİREK",
+        "MURAT ÇİFTÇİ",
+        "FUAT KIZILATEŞ",
+        "HALİL KARAKUŞ",
+        "İSMAİL GÖK",
+        "CEMAL MİZAN"
+      ],
+      "CHP": [
+        "MAHMUT TANAL",
+        "MÜSLÜM CENGİZHAN AKALIN",
+        "AHMET TÜYSÜZ",
+        "ABDULLAH YEŞİL",
+        "İBRAHİM DİREK",
+        "SÜLEYMAN GÖK",
+        "ABDULLAH MELİK",
+        "ABDULLAH DİREK",
+        "MÜSLÜM ŞİKAK",
+        "BERİVAN VEYSANOĞLU DÜŞME",
+        "ABDULKADİR ÇETİN",
+        "VEHBİ VURAL",
+        "İSA EKİNCİ",
+        "AZİZ BABACAN"
+      ],
+      "İYİP": [
+        "EMİN YETİM",
+        "MUHAMMET ALİ ARUSOĞLU",
+        "MUSA MANGAL",
+        "MEHMET ŞAHİN GÜLEL",
+        "CEM KARAKEÇİLİ",
+        "MEHMET GANİM BAŞAR",
+        "MEHMET EMİN GÜVENÇ",
+        "MUSTAFA DİRİER",
+        "HÜSEYİN SİRHAN GÖKDOĞAN",
+        "GÜLCAN CENGİZ",
+        "MEHMET HAMCAN",
+        "MEHMET YILDIRIM",
+        "ÖMER FARUK AİŞEOĞLU",
+        "NECAT YAŞAR"
+      ],
+      "YSP/HDP": [
+        "MİTHAT SANCAR",
+        "ÖMER ÖCALAN",
+        "DİLAN KUNT AYAN",
+        "FERİT ŞENYAŞAR",
+        "ALİYE KIZILDAMAR",
+        "BÜLENT AŞA",
+        "NERGİZ ÇİĞDEM KARAKEÇİLİ",
+        "REMZİ GENÇDAL",
+        "CEMİLE ŞAHİN",
+        "BAVER GÜL",
+        "AYŞE TUTKU",
+        "HALİL ÇAY",
+        "MIZGİN ALBAYRAK",
+        "FERAT BEYAZ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "ŞIRNAK": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "ASLAN TATAR",
+        "HATİCE ATAN",
+        "BEDİRHAN ŞIK",
+        "ABDULKERİM GÜNDÜZ"
+      ],
+      "MHP": [
+        "HALİL TATAR",
+        "FİKRET KAYA",
+        "İDRİS BARKIN",
+        "BAHATTİN SEVEN"
+      ],
+      "YRP": [
+        "SABRİ TATAR",
+        "MUHAMMED EMİN AKGÜÇ",
+        "HÜSNÜ BAHŞİŞ",
+        "RAMAZAN UÇKAN"
+      ],
+      "BBP": [
+        "HACİ GÜNEŞ",
+        "BEDİRHAN ÖZDEMİR",
+        "HÜSEYİN BUDAK",
+        "ADNAN ERKMEN"
+      ],
+      "CHP": [
+        "NİZAR ÖKTEN",
+        "BOTAN CİZRELİ",
+        "ABDULLAH KAYA",
+        "AYŞE BİLİN"
+      ],
+      "İYİP": [
+        "ADİL ÖZÇINAR",
+        "NURETTİN İLÇİ",
+        "OSMAN FERFOOĞLU",
+        "DOĞUKAN YAYCI"
+      ],
+      "YSP/HDP": [
+        "NEVROZ UYSAL ASLAN",
+        "MEHMET ZEKİ İRMEZ",
+        "AYŞEGÜL DOĞAN DAĞLI",
+        "BEDİRHAN OSAL"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "TEKİRDAĞ": {
+    "totalSeats": 8,
+    "parties": {
+      "AKP": [
+        "MESTAN ÖZCAN",
+        "GÖKHAN DİKTAŞ",
+        "ÇİĞDEM KONCAGÜL",
+        "HAKAN SUNAL",
+        "ABDULLAH ÖĞE",
+        "AKIN YILMAZ",
+        "MÜGE YILDIZ TOPAK",
+        "DEFNE GEZER"
+      ],
+      "MHP": [
+        "İLKER YÜCEL",
+        "KORAY ÖNSEL",
+        "MURAT TURNA",
+        "GÖKHAN BAYLAN",
+        "MUSTAFA SÜLEYMAN KURTAR",
+        "FİLİZ ORMAN AKIN",
+        "HASAN MEMİŞOĞLU",
+        "NECMİ ÖZGÜL"
+      ],
+      "YRP": [
+        "MEHMET ÇAKI",
+        "FİLTEKİN ŞEN",
+        "HAMİT HAMİTOĞLU",
+        "BURAK ÇAPKIN",
+        "MEHMET SUNGUR",
+        "ŞÜKRÜ CAN ATAGÜN",
+        "HASAN DOĞAN",
+        "MURAT KARAKAN"
+      ],
+      "BBP": [
+        "TURAN DEMİRCAN",
+        "MESUT UÇAR",
+        "GÖKHAN ACAR",
+        "FATİH DİLER",
+        "ÖMER ÇETİNKAYA",
+        "NİYAZİ GÜNEŞ",
+        "RUKİYE DEVECİ",
+        "SÜNDÜZ ERDOĞAN"
+      ],
+      "CHP": [
+        "FAİK ÖZTRAK",
+        "İLHAMİ ÖZCAN AYGUN",
+        "CEM AVŞAR",
+        "NURTEN YONTAR",
+        "MUSTAFA ÜLKEM URUK",
+        "İSMAİL DOĞAROĞLU",
+        "SEMA KIRKOYUN KİNET",
+        "İSMAİL ÇELEBİ"
+      ],
+      "İYİP": [
+        "SELCAN HAMŞIOĞLU",
+        "SERTAÇ ALKAYA",
+        "HAZIM TAMER DODURKA",
+        "ZEKİ UZUN",
+        "AYNUR ÇEŞMELİLER",
+        "ŞERAFETDİN TERZİ",
+        "MEHMET İLKER ATASEVER",
+        "ÖZDEN KESKİNER KARAKAYA"
+      ],
+      "YSP/HDP": [
+        "MUAZZEZ ORHAN IŞIK",
+        "SEYİTHAN KIRMIZI",
+        "GAMZE KAYA",
+        "NESRİN ÖZEL UNAY",
+        "ERKAN ATALAY",
+        "GÜLŞEN DAŞDÖĞEN",
+        "ÇETİN YILMAZ",
+        "BEDRETTİN GÖZMEN"
+      ],
+      "TİP": [
+        "BİLGE SEÇKİN ÇETİNKAYA",
+        "MEHMET AYTEKİN",
+        "EMR SEVİLMİŞ",
+        "İSMAİL ÖZTOK",
+        "BETÜL OKUYAN",
+        "GÜLENAY SUNA",
+        "KARDELEN EVCİMEN",
+        "ERKAN ÖZGÜR MUTLUCAN"
+      ]
+    }
+  },
+  "TOKAT": {
+    "totalSeats": 5,
+    "parties": {
+      "AKP": [
+        "YUSUF BEYAZIT",
+        "MUSTAFA ARSLAN",
+        "CÜNEYT ALDEMİR",
+        "ADEM DİZER",
+        "MEHMET CAN"
+      ],
+      "MHP": [
+        "YÜCEL BULUT",
+        "RECEP BOZDEMİR",
+        "AYHAN ÖZÇELİK",
+        "AYLA BEDİRHAN ÇELİK",
+        "UFUK DEĞERLİYURT"
+      ],
+      "YRP": [
+        "ALİ OSMAN DALDAL",
+        "HASAN ERDAL",
+        "MEHMET AÇAR",
+        "MUSTAFA AKIN",
+        "AYTAÇ KESER"
+      ],
+      "BBP": [
+        "MESUT NUR",
+        "HALİM OKTAY",
+        "MUSTAFA ÇINAR",
+        "ADEM CERİT",
+        "ERGÜN ÇARIKÇIOĞLU"
+      ],
+      "CHP": [
+        "KADİM DURMAZ",
+        "DURAN KUM",
+        "AYHAN KARABEKİROĞLU",
+        "MEHMET ALİ KOCAOĞLU",
+        "CEM ÇITAK"
+      ],
+      "İYİP": [
+        "FATİH DEMİRKOL",
+        "MURAT TOYCAN SELÇUK",
+        "ALİ KARACA",
+        "ŞADAN İPKİN",
+        "MUHAMMED ALPEREN ELDEMİR"
+      ],
+      "YSP/HDP": [
+        "MELTEM IŞIK",
+        "EROL TUNÇ",
+        "NACİYE İSKENDER",
+        "ŞABAN YEĞİN",
+        "SİBEL UZUN"
+      ],
+      "TİP": [
+        "ERDOĞAN KILINÇ",
+        "HARUN KILIÇOĞLU",
+        "EMİN AKBABA",
+        "DİLEK FERDA YAMANLAR",
+        "ERSİN EVRAN"
+      ]
+    }
+  },
+  "TRABZON": {
+    "totalSeats": 6,
+    "parties": {
+      "AKP": [
+        "ADİL KARAİSMAİLOĞLU",
+        "MUSTAFA ŞEN",
+        "YILMAZ BÜYÜKAYDIN",
+        "VEHBİ KOÇ",
+        "MERYEM SÜRMEN",
+        "ZAFER OFLUOĞLU"
+      ],
+      "MHP": [
+        "BEKİR SITKI TARIM",
+        "YAVUZ TELLİOĞLU",
+        "ŞENER PUL",
+        "EDANUR ALTINTAŞ",
+        "YUSUF ÇAKMAK",
+        "MURAT AKSOY"
+      ],
+      "YRP": [
+        "SÜLEYMAN PULAT",
+        "MUSTAFA DURMUŞ",
+        "YILMAZ KARADENİZ",
+        "EMİN MENŞUR",
+        "GÖKHAN ŞAHİN",
+        "TUBA BİLGİN"
+      ],
+      "BBP": [
+        "OKTAY AÇAR",
+        "MEHMET YAZICI",
+        "KAĞAN MUMCU",
+        "NURGÜL YILMAZ",
+        "MEHMET ÜÇÜNCÜ",
+        "ALİ ÜZÜM"
+      ],
+      "CHP": [
+        "SİBEL SUİÇMEZ",
+        "AHMET KAYA",
+        "MURAT ÖZÇİLİNGİR",
+        "MUSA HACIOĞLU",
+        "İLKER AKINCI",
+        "MUSTAFA ERDİ ÇAKIR"
+      ],
+      "İYİP": [
+        "YAVUZ AYDIN",
+        "ASLAN GÜNER",
+        "SERPİL AKÇAY",
+        "TAHSİN AKYÜZ",
+        "AKIN ÇELİK",
+        "BÜLENT ARSLAN"
+      ],
+      "YSP/HDP": [
+        "FATMA BİÇER",
+        "ABDUL ÖZCAN",
+        "HANİFE SEVER",
+        "İBRAHİM BAYKAN",
+        "NURETTİN KARADENİZ",
+        "İSMAİL CAVGA"
+      ],
+      "TİP": [
+        "SÜLEYMAN HACIBEKTAŞOĞLU",
+        "YAVUZ KAYNAR",
+        "ÖMÜR ÖZDEMİR",
+        "EMİNE SPOR",
+        "ASİL MADENLİ",
+        "KEMAL BAKIRCI"
+      ]
+    }
+  },
+  "TUNCELİ": {
+    "totalSeats": 1,
+    "parties": {
+      "AKP": [
+        "HAKAN ÖZER"
+      ],
+      "MHP": [
+        "NİLGÜN DALKILIÇ"
+      ],
+      "YRP": [
+        "AYŞE FIRAT"
+      ],
+      "BBP": [
+        "DURMUŞ BOZTUĞ"
+      ],
+      "CHP": [
+        "HÜSNİYE KARAKOYUN"
+      ],
+      "İYİP": [
+        "ROZAN ALİ FAYIK"
+      ],
+      "YSP/HDP": [
+        "AYTEN KORDU"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "UŞAK": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "İSMAİL GÜNEŞ",
+        "FAHRETTİN TUĞRUL",
+        "HİLAL SABANCI"
+      ],
+      "MHP": [
+        "AYHAN KINDEN",
+        "OĞUZ ÇAKMAK",
+        "MUZAFFER SAİT DÖNMEZ"
+      ],
+      "YRP": [
+        "ERDOĞAN ÇİLOĞLU",
+        "MEHMET HALİL ARSLAN",
+        "HÜSEYİN ERDEM"
+      ],
+      "BBP": [
+        "REMZİ ÖZEN",
+        "HÜSEYİN KAZIM KIRKSAKAL",
+        "MERTHAN MENDERES"
+      ],
+      "CHP": [
+        "ALİ KARAOBA",
+        "İSMET AKIN",
+        "SEVİNÇ YAZGAN"
+      ],
+      "İYİP": [
+        "MUHAMMET GÜR",
+        "DALYAN ÖZDEMİR",
+        "TOLGA PİRİNÇCİ"
+      ],
+      "YSP/HDP": [
+        "AHMET YILMAZ",
+        "AYSU TOPAL",
+        "ÜNAL ŞEREF"
+      ],
+      "TİP": [
+        "AYŞE DEVRİM OĞUR",
+        "ÖNDER AKAR",
+        "AKIN METE"
+      ]
+    }
+  },
+  "VAN": {
+    "totalSeats": 8,
+    "parties": {
+      "AKP": [
+        "BURHAN KAYATÜRK",
+        "KAYHAN TÜRKMENOĞLU",
+        "ABDULAHAT ARVAS",
+        "AZAD KARTAL",
+        "SELMA BİÇEK",
+        "MUHAMMED ÇALAĞAN",
+        "ÖMER FARUK KARAKURT",
+        "MUHAMMED AFFAN ORHAN"
+      ],
+      "MHP": [
+        "YAHYA CANCAN",
+        "AYHAN KAHRAMAN",
+        "FATİH ŞAHİN",
+        "ABDULSELAM ARVAS",
+        "SUNULLAH KELEŞ",
+        "ABDULHAKAN ÜÇDAL",
+        "ABDULAZİZ GÜLBAY",
+        "SERPİL ALAN TAŞKIRAN"
+      ],
+      "YRP": [
+        "KAMİL YAVUZER",
+        "YAKUP DEMİR",
+        "ALİ ŞAHİN",
+        "MEHMET ŞAHİN",
+        "AYDIN ÇİÇEK",
+        "MURAT ERGİN",
+        "İZZET BAŞKURT",
+        "NEVZAT ATAŞ"
+      ],
+      "BBP": [
+        "MUHAMMED NUR KAYA",
+        "METİN KAYA",
+        "ÜMMÜGÜLSÜM TEZEL",
+        "KAZIM VARÇİN",
+        "TURGUT GÜLEÇCE",
+        "MUHAMMED ELENÜR",
+        "VOLKAN ERTOSUN",
+        "CEBRAİL KAYA"
+      ],
+      "CHP": [
+        "SERACETTİN BEDİRHANOĞLU",
+        "ERCAN ÇİÇEK",
+        "AZİZ ÖREK",
+        "MUHLİS ORHAN",
+        "MERAL AYHAN",
+        "NURTEN TAŞ",
+        "SÜLEYMAN KUŞMAN",
+        "MEHMET KAVAL"
+      ],
+      "İYİP": [
+        "ADAY GÖSTERİLMEDİ"
+      ],
+      "YSP/HDP": [
+        "PERVİN BULDAN",
+        "ZÜLKÜF UÇAR",
+        "GÜLCAN KAÇMAZ SAYYİĞİT",
+        "SİNAN ÇİFTYÜREK",
+        "GÜLDEREN VARLİ",
+        "MAHMUT DİNSAR",
+        "HAVİN KİYE",
+        "TAYLAN ERTAŞ"
+      ],
+      "TİP": [
+        "ADAY ÇIKARTMADI"
+      ]
+    }
+  },
+  "YALOVA": {
+    "totalSeats": 3,
+    "parties": {
+      "AKP": [
+        "AHMET BÜYÜKGÜMÜŞ",
+        "MELİHA AKYOL",
+        "ERHAN DEDE"
+      ],
+      "MHP": [
+        "NAMIK ÖZ",
+        "CEMİL TANRIKULU",
+        "ERKAN AKÇAL"
+      ],
+      "YRP": [
+        "ABDULLAH ZEKİ ERCAN",
+        "SEZAİ DEMİR",
+        "ERKAN PELİTOĞLU"
+      ],
+      "BBP": [
+        "FİKRİ DANAYİYEN",
+        "UĞUR KARA",
+        "AHMET KAYIKCI"
+      ],
+      "CHP": [
+        "TAHSİN BECAN",
+        "MEHMET GÜREL",
+        "YASEMİN FAZLACA"
+      ],
+      "İYİP": [
+        "AYHAN KÜÇÜK",
+        "ERSİN AKYÜZ",
+        "NİLGÜN TURAN KAYBEK"
+      ],
+      "YSP/HDP": [
+        "TUNCAY TURANLI",
+        "TÜRKAN ASLAN",
+        "ABDURRAHMAN APAK"
+      ],
+      "TİP": [
+        "BUKET ÇINAR GELİR",
+        "EMRAH KAZDAL",
+        "BURKAY HASDEMİR"
+      ]
+    }
+  },
+  "YOZGAT": {
+    "totalSeats": 4,
+    "parties": {
+      "AKP": [
+        "ABDULKADİR AKGÜL",
+        "SÜLEYMAN ŞAHAN",
+        "İSKENDER MİNAR",
+        "YUSUF İBİŞ"
+      ],
+      "MHP": [
+        "İBRAHİM ETHEM SEDEF",
+        "KAZIM ERGÜN",
+        "ÜLKÜ YILMAZ",
+        "SEZER YOZGAT"
+      ],
+      "YRP": [
+        "NİHAT KAYHAN",
+        "YAŞAR DEMİR",
+        "HASAN ŞAHİNGÖZ",
+        "İLYAS GÜLER"
+      ],
+      "BBP": [
+        "MUSTAFA ÇITAK",
+        "CANSU ÇİFTÇİ",
+        "VELİ ŞAHİN",
+        "FATİH KOÇER"
+      ],
+      "CHP": [
+        "ADAY ÇIKARTMADI"
+      ],
+      "İYİP": [
+        "LÜTFULLAH KAYALAR",
+        "ALİ KEVEN",
+        "İSMAİL YILMAZ",
+        "NAFİYE BALÇIK"
+      ],
+      "YSP/HDP": [
+        "CEMAL BİLGİN",
+        "KÜBRA DERİN",
+        "MEHMET ŞİRİN HARHAR",
+        "ÖZLEM AYDIN"
+      ],
+      "TİP": [
+        "ASLI YAPAR ŞAKTANLI",
+        "BEKİR ZAFER İLKEN",
+        "ASLI ŞİMŞEK",
+        "KÖKSAL KAPLAN"
+      ]
+    }
+  },
+  "ZONGULDAK": {
+    "totalSeats": 5,
+    "parties": {
+      "AKP": [
+        "MUAMMER AVCI",
+        "SAFFET BOZKURT",
+        "AHMET ÇOLAKOĞLU",
+        "NEJDET TISKAOĞLU",
+        "DİLEK KAYA"
+      ],
+      "MHP": [
+        "MURAT KOTRA",
+        "BAYRAM BOZKURT",
+        "ÖZLEM TAŞKIN",
+        "ENGİN SUNAT",
+        "SEMİH AYDIN"
+      ],
+      "YRP": [
+        "NECDET SARI",
+        "AHMET KAVARACI",
+        "ADEM ÇETİNKAYA",
+        "YASİN SATAN",
+        "MURAT AYHAN"
+      ],
+      "BBP": [
+        "HÜSEYİN UYSAL",
+        "ÖZCAN ÖZDEMİR",
+        "CENGİZ KONMUŞ",
+        "SAFA AKMAN",
+        "CİHANGİR YAĞIZ"
+      ],
+      "CHP": [
+        "DENİZ YAVUZYILMAZ",
+        "EYLEM ERTUĞ ERTUĞRUL",
+        "DOĞA ŞANLIOĞLU",
+        "MERVE KIR",
+        "CEMALETTİN SAĞTEKİN"
+      ],
+      "İYİP": [
+        "EVRİM BALBALOĞLU",
+        "TOLGA GÖREN",
+        "MEHMET BATU MÜFTÜOĞLU",
+        "MUSTAFA ADİL ÖZKAN",
+        "RENDA OKAY"
+      ],
+      "YSP/HDP": [
+        "MEHMET ZEKİ SALMANOĞLU",
+        "DENİZ TOPÇU",
+        "BAYRAM SARI",
+        "SEYFULLAH YILMAZ",
+        "HİKMET ARSLAN"
+      ],
+      "TİP": [
+        "FATMA KILIÇARSLAN",
+        "ŞENER BOSTANCI",
+        "DİLAN GÜLLE",
+        "TÜRKAN BAYTEKİN",
+        "UMUR OZAN ŞAHİN"
+      ]
+    }
+  }
+}
