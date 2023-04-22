@@ -46,7 +46,7 @@ const PartySeats = styled.span`
 function Result({ results }) {
   console.log(results)
   const resultsHeaderContent = results.district != null ?
-   `${results.district} - ${results.totalSeats} Vekil`: `${results.totalSeats} Vekil`;
+   `${results.district.districtName} - ${results.totalSeats} Vekil`: `${results.totalSeats} Vekil`;
   return (
     <ResultsWrapper>
       <h2>SONUÇLAR</h2>
@@ -75,7 +75,7 @@ function Result({ results }) {
           ))}
         </tbody>
       </Table>
-      <AllocationHistory parties={results.parties} />
+      <AllocationHistory parties={results.parties} district={results.district} />
     </ResultsWrapper>
   );
 }
