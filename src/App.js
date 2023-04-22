@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import styled from "styled-components";
 
 import Header from "./Components/Header";
@@ -6,8 +6,9 @@ import InputForm from "./Components/InputForm";
 import Results from "./Components/Results";
 
 import { PARTIES } from "./Data/partiesData";
+import DISTRICTS from "./Data/districtData.json"
 
-const NUMBER_OF_PARTIES = 10;
+const NUMBER_OF_PARTIES = 9;
 
 const AppWrapper = styled.div`
   display: grid;
@@ -37,11 +38,15 @@ function App() {
 
   const [isDistrictSelected, setIsDistrictSelected] = useState(false);
 
+  useEffect(() => {
+    setIsDistrictSelected(false);
+  }, []);
+
   const handleFormSubmit = (event) => {
     event.preventDefault();
     const newElectionData = {
-      district: null,
-      totalSeats: parseInt(event.target.totalSeats.value),
+      district: isDistrictSelected ? electionData.district : null,
+      totalSeats: isDistrictSelected ? electionData.district.totalSeats : parseInt(event.target.totalSeats.value),
       numberOfParty: NUMBER_OF_PARTIES,
       parties: [...Array(electionData.numberOfParty)].map((_, i) => {
         const id = PARTIES[i].id;
@@ -96,6 +101,15 @@ function App() {
   };
 
   const handleDistrictChange = (boolean) => {
+    if(boolean){
+      const newDistrictName = document.getElementById('districtSelection').value;
+      const newDistrict = DISTRICTS[newDistrictName];
+      setElectionData({
+        ...electionData,
+        district:{...newDistrict, districtName:newDistrictName},
+        totalSeats:newDistrict.totalSeats
+      })
+    }
     setIsDistrictSelected(boolean);
   }
 
