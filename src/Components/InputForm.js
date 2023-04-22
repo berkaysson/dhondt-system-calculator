@@ -11,7 +11,7 @@ const InputFormWrapper = styled.div`
   flex-direction: column;
   align-items: center;
   gap: var(--gap);
-  padding: var(--padding);
+  padding:0 var(--padding);
   height: 100%;
   width: 100%;
   /* max-width: 400px; */
@@ -20,6 +20,8 @@ const InputFormWrapper = styled.div`
   @media screen and (max-width: 855px) {
     border-right:none;
     border-bottom: 1px solid var(--light-alt-color);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
   }
 `;
 
@@ -40,7 +42,7 @@ const InputForm = ({ numberOfParty, onCalculateResults, parties, totalSeats, isD
 
   return (
     <InputFormWrapper>
-    <DistrictSelectionForm onDistrictSelection = {onDistrictSelection} />
+    <DistrictSelectionForm onDistrictSelection = {onDistrictSelection} isDistrictSelected={isDistrictSelected} />
       <FormWrapper onSubmit={onCalculateResults}>
         <div>
           <Input

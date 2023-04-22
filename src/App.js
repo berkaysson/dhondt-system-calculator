@@ -8,7 +8,7 @@ import Results from "./Components/Results";
 import { PARTIES } from "./Data/partiesData";
 import DISTRICTS from "./Data/districtData.json"
 
-const NUMBER_OF_PARTIES = 9;
+const NUMBER_OF_PARTIES = 8;
 
 const AppWrapper = styled.div`
   display: grid;
@@ -18,7 +18,6 @@ const AppWrapper = styled.div`
 
   width: 100%;
   max-width: 1300px;
-  gap: var(--gap);
 
   @media screen and (max-width: 855px) {
     display: flex;
