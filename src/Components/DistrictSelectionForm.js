@@ -34,30 +34,41 @@ const Button = styled.button`
   margin-top: 5px;
   transition: inherit;
 
+  &.active{
+    font-weight: bold;
+    background-color: var(--light-alt-color);
+    font-style: oblique;
+  }
+
   &:focus {
     color: var(--dark-color);
   }
 
   &:hover {
     border-color: var(--dark-color);
-    color: var(--dark-color);
+    opacity: 0.9;
   }
 
   &:active {
     border-color: var(--dark-alt-color);
-    color: var(--dark-alt-color);
   }
 `
 
 const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
   const districtNames = Object.keys(DISTRICTS);
   let buttonContent =['Bölgeyi seç | Onayla', 'Bölgesiz devam et'];
+  let selectDistrict = "";
+  let selectNoDistrict = "";
   if (isDistrictSelected) {
-    buttonContent[0] = buttonContent[0].toUpperCase();
-    buttonContent[1] = buttonContent[1].toLowerCase();
+    // buttonContent[0] = buttonContent[0].toUpperCase();
+    // buttonContent[1] = buttonContent[1].toLowerCase();
+    selectDistrict = "active";
+    selectNoDistrict = "";
   } else {
-    buttonContent[1] = buttonContent[1].toUpperCase();
-    buttonContent[0] = buttonContent[0].toLowerCase();
+    // buttonContent[1] = buttonContent[1].toUpperCase();
+    // buttonContent[0] = buttonContent[0].toLowerCase();
+    selectNoDistrict = "active";
+    selectDistrict = "";
   }
 
   return (
@@ -70,10 +81,10 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
         ))}
       </Select>
       <ButtonContainer>
-      <Button type="button" onClick={() => onDistrictSelection(true)}>
+      <Button className={selectDistrict} type="button" onClick={() => onDistrictSelection(true)}>
         {buttonContent[0]}
       </Button>
-      <Button className="noDistrict" type="button" onClick={() => onDistrictSelection(false)}>
+      <Button className={selectNoDistrict} type="button" onClick={() => onDistrictSelection(false)}>
       {buttonContent[1]}
       </Button>
       </ButtonContainer>
