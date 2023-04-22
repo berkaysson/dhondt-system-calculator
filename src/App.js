@@ -29,14 +29,18 @@ const AppWrapper = styled.div`
 
 function App() {
   const [electionData, setElectionData] = useState({
+    district: null,
     totalSeats: 0,
     numberOfParty: NUMBER_OF_PARTIES,
     parties: PARTIES.slice(0, NUMBER_OF_PARTIES)
   });
 
+  const [isDistrictSelected, setIsDistrictSelected] = useState(false);
+
   const handleFormSubmit = (event) => {
     event.preventDefault();
     const newElectionData = {
+      district: null,
       totalSeats: parseInt(event.target.totalSeats.value),
       numberOfParty: NUMBER_OF_PARTIES,
       parties: [...Array(electionData.numberOfParty)].map((_, i) => {
@@ -91,6 +95,10 @@ function App() {
     return calculatedParties;
   };
 
+  const handleDistrictChange = (boolean) => {
+    setIsDistrictSelected(boolean);
+  }
+
   return (
     <AppWrapper>
       <Header />
@@ -98,6 +106,9 @@ function App() {
         numberOfParty={electionData.numberOfParty}
         onCalculateResults={handleFormSubmit}
         parties = {electionData.parties}
+        totalSeats={electionData.totalSeats}
+        isDistrictSelected={isDistrictSelected}
+        onDistrictSelection= {handleDistrictChange}
       />
       <Results results={electionData} />
     </AppWrapper>

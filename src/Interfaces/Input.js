@@ -1,3 +1,4 @@
+import { useState } from "react";
 import styled from "styled-components";
 
 const InputWrapper = styled.div`
@@ -33,13 +34,47 @@ const InputField = styled.input`
     color: var(--dark-color);
   }
 
+  &:disabled{
+    cursor: not-allowed;
+    opacity: 0.5;
+    width: 20%;
+  }
 `;
 
-const Input = ({ labelText, inputType, id, name, styleType='primary', step="0.001"}) => {
+const SeatContent = styled.span`
+  color: var(--light-alt-color);
+`
+
+const Input = ({
+  labelText,
+  inputType,
+  id,
+  name,
+  styleType = "primary",
+  step = "0.001",
+  inputValue = null,
+  isActive = true,
+}) => {
+  const seatDisabledContent =
+    styleType === "secondary" && !isActive
+      ? " (Vekil sayısı şehire göre seçildi)"
+      : "";
+
   return (
     <InputWrapper>
-      <Label styleType={styleType} htmlFor={name}>{labelText}</Label>
-      <InputField styleType={styleType} type={inputType} id={id} name={name} step={step} />
+      <Label styleType={styleType} htmlFor={name}>
+        {labelText}
+        <SeatContent>{seatDisabledContent}</SeatContent>
+      </Label>
+      <InputField
+        styleType={styleType}
+        type={inputType}
+        id={id}
+        name={name}
+        step={step}
+        disabled={isActive ? false : true}
+        value={isActive ? null : inputValue}
+      />
     </InputWrapper>
   );
 };

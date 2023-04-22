@@ -30,7 +30,7 @@ const FormWrapper = styled.form`
   gap: var(--gap);
 `;
 
-const InputForm = ({ numberOfParty, onCalculateResults, parties }) => {
+const InputForm = ({ numberOfParty, onCalculateResults, parties, totalSeats, isDistrictSelected,onDistrictSelection }) => {
   const partyForms = [];
 
   for (let i = 1; i <= numberOfParty; i++) {
@@ -41,6 +41,11 @@ const InputForm = ({ numberOfParty, onCalculateResults, parties }) => {
     <InputFormWrapper>
       <FormWrapper onSubmit={onCalculateResults}>
         <div>
+          <select></select>
+          <button type="button" onClick={()=>onDistrictSelection(true)}>Şehir seç</button>
+          <button type="button" onClick={()=>onDistrictSelection(false)}>Şehirsiz devam et</button>
+        </div>
+        <div>
           <Input
             labelText="Vekil Sayısı"
             inputType="number"
@@ -48,6 +53,8 @@ const InputForm = ({ numberOfParty, onCalculateResults, parties }) => {
             name="totalSeats"
             styleType='secondary'
             step={1}
+            inputValue={totalSeats}
+            isActive={!isDistrictSelected}
           />
         </div>
         {partyForms}
