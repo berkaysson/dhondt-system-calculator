@@ -14,6 +14,7 @@ const Table = styled.table`
   margin-bottom: 2rem;
   width: 100%;
   border-collapse: collapse;
+  margin-top: 1rem;
 `;
 
 const TableRow = styled.tr`
@@ -43,9 +44,13 @@ const PartySeats = styled.span`
 `;
 
 function Result({ results }) {
+  console.log(results)
+  const resultsHeaderContent = results.district != null ?
+   `${results.district} - ${results.totalSeats} Vekil`: `${results.totalSeats} Vekil`;
   return (
     <ResultsWrapper>
       <h2>SONUÇLAR</h2>
+      <h3>{resultsHeaderContent}</h3>
       <Table>
         <thead>
           <TableRow>
