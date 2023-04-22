@@ -7,43 +7,46 @@ const InputWrapper = styled.div`
   align-items: stretch;
   justify-content: space-between;
   gap: var(--gap);
-  border-bottom: 1px var(--dark-alt-color) ridge ;
+  border-bottom: 1px var(--dark-alt-color) ridge;
   padding-bottom: 3px;
 `;
 
 const Label = styled.label`
   margin-bottom: 0;
   font-size: var(--font-sl);
-  color: ${props => props.styleType === 'primary' ? 'var(--light-alt-color)' : 'var(--light-color)'};
+  color: ${(props) =>
+    props.styleType === "primary"
+      ? "var(--light-alt-color)"
+      : "var(--light-color)"};
   align-self: center;
   font-weight: bold;
 `;
 
 const InputField = styled.input`
-  padding:0.2rem 0.5rem;
+  padding: 0.2rem 0.5rem;
   font-size: var(--font-md);
   background-color: var(--light-color);
   border: 2px solid var(--dark-alt-color);
   box-sizing: border-box;
   color: var(--dark-alt-color);
   transition: all 0.3s;
-  width: ${props => props.styleType === 'primary' ? ' 33%' : '25%'};
+  width: ${(props) => (props.styleType === "primary" ? " 33%" : "25%")};
 
   &:hover {
     border-color: var(--dark-color);
     color: var(--dark-color);
   }
 
-  &:disabled{
+  &:disabled {
     cursor: not-allowed;
-    opacity: 0.5;
-    width: 20%;
+    opacity: 0.3;
+    width: 0%;
   }
 `;
 
 const SeatContent = styled.span`
   color: var(--light-alt-color);
-`
+`;
 
 const Input = ({
   labelText,
@@ -52,12 +55,18 @@ const Input = ({
   name,
   styleType = "primary",
   step = "0.001",
-  inputValue = null,
+  inputValue = "",
   isActive = true,
 }) => {
   const seatDisabledContent =
     styleType === "secondary" && !isActive
-      ? " (Vekil sayısı şehire göre seçildi)"
+      ? (
+        <span>
+          {" (Vekil sayısı şehire göre seçildi - "}
+          <span style={{color:'var(--light-color)'}}>{inputValue} vekil</span>
+          {")"}
+        </span>
+      )
       : "";
 
   return (
@@ -73,7 +82,6 @@ const Input = ({
         name={name}
         step={step}
         disabled={isActive ? false : true}
-        value={isActive ? null : inputValue}
       />
     </InputWrapper>
   );
