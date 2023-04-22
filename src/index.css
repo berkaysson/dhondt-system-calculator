@@ -68,7 +68,6 @@ h2{
   :root{
     --font-lg: 1.2rem;
     --font-xlg: 2rem;
-    --font-sl: 0.7rem;
     --font-md: 1rem;
     --padding-lg: 3rem;
   }
@@ -78,7 +77,6 @@ h2{
   :root{
     --font-lg: 1rem;
     --font-xlg: 1.8rem;
-    --font-sl: 0.6rem;
     --font-md: 0.9rem;
     --padding: 0.5rem;
     --padding-sl: 0.3rem;
