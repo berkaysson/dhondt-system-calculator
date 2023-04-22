@@ -36,8 +36,11 @@ const SeatName =styled.div`
   color: var(--light-alt-color);
 `
 
-const PartyAllocation = ({party, district}) => {
-  const seatNameList = district.parties[party.abb]
+const PartyAllocation = ({party, district}) => {  //make a seatNameContent
+  let seatNameList =[]
+  if(district != null){
+    seatNameList = district.parties[party.abb]
+  }
   return (
     <PartyHistory>
           <PartyAbbreviation>{party.abb}</PartyAbbreviation>
