@@ -1,4 +1,5 @@
 import PartyForm from "./PartyForm";
+import DistrictSelectionForm from "./DistrictSelectionForm";
 
 import Button from "../Interfaces/Button";
 
@@ -39,19 +40,15 @@ const InputForm = ({ numberOfParty, onCalculateResults, parties, totalSeats, isD
 
   return (
     <InputFormWrapper>
+    <DistrictSelectionForm onDistrictSelection = {onDistrictSelection} />
       <FormWrapper onSubmit={onCalculateResults}>
-        <div>
-          <select></select>
-          <button type="button" onClick={()=>onDistrictSelection(true)}>Şehir seç</button>
-          <button type="button" onClick={()=>onDistrictSelection(false)}>Şehirsiz devam et</button>
-        </div>
         <div>
           <Input
             labelText="Vekil Sayısı"
             inputType="number"
             id="totalSeats"
             name="totalSeats"
-            styleType='secondary'
+            styleType="secondary"
             step={1}
             inputValue={totalSeats}
             isActive={!isDistrictSelected}
