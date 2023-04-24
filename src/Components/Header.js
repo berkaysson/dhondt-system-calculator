@@ -21,6 +21,8 @@ const HeaderWrapper = styled.header`
 
 const WarningMessage = styled.p`
   color: var(--theme-color);
+  text-decoration: underline;
+  font-size: 1.2em;
 `
 
 const InfoWrapper = styled.section`
