@@ -57,7 +57,8 @@ const InputForm = ({ numberOfParty, onCalculateResults, parties, totalSeats, isD
           />
         </div>
         {partyForms}
-        <Button type="submit" text={"HESAPLA"}></Button>
+        <Button type="submit" text={"HESAPLA"} buttonType='primary'></Button>
+        <Button type="reset" text={"TEMİZLE"} buttonType='secondary'></Button>
       </FormWrapper>
     </InputFormWrapper>
   );
