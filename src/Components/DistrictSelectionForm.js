@@ -17,6 +17,13 @@ const Select = styled.select`
   border: 1px solid gray;
   font-size: var(--font-sl);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-bottom: 0.5rem;
+
+  &.active{
+    font-weight: bold;
+    background-color: var(--light-alt-color);
+    font-style: oblique;
+  }
 `;
 
 const Button = styled.button`
@@ -30,9 +37,10 @@ const Button = styled.button`
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  padding: 5px;
+  padding: 0.5rem;
   margin-top: 5px;
   transition: inherit;
+  width: 67%;
 
   &.active{
     font-weight: bold;
@@ -60,20 +68,20 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
   let selectDistrict = "";
   let selectNoDistrict = "";
   if (isDistrictSelected) {
-    // buttonContent[0] = buttonContent[0].toUpperCase();
-    // buttonContent[1] = buttonContent[1].toLowerCase();
     selectDistrict = "active";
     selectNoDistrict = "";
   } else {
-    // buttonContent[1] = buttonContent[1].toUpperCase();
-    // buttonContent[0] = buttonContent[0].toLowerCase();
     selectNoDistrict = "active";
     selectDistrict = "";
   }
 
   return (
     <SelectionFormWrapper>
-      <Select id="districtSelection" defaultValue={"ADANA"}>
+      <Select
+        className={selectDistrict}
+        id="districtSelection"
+        onChange={() => onDistrictSelection(true)}
+      >
         {districtNames.map((name) => (
           <option key={name} value={name}>
             {name}
