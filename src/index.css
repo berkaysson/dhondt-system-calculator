@@ -17,7 +17,7 @@
   --font-md: 1.1rem;
 
   --light-color: #ffffff;
-  --light-alt-color: #e5e5e5;
+  --light-alt-color: #c0c1dd;
   --dark-color: #14213d;
   --dark-alt-color: #073b4c;
   --theme-color: #fca311;
@@ -45,6 +45,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding-bottom: 1rem;
 }
 
 a{
