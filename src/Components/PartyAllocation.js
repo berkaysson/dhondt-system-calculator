@@ -34,6 +34,15 @@ const AllocationPercentage = styled.span`
 const SeatName =styled.div`
   font-size: var(--font-sl);
   color: var(--light-alt-color);
+
+  &>a{
+    text-decoration: underline;
+
+    &:hover{
+      opacity: 0.8;
+      text-decoration: none;
+    }
+  }
 `
 
 const PartyAllocation = ({party, district}) => {  //make a seatNameContent
@@ -43,20 +52,29 @@ const PartyAllocation = ({party, district}) => {  //make a seatNameContent
   }
   return (
     <PartyHistory>
-          <PartyAbbreviation>{party.abb}</PartyAbbreviation>
-          <AllocationList>
-            {party.allocationHistory.map((allocation, index) => (
-              <AllocationItem key={index}>
-                <SeatNumber>{allocation.seat}. Yerleşim</SeatNumber>
-                <AllocationPercentage>
-                  ({allocation.percentage})
-                </AllocationPercentage>
-                <SeatName>{seatNameList[index]}</SeatName>
-              </AllocationItem>
-            ))}
-          </AllocationList>
-        </PartyHistory>
-  )
+      <PartyAbbreviation>{party.abb}</PartyAbbreviation>
+      <AllocationList>
+        {party.allocationHistory.map((allocation, index) => (
+          <AllocationItem key={index}>
+            <SeatNumber>{allocation.seat}. Yerleşim</SeatNumber>
+            <AllocationPercentage>
+              ({allocation.percentage})
+            </AllocationPercentage>
+            <SeatName>
+              {" "}
+              <a
+                href={`https://www.google.com/search?q=${seatNameList[index]}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {seatNameList[index]}
+              </a>
+            </SeatName>
+          </AllocationItem>
+        ))}
+      </AllocationList>
+    </PartyHistory>
+  );
 }
 
 export default PartyAllocation;
