@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dhondt-system-calculator/static/css/main.3e8587a1.css",
-    "main.js": "/dhondt-system-calculator/static/js/main.cac1fe41.js",
+    "main.js": "/dhondt-system-calculator/static/js/main.a3a4f3b4.js",
     "index.html": "/dhondt-system-calculator/index.html",
     "main.3e8587a1.css.map": "/dhondt-system-calculator/static/css/main.3e8587a1.css.map",
-    "main.cac1fe41.js.map": "/dhondt-system-calculator/static/js/main.cac1fe41.js.map"
+    "main.a3a4f3b4.js.map": "/dhondt-system-calculator/static/js/main.a3a4f3b4.js.map"
   },
   "entrypoints": [
     "static/css/main.3e8587a1.css",
-    "static/js/main.cac1fe41.js"
+    "static/js/main.a3a4f3b4.js"
   ]
 }
