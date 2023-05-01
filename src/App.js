@@ -8,7 +8,7 @@ import Results from "./Components/Results";
 import { PARTIES } from "./Data/partiesData";
 import DISTRICTS from "./Data/districtData.json"
 
-const NUMBER_OF_PARTIES = 8;
+const NUMBER_OF_PARTIES = 6;
 
 const AppWrapper = styled.div`
   display: grid;
