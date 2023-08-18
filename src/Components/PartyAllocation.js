@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import styled from "styled-components";
 
 const PartyHistory = styled.div`
@@ -31,25 +32,29 @@ const AllocationPercentage = styled.span`
   margin-left: var(--margin);
 `;
 
-const SeatName =styled.div`
+const SeatName = styled.div`
   font-size: var(--font-sl);
   color: var(--light-alt-color);
 
-  &>a{
+  & > a {
     text-decoration: underline;
 
-    &:hover{
+    &:hover {
       opacity: 0.8;
       text-decoration: none;
     }
   }
-`
+`;
 
-const PartyAllocation = ({party, district}) => {  //make a seatNameContent
-  let seatNameList =[]
-  if(district != null){
-    seatNameList = district.parties[party.abb]
-  }
+const PartyAllocation = ({ party, district }) => {
+  const [seatNameList, setSeatNameList] = useState([]);
+  useEffect(() => {
+    if (district != null) setSeatNameList(district.parties[party.abb]);
+    else {
+      setSeatNameList([]);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [district]);
   return (
     <PartyHistory>
       <PartyAbbreviation>{party.abb}</PartyAbbreviation>
@@ -61,7 +66,7 @@ const PartyAllocation = ({party, district}) => {  //make a seatNameContent
               ({allocation.percentage})
             </AllocationPercentage>
             <SeatName>
-              {" "}
+              {console.log(seatNameList, index, district)}
               <a
                 href={`https://www.google.com/search?q=${seatNameList[index]}`}
                 target="_blank"
@@ -75,6 +80,6 @@ const PartyAllocation = ({party, district}) => {  //make a seatNameContent
       </AllocationList>
     </PartyHistory>
   );
-}
+};
 
 export default PartyAllocation;
