@@ -6,9 +6,9 @@ const ResultsWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content:center;
+  justify-content: center;
   max-width: 700px;
-`
+`;
 
 const Table = styled.table`
   margin-bottom: 2rem;
@@ -36,17 +36,17 @@ const PartyAbbreviation = styled.span`
   font-weight: bold;
 `;
 
-const PartyVotes = styled.span`
-`;
+const PartyVotes = styled.span``;
 
 const PartySeats = styled.span`
   font-weight: bold;
 `;
 
 function Result({ results }) {
-  console.log(results)
-  const resultsHeaderContent = results.district != null ?
-   `${results.district.districtName} - ${results.totalSeats} Vekil`: `${results.totalSeats} Vekil`;
+  const resultsHeaderContent =
+    results.district != null
+      ? `${results.district.districtName} - ${results.totalSeats} Vekil`
+      : `${results.totalSeats} Vekil`;
   return (
     <ResultsWrapper>
       <h2>SONUÇLAR</h2>
@@ -75,7 +75,10 @@ function Result({ results }) {
           ))}
         </tbody>
       </Table>
-      <AllocationHistory parties={results.parties} district={results.district} />
+      <AllocationHistory
+        parties={results.parties}
+        district={results.district}
+      />
     </ResultsWrapper>
   );
 }
