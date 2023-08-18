@@ -6,6 +6,7 @@ import InputForm from "./Components/InputForm";
 import Results from "./Components/Results";
 
 import { PARTIES } from "./Data/partiesData";
+import { PARTIES as MOCK_PARTIES} from "./Data/mockPartiesData";
 import DISTRICTS from "./Data/districtData.json"
 
 const NUMBER_OF_PARTIES = 6;
@@ -25,21 +26,30 @@ const AppWrapper = styled.div`
     align-items: center;
     justify-content: flex-start;
   }
-`
+`;
 
 function App() {
+  const [isDistrictSelected, setIsDistrictSelected] = useState(false);
   const [electionData, setElectionData] = useState({
     district: null,
     totalSeats: 0,
     numberOfParty: NUMBER_OF_PARTIES,
-    parties: PARTIES.slice(0, NUMBER_OF_PARTIES)
+    parties: isDistrictSelected ? PARTIES.slice(0, NUMBER_OF_PARTIES) : MOCK_PARTIES
   });
-
-  const [isDistrictSelected, setIsDistrictSelected] = useState(false);
 
   useEffect(() => {
     setIsDistrictSelected(false);
   }, []);
+
+  useEffect(()=>{
+    setElectionData({
+      district: isDistrictSelected ? electionData.district : null,
+      totalSeats: isDistrictSelected ? electionData.totalSeats : 0,
+      numberOfParty: NUMBER_OF_PARTIES,
+      parties: isDistrictSelected ? PARTIES.slice(0, NUMBER_OF_PARTIES) : MOCK_PARTIES
+    });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isDistrictSelected, electionData.district]);
 
   const handleFormSubmit = (event) => {
     event.preventDefault();
@@ -48,12 +58,12 @@ function App() {
       totalSeats: isDistrictSelected ? electionData.district.totalSeats : parseInt(event.target.totalSeats.value),
       numberOfParty: NUMBER_OF_PARTIES,
       parties: [...Array(electionData.numberOfParty)].map((_, i) => {
-        const id = PARTIES[i].id;
-        const partyName = PARTIES[i].name;
+        const id = isDistrictSelected ? PARTIES[i].id : MOCK_PARTIES[i].id;
+        const partyName = isDistrictSelected ? PARTIES[i].name : MOCK_PARTIES[i].name;
         const votes = isNaN(parseFloat(event.target[id].value))
           ? 0
           : parseFloat(event.target[id].value);
-        const abb = PARTIES[i].abb;
+        const abb = isDistrictSelected ? PARTIES[i].abb : MOCK_PARTIES[i].abb;
         return {
           name: partyName,
           votes: votes,
