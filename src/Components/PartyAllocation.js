@@ -66,7 +66,6 @@ const PartyAllocation = ({ party, district }) => {
               ({allocation.percentage})
             </AllocationPercentage>
             <SeatName>
-              {console.log(seatNameList, index, district)}
               <a
                 href={`https://www.google.com/search?q=${seatNameList[index]}`}
                 target="_blank"
