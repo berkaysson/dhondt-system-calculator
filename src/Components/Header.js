@@ -16,38 +16,55 @@ const HeaderWrapper = styled.header`
   gap: var(--gap);
 
   border-bottom: 1px solid var(--light-alt-color);
-
-`
+`;
 
 const WarningMessage = styled.p`
   color: var(--theme-color);
   text-decoration: underline;
   font-size: 1.2em;
-`
+`;
 
 const InfoWrapper = styled.section`
   width: 80%;
   & p {
-    margin-top:1rem;
+    margin-top: 1rem;
   }
 
-  &>p>a{
+  & > p > a {
     text-decoration: underline;
 
-    &:hover{
+    &:hover {
       opacity: 0.6;
     }
   }
-`
+`;
 
 function Header() {
   return (
     <HeaderWrapper>
       <InfoWrapper>
-      <h1>2023 yılı Milletvekili hesaplayıcı - D'Hondt Sistemi</h1>
-        <p>Programa vekil sayısını girin ve her parti için tahmini oy sayısını girin. "Hesapla" butonuna tıklayın ve <a href="https://tr.wikipedia.org/wiki/D%27Hondt_sistemi" target="_blank" rel="noopener noreferrer">D'Hondt sistemi</a>  ile hesaplanmış sonuçları görün.</p>
-        <p>Yüzde değerleri girilebilir, ancak vekil sayısı tam sayı olacağı için 1 vekil sapması olabilir (Eşitlik durumunda). Kesin sonuçlar için oy sayısı veya küsüratlı yüzde değerleri kullanılmalıdır.</p>
-        <WarningMessage> Her bölge değişikliğinde 'HESAPLA' butonuna basınız.</WarningMessage>
+        <h1>2023 yılı Milletvekili hesaplayıcı - D'Hondt Sistemi</h1>
+        <p>
+          Programa vekil sayısını girin ve her parti için tahmini oy sayısını
+          girin. "Hesapla" butonuna tıklayın ve{" "}
+          <a
+            href="https://tr.wikipedia.org/wiki/D%27Hondt_sistemi"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            D'Hondt sistemi
+          </a>{" "}
+          ile hesaplanmış sonuçları görün.
+        </p>
+        <p>
+          Yüzde değerleri girilebilir, ancak vekil sayısı tam sayı olacağı için
+          1 vekil sapması olabilir (Eşitlik durumunda). Kesin sonuçlar için oy
+          sayısı veya küsüratlı yüzde değerleri kullanılmalıdır.
+        </p>
+        <WarningMessage>
+          {" "}
+          Her bölge değişikliğinde 'HESAPLA' butonuna basınız.
+        </WarningMessage>
       </InfoWrapper>
     </HeaderWrapper>
   );
