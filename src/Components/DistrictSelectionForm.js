@@ -17,7 +17,6 @@ const Select = styled.select`
 
   &.active {
     font-weight: bold;
-    background-color: var(--light-alt-color);
     font-style: oblique;
   }
 `;
@@ -77,6 +76,7 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
         className={selectDistrict}
         id="districtSelection"
         onChange={() => onDistrictSelection(true)}
+        disabled={selectDistrict === "active" ? false:true}
       >
         {districtNames.map((name) => (
           <option key={name} value={name}>
