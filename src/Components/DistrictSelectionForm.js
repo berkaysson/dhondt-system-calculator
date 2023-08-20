@@ -8,6 +8,7 @@ const SelectionFormWrapper = styled.div`
   flex-direction: column;
   width: 50%;
   min-width: 160px;
+  gap: .6rem;
 `;
 
 const Select = styled.select`
@@ -17,8 +18,9 @@ const Select = styled.select`
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-bottom: 0.5rem;
   transition: opacity 0.1s;
-  opacity: 0;
+  opacity: 0.2;
   text-align: center;
+  margin-top: 1rem;
 
   &.active {
     opacity: 1;
@@ -37,7 +39,6 @@ const Button = styled.button`
   -webkit-user-select: none;
   touch-action: manipulation;
   padding: 0.5rem;
-  margin-top: 5px;
   transition: inherit;
   width: 100%;
 
@@ -76,11 +77,25 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
 
   return (
     <SelectionFormWrapper>
+      <Button
+        className={selectNoDistrict}
+        type="button"
+        onClick={() => onDistrictSelection(false)}
+      >
+        {buttonContent[1]}
+      </Button>
+      <Button
+        className={selectDistrict}
+        type="button"
+        onClick={() => onDistrictSelection(true)}
+      >
+        {buttonContent[0]}
+      </Button>
       <Select
         className={selectDistrict}
         id="districtSelection"
         onChange={() => onDistrictSelection(true)}
-        disabled={selectDistrict === "active" ? false:true}
+        disabled={selectDistrict === "active" ? false : true}
       >
         {districtNames.map((name) => (
           <option key={name} value={name}>
@@ -88,22 +103,6 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
           </option>
         ))}
       </Select>
-
-      <Button
-          className={selectNoDistrict}
-          type="button"
-          onClick={() => onDistrictSelection(false)}
-        >
-          {buttonContent[1]}
-        </Button>
-        <Button
-          className={selectDistrict}
-          type="button"
-          onClick={() => onDistrictSelection(true)}
-        >
-          {buttonContent[0]}
-        </Button>
-
     </SelectionFormWrapper>
   );
 };
