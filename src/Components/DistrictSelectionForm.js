@@ -6,6 +6,8 @@ const SelectionFormWrapper = styled.div`
   text-align: center;
   display: flex;
   flex-direction: column;
+  width: 50%;
+  min-width: 160px;
 `;
 
 const Select = styled.select`
@@ -16,6 +18,7 @@ const Select = styled.select`
   margin-bottom: 0.5rem;
   transition: opacity 0.1s;
   opacity: 0;
+  text-align: center;
 
   &.active {
     opacity: 1;
@@ -36,7 +39,7 @@ const Button = styled.button`
   padding: 0.5rem;
   margin-top: 5px;
   transition: inherit;
-  width: 67%;
+  width: 100%;
 
   &.active {
     font-weight: bold;
@@ -85,7 +88,7 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
           </option>
         ))}
       </Select>
-      <div>
+
       <Button
           className={selectNoDistrict}
           type="button"
@@ -100,7 +103,7 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
         >
           {buttonContent[0]}
         </Button>
-      </div>
+
     </SelectionFormWrapper>
   );
 };
