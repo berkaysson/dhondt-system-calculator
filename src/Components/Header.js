@@ -43,7 +43,7 @@ function Header() {
   return (
     <HeaderWrapper>
       <InfoWrapper>
-        <h1>2023 yılı Milletvekili hesaplayıcı - D'Hondt Sistemi</h1>
+        <h1>D'Hondt Sistemi Milletvekili hesaplayıcı</h1>
         <p>
           Programa vekil sayısını girin ve her parti için tahmini oy sayısını
           girin. "Hesapla" butonuna tıklayın ve{" "}
@@ -57,9 +57,22 @@ function Header() {
           ile hesaplanmış sonuçları görün.
         </p>
         <p>
-          Yüzde değerleri girilebilir, ancak vekil sayısı tam sayı olacağı için
-          1 vekil sapması olabilir (Eşitlik durumunda). Kesin sonuçlar için oy
-          sayısı veya küsüratlı yüzde değerleri kullanılmalıdır.
+          <br />
+          <a
+            href="https://tr.wikipedia.org/wiki/D%27Hondt_sistemi"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            D'Hondt sistemi
+          </a>{" "}
+          Nedir ?<br />
+          D'Hondt sistemi, seçimlerde adayların veya partilerin aldıkları oy
+          oranına göre milletvekili koltuklarının dağıtıldığı bir yöntemdir.
+          Seçim bölgesindeki toplam oy sayısına bir dizi bölme işlemi
+          uygulanarak milletvekili koltukları tahsis edilir. En fazla oy alan
+          parti veya aday önce bir koltuk alır, ardından aldığı oy sayısı
+          bölünerek diğer koltuklar dağıtılır. Bu sistem, hem büyük partilerin
+          hem de küçük partilerin temsil edilmesini amaçlar.
         </p>
         <WarningMessage>
           {" "}
