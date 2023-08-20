@@ -14,10 +14,11 @@ const Select = styled.select`
   font-size: var(--font-sl);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-bottom: 0.5rem;
+  transition: opacity 0.1s;
+  opacity: 0;
 
   &.active {
-    font-weight: bold;
-    font-style: oblique;
+    opacity: 1;
   }
 `;
 
@@ -85,19 +86,19 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
         ))}
       </Select>
       <div>
+      <Button
+          className={selectNoDistrict}
+          type="button"
+          onClick={() => onDistrictSelection(false)}
+        >
+          {buttonContent[1]}
+        </Button>
         <Button
           className={selectDistrict}
           type="button"
           onClick={() => onDistrictSelection(true)}
         >
           {buttonContent[0]}
-        </Button>
-        <Button
-          className={selectNoDistrict}
-          type="button"
-          onClick={() => onDistrictSelection(false)}
-        >
-          {buttonContent[1]}
         </Button>
       </div>
     </SelectionFormWrapper>
