@@ -6,20 +6,16 @@ const SelectionFormWrapper = styled.div`
   text-align: center;
   display: flex;
   flex-direction: column;
-`
-
-const ButtonContainer = styled.div`
-  
-`
+`;
 
 const Select = styled.select`
   padding: 0.5rem;
   border: 1px solid gray;
   font-size: var(--font-sl);
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-bottom: 0.5rem;
 
-  &.active{
+  &.active {
     font-weight: bold;
     background-color: var(--light-alt-color);
     font-style: oblique;
@@ -42,7 +38,7 @@ const Button = styled.button`
   transition: inherit;
   width: 67%;
 
-  &.active{
+  &.active {
     font-weight: bold;
     background-color: var(--light-alt-color);
     font-style: oblique;
@@ -60,11 +56,11 @@ const Button = styled.button`
   &:active {
     border-color: var(--dark-alt-color);
   }
-`
+`;
 
 const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
   const districtNames = Object.keys(DISTRICTS);
-  let buttonContent =['Bölgeyi seç | Onayla', 'Bölgesiz devam et'];
+  let buttonContent = ["Bölgeyi seç | Onayla", "Bölgesiz devam et"];
   let selectDistrict = "";
   let selectNoDistrict = "";
   if (isDistrictSelected) {
@@ -88,14 +84,22 @@ const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
           </option>
         ))}
       </Select>
-      <ButtonContainer>
-      <Button className={selectDistrict} type="button" onClick={() => onDistrictSelection(true)}>
-        {buttonContent[0]}
-      </Button>
-      <Button className={selectNoDistrict} type="button" onClick={() => onDistrictSelection(false)}>
-      {buttonContent[1]}
-      </Button>
-      </ButtonContainer>
+      <div>
+        <Button
+          className={selectDistrict}
+          type="button"
+          onClick={() => onDistrictSelection(true)}
+        >
+          {buttonContent[0]}
+        </Button>
+        <Button
+          className={selectNoDistrict}
+          type="button"
+          onClick={() => onDistrictSelection(false)}
+        >
+          {buttonContent[1]}
+        </Button>
+      </div>
     </SelectionFormWrapper>
   );
 };
