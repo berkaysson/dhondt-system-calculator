@@ -60,7 +60,7 @@ const Button = styled.button`
 
 const DistrictSelectionForm = ({ onDistrictSelection, isDistrictSelected }) => {
   const districtNames = Object.keys(DISTRICTS);
-  let buttonContent = ["Bölgeyi seç | Onayla", "Bölgesiz devam et"];
+  let buttonContent = ["Bölgeyi seç | 2023 TR", "Bölgesiz devam et"];
   let selectDistrict = "";
   let selectNoDistrict = "";
   if (isDistrictSelected) {
