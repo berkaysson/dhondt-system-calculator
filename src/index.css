@@ -73,15 +73,3 @@ h2{
     --padding-lg: 2rem;
   }
 }
-
-@media screen and (max-width: 480px) {
-  :root{
-    --font-lg: 1rem;
-    --font-xlg: 1.8rem;
-    --font-md: 0.9rem;
-    --padding: 0.5rem;
-    --padding-sl: 0.3rem;
-    --padding-lg: 2rem;
-    --margin: 0.5rem;
-  }
-}
